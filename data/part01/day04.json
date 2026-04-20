@@ -1,0 +1,551 @@
+{
+  "day": 4,
+  "words": [
+    {
+      "id": "121",
+      "korean": "가치",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "價值",
+          "exampleKr": "시간의 가치를 알아야 한다.",
+          "exampleZh": "要懂得時間的價值。"
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "korean": "관심",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "關心、興趣",
+          "exampleKr": "환경 문제에 관심이 많다.",
+          "exampleZh": "對環境問題很有興趣。"
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "korean": "기술",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "技術",
+          "exampleKr": "기술 발전이 빠르다.",
+          "exampleZh": "技術發展很快。"
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "korean": "내용",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "內容",
+          "exampleKr": "회의 내용을 정리하다.",
+          "exampleZh": "整理會議內容。"
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "korean": "능력",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "能力",
+          "exampleKr": "문제 해결 능력이 중요하다.",
+          "exampleZh": "解決問題的能力很重要。"
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "korean": "발전",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "發展",
+          "exampleKr": "회사가 크게 발전했다.",
+          "exampleZh": "公司有很大的發展。"
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "korean": "분석",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "分析",
+          "exampleKr": "데이터를 분석하다.",
+          "exampleZh": "分析數據。"
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "korean": "비용",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "費用",
+          "exampleKr": "비용을 줄이다.",
+          "exampleZh": "降低費用。"
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "korean": "상태",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "狀態",
+          "exampleKr": "건강 상태가 좋다.",
+          "exampleZh": "健康狀況很好。"
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "korean": "선호",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "偏好",
+          "exampleKr": "고객의 선호를 분석하다.",
+          "exampleZh": "分析顧客偏好。"
+        }
+      ]
+    },
+
+    {
+      "id": "131",
+      "korean": "성과",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "成果",
+          "exampleKr": "좋은 성과를 냈다.",
+          "exampleZh": "取得了好成果。"
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "korean": "속도",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "速度",
+          "exampleKr": "속도가 빠르다.",
+          "exampleZh": "速度很快。"
+        }
+      ]
+    },
+    {
+      "id": "133",
+      "korean": "수준",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "水準",
+          "exampleKr": "기술 수준이 높다.",
+          "exampleZh": "技術水準很高。"
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "korean": "시스템",
+      "pos": "명",
+      "pronunciation": "(system)",
+      "meanings": [
+        {
+          "chinese": "系統",
+          "exampleKr": "시스템을 구축하다.",
+          "exampleZh": "建置系統。"
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "korean": "요구",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "需求、要求",
+          "exampleKr": "고객의 요구를 반영하다.",
+          "exampleZh": "反映顧客需求。"
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "korean": "이익",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "利益",
+          "exampleKr": "이익을 얻다.",
+          "exampleZh": "獲得利益。"
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "korean": "전략",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "策略",
+          "exampleKr": "마케팅 전략을 세우다.",
+          "exampleZh": "制定行銷策略。"
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "korean": "조직",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "組織",
+          "exampleKr": "조직을 관리하다.",
+          "exampleZh": "管理組織。"
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "korean": "평가",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "評價",
+          "exampleKr": "성과를 평가하다.",
+          "exampleZh": "評估成果。"
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "korean": "효과",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "效果",
+          "exampleKr": "광고 효과가 크다.",
+          "exampleZh": "廣告效果很好。"
+        }
+      ]
+    },
+
+    {
+      "id": "141",
+      "korean": "환경",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "環境",
+          "exampleKr": "환경을 보호하다.",
+          "exampleZh": "保護環境。"
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "korean": "활용",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "活用",
+          "exampleKr": "자원을 활용하다.",
+          "exampleZh": "活用資源。"
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "korean": "확대",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "擴大",
+          "exampleKr": "시장을 확대하다.",
+          "exampleZh": "擴大市場。"
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "korean": "효율",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "效率",
+          "exampleKr": "업무 효율을 높이다.",
+          "exampleZh": "提高工作效率。"
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "korean": "구조",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "結構",
+          "exampleKr": "조직 구조를 바꾸다.",
+          "exampleZh": "改變組織結構。"
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "korean": "관리",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "管理",
+          "exampleKr": "시간을 잘 관리하다.",
+          "exampleZh": "好好管理時間。"
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "korean": "도입",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "導入",
+          "exampleKr": "새 시스템을 도입하다.",
+          "exampleZh": "導入新系統。"
+        }
+      ]
+    },
+    {
+      "id": "148",
+      "korean": "반응",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "反應",
+          "exampleKr": "고객 반응이 좋다.",
+          "exampleZh": "顧客反應很好。"
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "korean": "성장",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "成長",
+          "exampleKr": "회사가 빠르게 성장했다.",
+          "exampleZh": "公司快速成長。"
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "korean": "위험",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "風險",
+          "exampleKr": "위험을 줄이다.",
+          "exampleZh": "降低風險。"
+        }
+      ]
+    },
+
+    {
+      "id": "151",
+      "korean": "기준",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "標準",
+          "exampleKr": "평가 기준을 정하다.",
+          "exampleZh": "制定評估標準。"
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "korean": "도움",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "幫助",
+          "exampleKr": "많은 도움이 되었다.",
+          "exampleZh": "幫助很大。"
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "korean": "문제",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "問題",
+          "exampleKr": "문제를 해결하다.",
+          "exampleZh": "解決問題。"
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "korean": "상황",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "情況",
+          "exampleKr": "상황을 파악하다.",
+          "exampleZh": "掌握情況。"
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "korean": "성과물",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "成果物",
+          "exampleKr": "성과물을 제출하다.",
+          "exampleZh": "提交成果。"
+        }
+      ]
+    },
+    {
+      "id": "156",
+      "korean": "요인",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "要因",
+          "exampleKr": "성공 요인을 분석하다.",
+          "exampleZh": "分析成功因素。"
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "korean": "이해",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "理解",
+          "exampleKr": "내용을 이해하다.",
+          "exampleZh": "理解內容。"
+        }
+      ]
+    },
+    {
+      "id": "158",
+      "korean": "적용",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "應用",
+          "exampleKr": "기술을 적용하다.",
+          "exampleZh": "應用技術。"
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "korean": "조건",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "條件",
+          "exampleKr": "조건을 만족하다.",
+          "exampleZh": "滿足條件。"
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "korean": "측면",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "面向、層面",
+          "exampleKr": "다양한 측면에서 분석하다.",
+          "exampleZh": "從多個層面分析。"
+        }
+      ]
+    }
+  ],
+
+  "tip": {
+    "title": "-화",
+    "titleZh": "-化",
+    "description": "接在名詞後面，表示變成某種狀態或使之變化，是TOPIK常見動作名詞化形式",
+    "table": [
+      { "kr": "현대화", "zh": "現代化" },
+      { "kr": "국제화", "zh": "國際化" },
+      { "kr": "자동화", "zh": "自動化" },
+      { "kr": "정보화", "zh": "資訊化" },
+      { "kr": "산업화", "zh": "產業化" },
+      { "kr": "도시화", "zh": "都市化" },
+      { "kr": "대중화", "zh": "大眾化" },
+      { "kr": "전문화", "zh": "專業化" },
+      { "kr": "단순화", "zh": "簡單化" },
+      { "kr": "구체화", "zh": "具體化" },
+      { "kr": "체계화", "zh": "體系化" },
+      { "kr": "합리화", "zh": "合理化" },
+      { "kr": "활성화", "zh": "活性化" },
+      { "kr": "고급화", "zh": "高級化" },
+      { "kr": "다양화", "zh": "多樣化" }
+    ]
+  }
+}
