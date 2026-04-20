@@ -190,7 +190,7 @@ async function showDayMenu(pi, di) {
     <div class="menu-item" id="mi-ov">
       <div class="menu-icon ic-blue">📋</div>
       <div class="menu-info">
-        <div class="menu-title">當天單字總覽</div>
+        <div class="menu-title">單字總覽</div>
         <div class="menu-desc">所有 ${total} 個單字及學習狀態</div>
       </div>
       <div class="menu-arr">›</div>
@@ -198,7 +198,7 @@ async function showDayMenu(pi, di) {
     <div class="menu-item" id="mi-rv">
       <div class="menu-icon ic-red">🔁</div>
       <div class="menu-info">
-        <div class="menu-title">當天複習池</div>
+        <div class="menu-title">複習池</div>
         <div class="menu-desc">${unkWords.length} 個不會的單字</div>
       </div>
       <div class="menu-arr">›</div>
