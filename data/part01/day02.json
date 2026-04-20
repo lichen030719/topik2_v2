@@ -2,85 +2,670 @@
   "day": 2,
   "words": [
     {
-      "id": "021",
-      "korean": "감소하다",
-      "pronunciation": null,
-      "pos": "동",
+      "id": "041",
+      "korean": "각종",
+      "pronunciation": "[각쫑]",
+      "pos": "명",
       "meanings": [
         {
-          "chinese": "減少",
-          "exampleKr": "인구가 점점 감소하고 있다.",
-          "exampleZh": "人口正在逐漸減少。"
+          "chinese": "各種",
+          "exampleKr": "이 기간 동안 모든 고객은 각종 음료수를 무료로 마실 수 있다.",
+          "exampleZh": "在這段期間內，所有顧客都可以免費喝各種飲料。"
         }
       ]
     },
     {
-      "id": "022",
-      "korean": "증가하다",
+      "id": "042",
+      "korean": "개선",
       "pronunciation": null,
-      "pos": "동",
+      "pos": "명",
       "meanings": [
         {
-          "chinese": "增加",
-          "exampleKr": "외국인 관광객이 매년 증가하고 있다.",
-          "exampleZh": "外國觀光客每年都在增加。"
+          "chinese": "改善",
+          "exampleKr": "계속되는 문제를 개선하도록 노력해야 한다.",
+          "exampleZh": "必須努力改善持續出現的問題。"
         }
       ]
     },
     {
-      "id": "023",
+      "id": "043",
+      "korean": "담임",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "班導師",
+          "exampleKr": "시험 담임에는 학교에 들어갈 수 없다.",
+          "exampleZh": "考試當天不能進入學校。"
+        }
+      ]
+    },
+    {
+      "id": "044",
+      "korean": "대체로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "大致上，大體上",
+          "exampleKr": "이 지역의 물가는 대체로 비싼 편이다.",
+          "exampleZh": "這個地區的物價大致上偏高。"
+        }
+      ]
+    },
+    {
+      "id": "045",
+      "korean": "도서",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "圖書",
+          "exampleKr": "이런 학교의 일원이라도 도서를 빌릴 수 있다.",
+          "exampleZh": "即使是一般人也可以借閱這所學校的圖書。"
+        }
+      ]
+    },
+    {
+      "id": "046",
+      "korean": "면접",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "面試",
+          "exampleKr": "어제 면접 시험을 볼 자신감이 넘쳤었다.",
+          "exampleZh": "昨天去參加面試考試時充滿自信。"
+        }
+      ]
+    },
+    {
+      "id": "047",
+      "korean": "문의",
+      "pronunciation": "[무니]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "詢問，洽詢",
+          "exampleKr": "문의 전화가 너무 많아서 설명할 시간이 없다.",
+          "exampleZh": "詢問電話太多了，連說明的時間都沒有。"
+        }
+      ]
+    },
+    {
+      "id": "048",
+      "korean": "개성",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "個性",
+          "exampleKr": "개성이 강한 사람일수록 인간관계가 어렵다고 한다.",
+          "exampleZh": "據說個性強烈的人，人際關係越困難。"
+        }
+      ]
+    },
+    {
+      "id": "049",
+      "korean": "고객",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "顧客",
+          "exampleKr": "고객의 안전을 위해 책임자가 현장에서 도와준다.",
+          "exampleZh": "為了顧客的安全，負責人會在現場協助。"
+        }
+      ]
+    },
+    {
+      "id": "050",
+      "korean": "그래프",
+      "pronunciation": "(graph)",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "圖表，曲線圖",
+          "exampleKr": "연구 결과를 그래프로 나타낼 수 있다.",
+          "exampleZh": "可以用圖表呈現研究結果。"
+        }
+      ]
+    },
+    {
+      "id": "051",
+      "korean": "발표",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "發表",
+          "exampleKr": "내일 세미나에서 성과 발표를 한다.",
+          "exampleZh": "明天要在研討會上發表成果。"
+        }
+      ]
+    },
+    {
+      "id": "052",
+      "korean": "선정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "選定",
+          "exampleKr": "이번 학기에 우수한 학생으로 선정되었다.",
+          "exampleZh": "這學期被選為優秀學生。"
+        }
+      ]
+    },
+    {
+      "id": "053",
+      "korean": "성별",
+      "pronunciation": "[성별]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "性別",
+          "exampleKr": "이 상점은 성별에 관계없이 누구나 입을 수 있다.",
+          "exampleZh": "這家商店的衣服不分性別，任何人都能穿。"
+        }
+      ]
+    },
+    {
+      "id": "054",
+      "korean": "아이디어",
+      "pronunciation": "(idea)",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "點子，想法",
+          "exampleKr": "이번에 내가 낸 아이디어로 신상품을 만들었다.",
+          "exampleZh": "這次以我提出的點子做出了新商品。"
+        }
+      ]
+    },
+    {
+      "id": "055",
+      "korean": "연도",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "年度",
+          "exampleKr": "연도마다 유행하는 스타일이 다르다.",
+          "exampleZh": "每個年度流行的風格都不同。"
+        }
+      ]
+    },
+    {
+      "id": "056",
+      "korean": "운영",
+      "pronunciation": "[우녕]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "營運，經營",
+          "exampleKr": "건강수가 회사는 무료 영화 혜택이 정말 중요하다.",
+          "exampleZh": "對經營公司來說，免費電影這類福利真的很重要。"
+        }
+      ]
+    },
+    {
+      "id": "057",
+      "korean": "원서",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "申請書",
+          "exampleKr": "한 달 동안 원서를 제출할 수 있다.",
+          "exampleZh": "可以在一個月內提交申請書。"
+        }
+      ]
+    },
+    {
+      "id": "058",
+      "korean": "유료",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "收費",
+          "exampleKr": "우리 동네는 골목이 너무 좁아서 유료 주차장을 이용해야 한다.",
+          "exampleZh": "我們這附近巷子太窄，所以得使用收費停車場。"
+        }
+      ]
+    },
+    {
+      "id": "059",
+      "korean": "인원",
+      "pronunciation": "[이원]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人員，人數",
+          "exampleKr": "수업 후에 적은 인원이 남아서 청소를 하고 있다.",
+          "exampleZh": "下課後只剩少數人留下來打掃。"
+        }
+      ]
+    },
+    {
+      "id": "060",
+      "korean": "입장",
+      "pronunciation": "[입짱]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "入場",
+          "exampleKr": "입장을 할 때 입장료를 내지 않아도 된다.",
+          "exampleZh": "入場時不用另外支付入場費。"
+        },
+        {
+          "chinese": "立場",
+          "exampleKr": "이번 문제에 대해 정부에서 입장을 밝히려고 한다.",
+          "exampleZh": "政府打算對這個問題表明立場。"
+        }
+      ]
+    },
+    {
+      "id": "061",
+      "korean": "제공",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "提供",
+          "exampleKr": "요리 수업 재료는 학생에서 무료로 제공해 준다.",
+          "exampleZh": "烹飪課的材料會免費提供給學生。"
+        }
+      ]
+    },
+    {
+      "id": "062",
+      "korean": "조사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "調查",
+          "exampleKr": "인구 조사에 필요한 인원은 지난해의 두 배에 이른다.",
+          "exampleZh": "人口調查所需的人員達到去年的兩倍。"
+        }
+      ]
+    },
+    {
+      "id": "063",
+      "korean": "관람",
+      "pronunciation": "[괄람]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "觀覽，參觀",
+          "exampleKr": "아이들과 함께 전시회를 관람할 수 있다.",
+          "exampleZh": "可以和小朋友一起參觀展覽。"
+        }
+      ]
+    },
+    {
+      "id": "064",
+      "korean": "지원하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "支援，申請",
+          "exampleKr": "우리 학교는 모든 학과에 연구비를 지원해 준다.",
+          "exampleZh": "我們學校會支援所有學系研究費。"
+        },
+        {
+          "chinese": "想應徵",
+          "exampleKr": "우리 회사는 오래 전부터 지원하고 싶었다.",
+          "exampleZh": "我很久以前就想應徵我們公司。"
+        }
+      ]
+    },
+    {
+      "id": "065",
+      "korean": "차이",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "差異",
+          "exampleKr": "그 두 사람은 성격 차이로 헤어졌다.",
+          "exampleZh": "那兩個人因為個性差異而分手了。"
+        }
+      ]
+    },
+    {
+      "id": "066",
+      "korean": "참가",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "參加",
+          "exampleKr": "그 수업은 참가할 때마다 너무 신중히 체크만이다.",
+          "exampleZh": "每次參加那門課時，都會非常仔細地確認。"
+        }
+      ]
+    },
+    {
+      "id": "067",
+      "korean": "추천",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "推薦",
+          "exampleKr": "케이크를 만들고 싶은데 추천하는 도구나 기계가 있어요?",
+          "exampleZh": "我想做蛋糕，有推薦的工具或機器嗎？"
+        }
+      ]
+    },
+    {
+      "id": "068",
+      "korean": "단체",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "團體",
+          "exampleKr": "이번 일정의 큰 행사에 여러 단체가 참여한 것으로 보인다.",
+          "exampleZh": "看起來這次大型活動有多個團體參加。"
+        }
+      ]
+    },
+    {
+      "id": "069",
+      "korean": "달하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "達到",
+          "exampleKr": "이번 듣기 시험은 너무 쉬워서 많은 학생들이 만점에 달했다.",
+          "exampleZh": "這次聽力考試太簡單，所以很多學生都達到滿分。"
+        }
+      ]
+    },
+    {
+      "id": "070",
+      "korean": "공연",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "公演，演出",
+          "exampleKr": "음악을 준비하면서 동시에 친구들과 더 친해졌다.",
+          "exampleZh": "在準備演出的同時，也和朋友變得更熟了。"
+        }
+      ]
+    },
+    {
+      "id": "071",
+      "korean": "등록",
+      "pronunciation": "[등녹]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "登錄，註冊",
+          "exampleKr": "등록을 마치면 정식 회원으로 여러 가지 활동에 참여할 수 있다.",
+          "exampleZh": "完成註冊後，就能以正式會員身分參與各種活動。"
+        }
+      ]
+    },
+    {
+      "id": "072",
+      "korean": "문학",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "文學",
+          "exampleKr": "많은 문학 작품 가운데 이 소설을 가장 좋아한다.",
+          "exampleZh": "在眾多文學作品中，我最喜歡這本小說。"
+        }
+      ]
+    },
+    {
+      "id": "073",
       "korean": "비율",
       "pronunciation": null,
       "pos": "명",
       "meanings": [
         {
           "chinese": "比率",
-          "exampleKr": "합격 비율이 점점 낮아지고 있다.",
-          "exampleZh": "合格比率正在逐漸降低。"
+          "exampleKr": "올해 태어난 아기들은 남자 아이보다 여자 아이 비율이 높다.",
+          "exampleZh": "今年出生的嬰兒中，女嬰比例比男嬰高。"
         }
       ]
     },
     {
-      "id": "024",
-      "korean": "현황",
+      "id": "074",
+      "korean": "상승",
       "pronunciation": null,
       "pos": "명",
       "meanings": [
         {
-          "chinese": "現況",
-          "exampleKr": "현재 취업 현황을 파악하는 것이 중요하다.",
-          "exampleZh": "掌握目前就業現況是很重要的。"
+          "chinese": "上升",
+          "exampleKr": "이자가 너무 낮아서 물가 상승을 따라가지 못한다.",
+          "exampleZh": "利率太低，追不上物價上漲。"
         }
       ]
     },
     {
-      "id": "025",
-      "korean": "추세",
+      "id": "075",
+      "korean": "연간",
       "pronunciation": null,
       "pos": "명",
       "meanings": [
         {
-          "chinese": "趨勢",
-          "exampleKr": "요즘 친환경 제품을 선호하는 추세이다.",
-          "exampleZh": "最近有偏好環保產品的趨勢。"
+          "chinese": "年度，每年",
+          "exampleKr": "한국인의 연간 책 구매액에 대한 조사 보고서가 있다.",
+          "exampleZh": "有一份關於韓國人年度購書額的調查報告。"
+        }
+      ]
+    },
+    {
+      "id": "076",
+      "korean": "연령",
+      "pronunciation": "[열령]",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "年齡",
+          "exampleKr": "우리 회사는 연령에 제한이 없어 누구나 지원할 수 있다.",
+          "exampleZh": "我們公司沒有年齡限制，任何人都可以應徵。"
+        }
+      ]
+    },
+    {
+      "id": "077",
+      "korean": "열리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "開啟，召開",
+          "exampleKr": "이번 회의는 참여하는 사람이 많기 때문에 강당에서 열린다.",
+          "exampleZh": "這次會議因為參加的人很多，所以會在講堂舉行。"
+        }
+      ]
+    },
+    {
+      "id": "078",
+      "korean": "예정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "預定",
+          "exampleKr": "여행보다 빨리 이벤트가 끝났다.",
+          "exampleZh": "活動比預定更早結束了。"
+        }
+      ]
+    },
+    {
+      "id": "079",
+      "korean": "이르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "到達",
+          "exampleKr": "이제는 졸업생이는 사람이 점점 일찍 결혼에 이르렀다.",
+          "exampleZh": "現在有越來越多人更早步入婚姻。"
+        },
+        {
+          "chinese": "還早",
+          "exampleKr": "아직 일찍 이르다 주소로 물건을 보냈다.",
+          "exampleZh": "還太早就把東西寄到那個地址了。"
+        }
+      ]
+    },
+    {
+      "id": "080",
+      "korean": "이벤트",
+      "pronunciation": "(event)",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "活動",
+          "exampleKr": "이벤트의 성공으로 판매 증가를 예상하고 있다.",
+          "exampleZh": "因為活動很成功，預計銷售量會增加。"
         }
       ]
     }
   ],
   "tip": {
-    "title": "-지",
-    "titleZh": "不…地；表否定",
-    "description": "連結語尾，接動詞／形容詞語幹後，表示否定狀態",
+    "title": "-자",
+    "titleZh": "-者",
+    "description": "接在部分名詞後面，表示從事該工作、使用該物、與該身分相關的人。",
     "table": [
-      { "kr": "가지 않고",  "zh": "不去地" },
-      { "kr": "하지 않고",  "zh": "不做地" },
-      { "kr": "먹지 않고",  "zh": "不吃地" },
-      { "kr": "보지 않고",  "zh": "不看地" },
-      { "kr": "말하지 않고","zh": "不說地" },
-      { "kr": "오지 않고",  "zh": "不來地" },
-      { "kr": "가지 않다",  "zh": "不去" },
-      { "kr": "하지 않다",  "zh": "不做" },
-      { "kr": "먹지 않다",  "zh": "不吃" }
+      {
+        "kr": "기술자",
+        "zh": "技術人員、工程師"
+      },
+      {
+        "kr": "노동자",
+        "zh": "勞動者"
+      },
+      {
+        "kr": "노약자",
+        "zh": "老弱者"
+      },
+      {
+        "kr": "보행자",
+        "zh": "步行者、行人"
+      },
+      {
+        "kr": "사용자",
+        "zh": "使用者"
+      },
+      {
+        "kr": "사회자",
+        "zh": "主持人"
+      },
+      {
+        "kr": "소비자",
+        "zh": "消費者"
+      },
+      {
+        "kr": "시청자",
+        "zh": "觀眾"
+      },
+      {
+        "kr": "약혼자",
+        "zh": "訂婚者"
+      },
+      {
+        "kr": "연구자",
+        "zh": "研究者"
+      },
+      {
+        "kr": "연기자",
+        "zh": "演員"
+      },
+      {
+        "kr": "이용자",
+        "zh": "使用者"
+      },
+      {
+        "kr": "피해자",
+        "zh": "被害者"
+      },
+      {
+        "kr": "저자",
+        "zh": "作者"
+      },
+      {
+        "kr": "지도자",
+        "zh": "領導者"
+      },
+      {
+        "kr": "진행자",
+        "zh": "主持人"
+      },
+      {
+        "kr": "책임자",
+        "zh": "負責人"
+      },
+      {
+        "kr": "초보자",
+        "zh": "初學者、新手"
+      },
+      {
+        "kr": "판매자",
+        "zh": "販賣者"
+      },
+      {
+        "kr": "합격자",
+        "zh": "合格者"
+      },
+      {
+        "kr": "피용자",
+        "zh": "雇用者"
+      },
+      {
+        "kr": "희망자",
+        "zh": "志願者"
+      },
+      {
+        "kr": "가입자",
+        "zh": "加入者、用戶"
+      },
+      {
+        "kr": "경쟁자",
+        "zh": "競爭者"
+      },
+      {
+        "kr": "관계자",
+        "zh": "相關人士"
+      },
+      {
+        "kr": "교육자",
+        "zh": "教育者"
+      },
+      {
+        "kr": "근로자",
+        "zh": "勞動者"
+      },
+      {
+        "kr": "담당자",
+        "zh": "負責人"
+      },
+      {
+        "kr": "독신자",
+        "zh": "單身的人"
+      },
+      {
+        "kr": "피해자",
+        "zh": "受害者"
+      },
+      {
+        "kr": "배우자",
+        "zh": "配偶"
+      }
     ]
   }
 }
