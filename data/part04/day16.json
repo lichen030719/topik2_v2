@@ -1,0 +1,572 @@
+{
+  "day": 16,
+  "words": [
+    {
+      "id": "601",
+      "korean": "진로",
+      "pronunciation": "질로",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "前途、發展方向",
+          "exampleKr": "자신의 진로를 고민하면서 스스로를 더 알아간다.",
+          "exampleZh": "在煩惱自己發展方向的同時，更加了解自己了。"
+        }
+      ]
+    },
+    {
+      "id": "602",
+      "korean": "용도",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "用途",
+          "exampleKr": "설명서를 보면서 용도에 맞게 도구를 사용하는 방법을 배운다.",
+          "exampleZh": "看著說明書依用途學使用道具的方法。"
+        }
+      ]
+    },
+    {
+      "id": "603",
+      "korean": "교복",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "校服",
+          "exampleKr": "요즘은 여학생의 바지 교복도 인기다.",
+          "exampleZh": "最近女學生的褲裝校服也很受歡迎。"
+        }
+      ]
+    },
+    {
+      "id": "604",
+      "korean": "부근",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "附近",
+          "exampleKr": "학교 부근에 문방구와 서점뿐만 아니라 분식집도 많은 편이다.",
+          "exampleZh": "學校附近不但文具店及書店偏多，而且也有很多小吃店。"
+        }
+      ]
+    },
+    {
+      "id": "605",
+      "korean": "이동",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "移動",
+          "exampleKr": "학교에 갈 때나 짧은 거리를 이동할 때 단어를 외운다.",
+          "exampleZh": "去學校時或短距離移動時背單字。"
+        }
+      ]
+    },
+    {
+      "id": "606",
+      "korean": "견학",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "參觀學習",
+          "exampleKr": "한 학기에 두 번씩 소풍이나 견학을 가곤 했다.",
+          "exampleZh": "每一學期都有去過兩次校外教學或參觀學習。"
+        }
+      ]
+    },
+    {
+      "id": "607",
+      "korean": "이따",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "等一會兒",
+          "exampleKr": "이따 수업 후에 간식을 사 먹으러 분식집에 가기로 했다.",
+          "exampleZh": "等一會兒下課後決定要去小吃店買點心吃。"
+        }
+      ]
+    },
+    {
+      "id": "608",
+      "korean": "교양",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "教養",
+          "exampleKr": "교양 있는 사람은 말뿐만 아니라 행동에서도 드러나기 마련이다.",
+          "exampleZh": "有教養的人不只是說話，也必會表現在行為中。"
+        }
+      ]
+    },
+    {
+      "id": "609",
+      "korean": "그룹",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "小組、團體",
+          "exampleKr": "방과 후 스터디그룹 덕분에 성적이 많이 향상되었다.",
+          "exampleZh": "托下課後讀書會的福，成績進步很多。"
+        }
+      ]
+    },
+    {
+      "id": "610",
+      "korean": "올바르다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "對、正確",
+          "exampleKr": "그 친구와 이야기를 나누자마자 생각이 올바르다는 것을 알았다.",
+          "exampleZh": "跟那個朋友一聊天就知道（他的）想法很正確。"
+        }
+      ]
+    },
+    {
+      "id": "611",
+      "korean": "바로잡다",
+      "pronunciation": "바로잡따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "矯正",
+          "exampleKr": "틀린 행동을 바로잡게 하려면 충고와 격려가 필요하다고 생각한다.",
+          "exampleZh": "為了矯正錯誤的行為，我認為需要勸告及鼓勵。"
+        }
+      ]
+    },
+    {
+      "id": "612",
+      "korean": "연속",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "連續",
+          "exampleKr": "이주 연속 비 때문에 체육 시간에 밖에 나가지 못했다.",
+          "exampleZh": "因為連續兩個星期下雨的關係，無法出去上體育課。"
+        }
+      ]
+    },
+    {
+      "id": "613",
+      "korean": "격려",
+      "pronunciation": "경녀",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "鼓勵",
+          "exampleKr": "아이들은 격려를 받을 때 더 자라고 성숙해진다.",
+          "exampleZh": "小孩們獲得鼓勵時會更加成長和成熟。"
+        }
+      ]
+    },
+    {
+      "id": "614",
+      "korean": "결국",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "結果",
+          "exampleKr": "매일 늦게 자더니 결국 일주일 내내 지각하고야 말았다.",
+          "exampleZh": "每天很晚睡，結果一整個星期一直遲到。"
+        }
+      ]
+    },
+    {
+      "id": "615",
+      "korean": "그럭저럭",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "就這麼、不上不下、糊里糊塗",
+          "exampleKr": "수학은 그럭저럭하는 편이나 영어는 아주 잘한다.",
+          "exampleZh": "數學念的不上不下，但英文念得很好。"
+        }
+      ]
+    },
+    {
+      "id": "616",
+      "korean": "바르다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "端正、正確",
+          "exampleKr": "규정에 맞게 교복을 입는 학생은 예의도 바르다.",
+          "exampleZh": "照規定穿著校服的學生很有禮貌。"
+        }
+      ]
+    },
+    {
+      "id": "617",
+      "korean": "임시",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "臨時、不固定",
+          "exampleKr": "오늘은 담임 선생님 대신 임시로 다른 선생님이 오셨다.",
+          "exampleZh": "今天臨時有另一位老師來代替班導師。"
+        }
+      ]
+    },
+    {
+      "id": "618",
+      "korean": "각자",
+      "pronunciation": "각짜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "各自",
+          "exampleKr": "각자의 얼굴 모습이 다르듯이 능력도 다르다.",
+          "exampleZh": "就像每個人的臉都不同一般，每個人的能力也不同。"
+        }
+      ]
+    },
+    {
+      "id": "619",
+      "korean": "맡기다",
+      "pronunciation": "맏끼다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "委託、交付",
+          "exampleKr": "일을 여러 사람에게 맡기고 나서 훨씬 순조로워졌다.",
+          "exampleZh": "把工作委託給很多人後，事情變得更順利了。"
+        }
+      ]
+    },
+    {
+      "id": "620",
+      "korean": "임무",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "任務",
+          "exampleKr": "매일 늦게까지 임무를 다 마치고 집으로 돌아간다.",
+          "exampleZh": "每天都到很晚，完成任務後才回家。"
+        }
+      ]
+    },
+    {
+      "id": "621",
+      "korean": "담임",
+      "pronunciation": "다밈",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "班導師",
+          "exampleKr": "이번 연도에 고3 수험생반의 담임이 되었다.",
+          "exampleZh": "這學年成為高3準考班的班導師。"
+        }
+      ]
+    },
+    {
+      "id": "622",
+      "korean": "폭력",
+      "pronunciation": "퐁녁",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "暴力",
+          "exampleKr": "신문에서 보도되는 것과 같이 학교 폭력이 심각해졌다.",
+          "exampleZh": "像報紙的報導一般，校園暴力愈趨嚴重。"
+        }
+      ]
+    },
+    {
+      "id": "623",
+      "korean": "공간",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "空間",
+          "exampleKr": "교실에 공간이 넉넉하지 않아서 학생들이 다치는 일이 종종 발생한다.",
+          "exampleZh": "教室內空間不太夠，所以學生常常發生受傷事件。"
+        }
+      ]
+    },
+    {
+      "id": "624",
+      "korean": "사이버",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "網路",
+          "exampleKr": "서로 얼굴을 볼 수 없는 사이버 공간에서의 언어 폭력도 문제다.",
+          "exampleZh": "在無法互相看到的網路空間中，語言暴力也是個問題。"
+        }
+      ]
+    },
+    {
+      "id": "625",
+      "korean": "꼽다",
+      "pronunciation": "꼽따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "選出；屈指（計算）",
+          "exampleKr": "이 가게에서 가장 맛있는 음식을 몇 종류 꼽아 보세요.",
+          "exampleZh": "請選出幾種這家店中最好吃的食物。"
+        }
+      ]
+    },
+    {
+      "id": "626",
+      "korean": "꼽히다",
+      "pronunciation": "꼬피다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被指定",
+          "exampleKr": "내 친구는 우리 학교에서 제일 예쁜 7명 중 한 명으로 꼽힌다.",
+          "exampleZh": "我朋友被指定為我們學校中最漂亮的7個人之一。"
+        }
+      ]
+    },
+    {
+      "id": "627",
+      "korean": "소통하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "溝通",
+          "exampleKr": "학생들과 더 가깝게 의사소통을 하려고 라인을 사용한다.",
+          "exampleZh": "為了和學生溝通更親近，所以（和學生）使用Line。"
+        }
+      ]
+    },
+    {
+      "id": "628",
+      "korean": "배다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "滲進味道",
+          "exampleKr": "저녁에 숯불갈비를 먹었더니 옷에 냄새가 배었다.",
+          "exampleZh": "因為晚上吃了烤肉，衣服上滲進烤肉的味道。"
+        }
+      ]
+    },
+    {
+      "id": "629",
+      "korean": "입시",
+      "pronunciation": "입씨",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "入學考試",
+          "exampleKr": "입시 경쟁이 너무 심해서 입시 지옥이라는 말이 있다.",
+          "exampleZh": "入學考試競爭很激烈，所以有入學考試地獄的說法。"
+        }
+      ]
+    },
+    {
+      "id": "630",
+      "korean": "이대로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "照這樣",
+          "exampleKr": "너무 무리하면 이대로 건강에 이상이 올 수도 있다.",
+          "exampleZh": "如果太勉強，照這樣下去健康可能會出問題。"
+        }
+      ]
+    },
+    {
+      "id": "631",
+      "korean": "집단",
+      "pronunciation": "집딴",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "集體",
+          "exampleKr": "이 지역은 오래전부터 같은 성을 가진 사람들이 집단으로 모여 살았다.",
+          "exampleZh": "這個地區從以前開始就群居了相同姓氏的人。"
+        }
+      ]
+    },
+    {
+      "id": "632",
+      "korean": "자유",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "自由",
+          "exampleKr": "자유 경쟁 시대라고 말하지만 아직도 인맥이 영향을 주는 것 같다.",
+          "exampleZh": "雖然是說自由競爭時代，但仍然可能受人脈的影響。"
+        }
+      ]
+    },
+    {
+      "id": "633",
+      "korean": "다수",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "多數",
+          "exampleKr": "혼자보다 다수가 참여하면 더 큰 힘을 낼 수 있다.",
+          "exampleZh": "比起一個人參與，多數人的參與會發出更大的力量。"
+        }
+      ]
+    },
+    {
+      "id": "634",
+      "korean": "법률",
+      "pronunciation": "범뉼",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "法律",
+          "exampleKr": "화요일에 시청에서 무료 법률 상담 서비스를 시행하고 있다.",
+          "exampleZh": "星期二在市政府實行免費法律諮詢服務。"
+        }
+      ]
+    },
+    {
+      "id": "635",
+      "korean": "이념",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "理念、理想",
+          "exampleKr": "그 선생님의 교육 이념은 감탄할 만하다.",
+          "exampleZh": "那位老師的教育理念讓人很感動。"
+        }
+      ]
+    },
+    {
+      "id": "636",
+      "korean": "단기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "短期",
+          "exampleKr": "우리 학교 한국어 프로그램은 단기와 장기로 나뉜다.",
+          "exampleZh": "我們學校的韓文教育課程分為短期及長期課程。"
+        }
+      ]
+    },
+    {
+      "id": "637",
+      "korean": "연설",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "演講",
+          "exampleKr": "국제 회의에서 그의 연설은 모든 사람들에게 감동을 주었다.",
+          "exampleZh": "在國際會議中他的演講感動了所有人。"
+        }
+      ]
+    },
+    {
+      "id": "638",
+      "korean": "견해",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "見解、看法",
+          "exampleKr": "두 사람의 견해 차이는 아주 오래 전부터 있어왔다.",
+          "exampleZh": "這兩人從前就一直有看法上的差異。"
+        }
+      ]
+    },
+    {
+      "id": "639",
+      "korean": "거두다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "收、取得",
+          "exampleKr": "이번 대회를 많이 준비한 만큼 좋은 성적을 거둘 것이라 믿는다.",
+          "exampleZh": "為了這次的比賽準備了很多，（我）相信可以取得很好的成績。"
+        }
+      ]
+    },
+    {
+      "id": "640",
+      "korean": "딱",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "剛剛好、正好",
+          "exampleKr": "이 옷은 너무 크지도 작지도 않고 딱 맞는다.",
+          "exampleZh": "這件衣服不會太小也不會太大剛剛好。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-원",
+    "titleZh": "-員 / -院",
+    "description": "「-원（員）」接在場所名詞後面，表示那個地方工作的人；「-원（院）」接在場所名詞後面，表示機構或該做事的地方",
+    "table": [
+      {
+        "kr": "상담원",
+        "zh": "諮詢員"
+      },
+      {
+        "kr": "연구원",
+        "zh": "研究員"
+      },
+      {
+        "kr": "회원",
+        "zh": "會員"
+      },
+      {
+        "kr": "회사원",
+        "zh": "公司員工"
+      },
+      {
+        "kr": "점원",
+        "zh": "店員"
+      },
+      {
+        "kr": "위원",
+        "zh": "委員"
+      },
+      {
+        "kr": "연구원",
+        "zh": "研究院"
+      },
+      {
+        "kr": "대학원",
+        "zh": "研究所"
+      },
+      {
+        "kr": "미장원",
+        "zh": "美容院"
+      },
+      {
+        "kr": "고아원",
+        "zh": "孤兒院"
+      }
+    ]
+  }
+}

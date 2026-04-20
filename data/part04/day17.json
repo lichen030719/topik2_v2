@@ -1,0 +1,606 @@
+{
+  "day": 17,
+  "words": [
+    {
+      "id": "641",
+      "korean": "교시",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "（第幾）節課",
+          "exampleKr": "월요일 1교시는 담임 선생님 수업 시간이라서 늦으면 안 된다.",
+          "exampleZh": "星期一第一節課是班導師的課，不可以遲到。"
+        }
+      ]
+    },
+    {
+      "id": "642",
+      "korean": "수다",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "聊嘴（要嘴皮子）",
+          "exampleKr": "실컷 수다를 떨다 보면 스트레스가 확 풀릴 때가 있다.",
+          "exampleZh": "盡情（耍嘴皮子），有時壓力就通通解除。"
+        }
+      ]
+    },
+    {
+      "id": "643",
+      "korean": "교외",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "郊外",
+          "exampleKr": "가끔 교외로 나가서 시원한 바람을 쐬면서 산책한다.",
+          "exampleZh": "偶爾到郊外吹涼爽的風散步。"
+        }
+      ]
+    },
+    {
+      "id": "644",
+      "korean": "맞다",
+      "pronunciation": "맏따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "迎接",
+          "exampleKr": "오늘 회사는 특별한 손님을 맞을 준비를 한창이다.",
+          "exampleZh": "今天我們公司在忙著準備迎接特別的客人。"
+        },
+        {
+          "chinese": "被打",
+          "exampleKr": "아이는 어머니께 매를 맞아서 몹시 슬픈 모양이다.",
+          "exampleZh": "小孩因為被母親打看起來很難過。"
+        }
+      ]
+    },
+    {
+      "id": "645",
+      "korean": "맡다",
+      "pronunciation": "맏따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "擔任",
+          "exampleKr": "나는 이번 대회에서 무대 장식을 맡았다.",
+          "exampleZh": "我擔任這次活動舞台的裝飾。"
+        },
+        {
+          "chinese": "聞",
+          "exampleKr": "강아지는 후각이 잘 발달되어있어서 냄새를 잘 맡는다.",
+          "exampleZh": "狗的嗅覺很發達，所以擅長聞味道。"
+        }
+      ]
+    },
+    {
+      "id": "646",
+      "korean": "배려하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "關懷、照顧",
+          "exampleKr": "저 사람은 다른 사람들을 세심하게 배려해 줄 줄 안다.",
+          "exampleZh": "他很懂得細心關懷別人。"
+        }
+      ]
+    },
+    {
+      "id": "647",
+      "korean": "섞이다",
+      "pronunciation": "서끼다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被混",
+          "exampleKr": "밀가루와 베이킹파우더가 섞이면 발효하게 되어있다.",
+          "exampleZh": "麵粉和發酵粉混在一起，就會自然發酵。"
+        }
+      ]
+    },
+    {
+      "id": "648",
+      "korean": "풍기다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "散發",
+          "exampleKr": "아랫집에서 저녁 식사를 준비하는지 맛있는 냄새를 풍기고 있다.",
+          "exampleZh": "樓下鄰居好像在準備晚餐，正散發著很可口的味道。"
+        }
+      ]
+    },
+    {
+      "id": "649",
+      "korean": "수단",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "方法",
+          "exampleKr": "그는 부지런할 뿐만 아니라 장사 수단도 좋아서 돈을 많이 벌었다.",
+          "exampleZh": "他不但勤勞，而且懂得做生意的方法，賺了很多錢。"
+        }
+      ]
+    },
+    {
+      "id": "650",
+      "korean": "특기",
+      "pronunciation": "특끼",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "專長",
+          "exampleKr": "내 취미는 책을 읽는 것이고 특기는 피아노를 치는 것이다.",
+          "exampleZh": "我的興趣是讀書，專長是彈鋼琴。"
+        }
+      ]
+    },
+    {
+      "id": "651",
+      "korean": "특성",
+      "pronunciation": "특썽",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "特性",
+          "exampleKr": "아이의 특성을 잘 살려서 진로를 결정하는 것이 중요합니다.",
+          "exampleZh": "凸顯孩子的特性來決定（孩子的）前途很重要。"
+        }
+      ]
+    },
+    {
+      "id": "652",
+      "korean": "인물",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人物、外貌",
+          "exampleKr": "면접시험 때 절대로 인물만 보지 말고 어떤 사람인지 알아야 한다.",
+          "exampleZh": "面試時絕對不要只看外貌，要了解（他是）怎麼樣的人。"
+        }
+      ]
+    },
+    {
+      "id": "653",
+      "korean": "양성하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "培養",
+          "exampleKr": "우리 학교는 나라를 위한 인재 양성에 최선을 다하고 있습니다.",
+          "exampleZh": "我們學校盡心盡力地培養為國家貢獻的人才。"
+        }
+      ]
+    },
+    {
+      "id": "654",
+      "korean": "인생",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人生",
+          "exampleKr": "한 번뿐인 인생을 자기가 원하는 대로 살아보는 것도 좋습니다.",
+          "exampleZh": "人生只有一次，想做什麼就做什麼也好。"
+        }
+      ]
+    },
+    {
+      "id": "655",
+      "korean": "미디어",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "媒體",
+          "exampleKr": "미디어가 대중에게 주는 영향력은 실로 엄청나다.",
+          "exampleZh": "媒體對民眾的影響力實際上非常巨大。"
+        }
+      ]
+    },
+    {
+      "id": "656",
+      "korean": "흥미",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "興趣",
+          "exampleKr": "최근에 노래하고 춤 추는 것에 흥미가 생겼습니다.",
+          "exampleZh": "最近對唱歌跳舞有了興趣。"
+        }
+      ]
+    },
+    {
+      "id": "657",
+      "korean": "적응",
+      "pronunciation": "저긍",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "適應",
+          "exampleKr": "전학 온 친구가 학교에 잘 적응하도록 주위에서 많이 도와주세요.",
+          "exampleZh": "為了讓轉學生好好適應，身邊的人請多多幫忙。"
+        }
+      ]
+    },
+    {
+      "id": "658",
+      "korean": "타고나다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "天生",
+          "exampleKr": "재능은 타고나야 하지만 노력하는 것이 가장 중요하다고 생각합니다.",
+          "exampleZh": "雖然才能是天生的，但我認為努力才是最重要的。"
+        }
+      ]
+    },
+    {
+      "id": "659",
+      "korean": "시도하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "試圖、嘗試",
+          "exampleKr": "잘 못하는 분야도 계속 시도하다 보면 잘 해낼 수 있습니다.",
+          "exampleZh": "即使是不擅長的領域，若繼續嘗試，一定可以做得到。"
+        }
+      ]
+    },
+    {
+      "id": "660",
+      "korean": "흥분",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "激動",
+          "exampleKr": "의견이 맞지 않아 흥분하게 되면 제대로 소통하기 어렵다.",
+          "exampleZh": "若因為意見不合而激動，很難好好溝通。"
+        }
+      ]
+    },
+    {
+      "id": "661",
+      "korean": "특수",
+      "pronunciation": "특쑤",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "特殊",
+          "exampleKr": "대학에서 특수 교육을 전공하고 지금은 복지관에서 일한다.",
+          "exampleZh": "在大學攻讀特殊教育之後，現在在福利院工作。"
+        }
+      ]
+    },
+    {
+      "id": "662",
+      "korean": "인류",
+      "pronunciation": "일류",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人類",
+          "exampleKr": "제 꿈은 인류 평화를 위해 국제 단체에서 일하는 것입니다.",
+          "exampleZh": "我的夢想是為了人類的和平，在國際機構工作。"
+        }
+      ]
+    },
+    {
+      "id": "663",
+      "korean": "힘차다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "充滿力量",
+          "exampleKr": "발표회에서 힘차게 자기 의사를 표현해서 이미 높은 점수를 받았다.",
+          "exampleZh": "發表會中充滿力量的表達自己的意見，已經得到很高的分數。"
+        }
+      ]
+    },
+    {
+      "id": "664",
+      "korean": "당황",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "慌張",
+          "exampleKr": "모르는 문제가 생겨도 당황하지 말고 침착하게 풀어 보세요.",
+          "exampleZh": "即使遇到不知道的問題也別慌張，試著沉著解決問題。"
+        }
+      ]
+    },
+    {
+      "id": "665",
+      "korean": "대가",
+      "pronunciation": "대까",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "代價",
+          "exampleKr": "내 실수로 교통사고가 나서 큰 대가를 지불해야 한다.",
+          "exampleZh": "因為我的錯誤而發生車禍，需要付出很大的代價。"
+        }
+      ]
+    },
+    {
+      "id": "666",
+      "korean": "낯설다",
+      "pronunciation": "낟썰다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "陌生",
+          "exampleKr": "여기서 태어나고 자랐는데 다시 와보니 모든 것이 낯설다.",
+          "exampleZh": "在這個地方出生長大，但現在再回來看一切都很陌生。"
+        }
+      ]
+    },
+    {
+      "id": "667",
+      "korean": "대책",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "對策",
+          "exampleKr": "이 길은 출퇴근 시간에 심하게 차가 막히는데 대책을 마련해야 한다.",
+          "exampleZh": "這條路上下班時間嚴重塞車，需要準備好對策。"
+        }
+      ]
+    },
+    {
+      "id": "668",
+      "korean": "토의",
+      "pronunciation": "토이",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "研商、商討",
+          "exampleKr": "토의를 시작하자마자 양측의 의견이 첨예하게 대립되었다.",
+          "exampleZh": "一開始討論兩邊的意見就針鋒相對。"
+        }
+      ]
+    },
+    {
+      "id": "669",
+      "korean": "정책",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "政策",
+          "exampleKr": "대통령이 바뀔 때마다 교육 정책이 달라져서 학부모들은 혼란스럽다.",
+          "exampleZh": "每次換總統就改變教育政策，造成學生家長的混亂。"
+        }
+      ]
+    },
+    {
+      "id": "670",
+      "korean": "경쟁",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "競爭",
+          "exampleKr": "사회가 경쟁을 부추기면서 더욱 인간미가 사라져간다.",
+          "exampleZh": "這個社會挑動競爭，讓社會愈來愈沒人情味。"
+        }
+      ]
+    },
+    {
+      "id": "671",
+      "korean": "대처",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "應付",
+          "exampleKr": "다른 일은 신경 쓰지 말고 이 일을 잘 대처하도록 힘써 보십시오.",
+          "exampleZh": "別擔心其他事情，為了好好應付這件事情還請多多努力。"
+        }
+      ]
+    },
+    {
+      "id": "672",
+      "korean": "방안",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "方案",
+          "exampleKr": "이 문제에 대해 별다른 해결 방안이 없어서 안타깝습니다.",
+          "exampleZh": "針對這個問題沒有什麼特別的解決方案讓人焦意。"
+        }
+      ]
+    },
+    {
+      "id": "673",
+      "korean": "토론",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "討論",
+          "exampleKr": "정치 토론 프로그램은 자주 양측 비방으로 끝나서 참으로 무료하다.",
+          "exampleZh": "討論政治的節目常常在雙方的訕謗中結束，真無聊。"
+        }
+      ]
+    },
+    {
+      "id": "674",
+      "korean": "대출",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "借書",
+          "exampleKr": "우리 학교 학생은 학생증으로 도서관에서 무료 대출이 가능합니다.",
+          "exampleZh": "我們學校的學生在圖書館可以用學生證免費借（書）。"
+        }
+      ]
+    },
+    {
+      "id": "675",
+      "korean": "대통령",
+      "pronunciation": "대통녕",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "大統領、總統",
+          "exampleKr": "전 세계적으로 여성 대통령이 뽑히는 추세인가 보다.",
+          "exampleZh": "選女總統好像是全球的趨勢。"
+        }
+      ]
+    },
+    {
+      "id": "676",
+      "korean": "초래되다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "導致",
+          "exampleKr": "이번 일은 확실히 준비 미흡으로 초래된 것이라고 믿는다.",
+          "exampleZh": "這次的事件我相信是準備不足所導致。"
+        }
+      ]
+    },
+    {
+      "id": "677",
+      "korean": "과도하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "過度",
+          "exampleKr": "과도한 경쟁을 부추기지 말고 서로서로 격려해 줍시다.",
+          "exampleZh": "別過度挑動競爭，彼此鼓勵鼓勵。"
+        }
+      ]
+    },
+    {
+      "id": "678",
+      "korean": "공교육",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "公共教育",
+          "exampleKr": "공교육을 잘 살려서 사교육을 줄이도록 힘써야 할 것이다.",
+          "exampleZh": "為了減少私人教育，得努力讓公共教育被好好利用。"
+        }
+      ]
+    },
+    {
+      "id": "679",
+      "korean": "사교육",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "私人教育",
+          "exampleKr": "이번 교육 정책은 오히려 사교육을 부추기는 결과를 가져왔다.",
+          "exampleZh": "這次的教育政策，反而帶來助長私人教育的結果。"
+        }
+      ]
+    },
+    {
+      "id": "680",
+      "korean": "대표",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "代表",
+          "exampleKr": "우리 반 대표는 운동도 잘하고 친구들과 관계도 좋다.",
+          "exampleZh": "我們班代表不僅擅長運動，和朋友之間關係也很好。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-인 / -직",
+    "titleZh": "-人 / -職",
+    "description": "「-인（人）」表示人；「-직（職）」表示職業、身分",
+    "table": [
+      {
+        "kr": "동양인",
+        "zh": "東方人"
+      },
+      {
+        "kr": "서양인",
+        "zh": "西方人"
+      },
+      {
+        "kr": "미국인",
+        "zh": "美國人"
+      },
+      {
+        "kr": "일반인",
+        "zh": "一般人"
+      },
+      {
+        "kr": "정치인",
+        "zh": "政治人"
+      },
+      {
+        "kr": "지식인",
+        "zh": "知識分子"
+      },
+      {
+        "kr": "직장인",
+        "zh": "上班族"
+      },
+      {
+        "kr": "현대인",
+        "zh": "現代人"
+      },
+      {
+        "kr": "장애인",
+        "zh": "殘障人士"
+      },
+      {
+        "kr": "언론인",
+        "zh": "新聞工作者"
+      },
+      {
+        "kr": "전문직",
+        "zh": "專職"
+      },
+      {
+        "kr": "사무직",
+        "zh": "白領工作者"
+      },
+      {
+        "kr": "관직",
+        "zh": "官職"
+      },
+      {
+        "kr": "일용직",
+        "zh": "散工（臨時工）"
+      },
+      {
+        "kr": "노동직",
+        "zh": "藍領工作者"
+      },
+      {
+        "kr": "계약직",
+        "zh": "約聘"
+      }
+    ]
+  }
+}

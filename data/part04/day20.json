@@ -1,0 +1,608 @@
+{
+  "day": 20,
+  "words": [
+    {
+      "id": "761",
+      "korean": "사촌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "堂兄弟姊妹",
+          "exampleKr": "아버지의 친형제의 자녀들을 사촌이라고 부른다.",
+          "exampleZh": "父親兄弟姊妹的子女叫做堂兄弟姊妹。"
+        }
+      ]
+    },
+    {
+      "id": "762",
+      "korean": "깜깜하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "漆黑",
+          "exampleKr": "방이 깜깜해서 무엇이 있는지 알 수가 없다.",
+          "exampleZh": "因為房間很黑，有什麼都不知道。"
+        }
+      ]
+    },
+    {
+      "id": "763",
+      "korean": "온종일",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "一整天",
+          "exampleKr": "온종일 음악을 들으면서 집에서 쉬었다.",
+          "exampleZh": "一整天聽著音樂在家休息。"
+        }
+      ]
+    },
+    {
+      "id": "764",
+      "korean": "수학",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "數學",
+          "exampleKr": "고등학교 때 수학시간이 제일 재미있었다.",
+          "exampleZh": "高中時數學課最有趣。"
+        },
+        {
+          "chinese": "修習",
+          "exampleKr": "한국에서 언론학을 수학하고 돌아와서 기자가 되었다.",
+          "exampleZh": "在韓國修習新聞學，回來成為記者。"
+        }
+      ]
+    },
+    {
+      "id": "765",
+      "korean": "생머리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "直髮",
+          "exampleKr": "남학생들은 긴 생머리 여학생을 좋아한다고 한다.",
+          "exampleZh": "聽說男學生們喜歡長直髮的女學生。"
+        }
+      ]
+    },
+    {
+      "id": "766",
+      "korean": "정확히",
+      "pronunciation": "정화키",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "正確地",
+          "exampleKr": "나는 한국 문화를 좋아하는데 정확히 도자기에 관심이 있다.",
+          "exampleZh": "我喜歡韓國文化，但正確地說是我對陶瓷器有興趣。"
+        }
+      ]
+    },
+    {
+      "id": "767",
+      "korean": "설레다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "激動",
+          "exampleKr": "모레 드디어 내가 좋아하는 가수의 콘서트에 가서 너무 설렌다.",
+          "exampleZh": "後天終於要去我喜歡歌手的演唱會，太激動了。"
+        }
+      ]
+    },
+    {
+      "id": "768",
+      "korean": "준비물",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "備用品、該準備的物品",
+          "exampleKr": "매일 저녁 준비물을 잘 챙겨 놓지만 꼭 한두 개씩 빠트리기도 한다.",
+          "exampleZh": "每天晚上我都會準備好（明天）要帶的東西，但每次還是會落掉一兩個（東西）。"
+        }
+      ]
+    },
+    {
+      "id": "769",
+      "korean": "줄거리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "概要、情節",
+          "exampleKr": "어제 본 드라마의 줄거리는 인터넷에 이미 나와 있다.",
+          "exampleZh": "昨天看的連續劇情節，網路上已經有了。"
+        }
+      ]
+    },
+    {
+      "id": "770",
+      "korean": "억양",
+      "pronunciation": "어강",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "腔、語調",
+          "exampleKr": "지방에서 한국어를 배우는 외국인은 억양도 배우게 된다.",
+          "exampleZh": "在鄉下學韓文的外國人也會學到（鄉下的）腔調。"
+        }
+      ]
+    },
+    {
+      "id": "771",
+      "korean": "도저히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "怎麼也",
+          "exampleKr": "이번 문제의 해결 방법은 도저히 납득할 수 없다.",
+          "exampleZh": "這次問題的解決方法，我怎麼想也無法理解。"
+        }
+      ]
+    },
+    {
+      "id": "772",
+      "korean": "학자",
+      "pronunciation": "학짜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "學者",
+          "exampleKr": "조선시대에 여러 학자들이 모여서 만든 문자가 한글이다.",
+          "exampleZh": "韓國文字（한글）是朝鮮時代許多學者聚在一起所創制出來的文字。"
+        }
+      ]
+    },
+    {
+      "id": "773",
+      "korean": "동작",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "動作",
+          "exampleKr": "무용수는 예쁜 동작을 만들기 위해 끊임없이 연습한다.",
+          "exampleZh": "舞蹈家為了動作漂亮不斷地練習。"
+        }
+      ]
+    },
+    {
+      "id": "774",
+      "korean": "책임",
+      "pronunciation": "채김",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "責任",
+          "exampleKr": "책임을 맡은 일은 끝까지 정성껏 한다.",
+          "exampleZh": "（自己）負責的事就要誠心誠意做到底。"
+        }
+      ]
+    },
+    {
+      "id": "775",
+      "korean": "책임감",
+      "pronunciation": "채김감",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "責任感",
+          "exampleKr": "일에 책임감이 강하다고 스스로에게 소홀한 것은 아니다.",
+          "exampleZh": "對工作責任感強並不代表會疏忽自己。"
+        }
+      ]
+    },
+    {
+      "id": "776",
+      "korean": "사립",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "私立",
+          "exampleKr": "사립 학교를 졸업한다고 해서 좋은 대학에 들어간다는 보장은 없다.",
+          "exampleZh": "私立學校畢業，並不保證會進入好大學。"
+        }
+      ]
+    },
+    {
+      "id": "777",
+      "korean": "빈자리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "空位",
+          "exampleKr": "오늘 빈자리가 많은 것을 보니 다들 바쁜가 보다.",
+          "exampleZh": "今天有很多空位，看來大家都很忙。"
+        }
+      ]
+    },
+    {
+      "id": "778",
+      "korean": "설마",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "難道；恐怕",
+          "exampleKr": "설마 그 두 사람이 결혼한다는 소문이 사실일까?",
+          "exampleZh": "難道那兩人要結婚的傳聞是真的？"
+        },
+        {
+          "chinese": "恐怕",
+          "exampleKr": "설마 친구가 그것을 너에게 주었더라도 받으면 안된다.",
+          "exampleZh": "哪怕是朋友給你那個東西，也不可以收下。"
+        }
+      ]
+    },
+    {
+      "id": "779",
+      "korean": "존경",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "尊敬",
+          "exampleKr": "나는 아직도 중학교 때 음악 선생님을 가장 존경한다.",
+          "exampleZh": "到現在我最尊敬的還是國中時的音樂老師。"
+        }
+      ]
+    },
+    {
+      "id": "780",
+      "korean": "존중",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "尊重",
+          "exampleKr": "학생들의 존중을 받는 선생님은 그만큼 많은 노력을 한다.",
+          "exampleZh": "獲得學生尊重的老師，代表其付出對等的努力。"
+        }
+      ]
+    },
+    {
+      "id": "781",
+      "korean": "체계",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "體系",
+          "exampleKr": "우리 학교는 체계가 있어서 학생들 학습에 도움이 된다고 알려져 있다.",
+          "exampleZh": "我們學校很有體系，（此體系）並以對學生學習有益而聞名。"
+        }
+      ]
+    },
+    {
+      "id": "782",
+      "korean": "설문",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "問卷",
+          "exampleKr": "이 연구에서 부족한 부분은 설문을 통해 보충하려고 한다.",
+          "exampleZh": "這個研究不足的地方，打算使用問卷來補充。"
+        }
+      ]
+    },
+    {
+      "id": "783",
+      "korean": "쓰다듬다",
+      "pronunciation": "쓰다듬따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "撫",
+          "exampleKr": "우리 선생님은 칭찬할 때 종종 머리를 쓰다듬어 주신다.",
+          "exampleZh": "我的老師在稱讚時常常撫摸學生的頭。"
+        }
+      ]
+    },
+    {
+      "id": "784",
+      "korean": "빛나다",
+      "pronunciation": "빈나다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "閃耀",
+          "exampleKr": "시험을 통과한 학생의 얼굴에는 빛이 나는 것 같이 밝다.",
+          "exampleZh": "通過考試的學生，臉上閃耀著光彩。"
+        }
+      ]
+    },
+    {
+      "id": "785",
+      "korean": "줄넘기",
+      "pronunciation": "줄럼끼",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "跳繩",
+          "exampleKr": "입시 준비로 바쁘지만 틈틈이 줄넘기와 조깅을 하면서 건강을 관리한다.",
+          "exampleZh": "雖然準備入學（考試）很忙，但有空就會跳繩和慢跑管理健康。"
+        }
+      ]
+    },
+    {
+      "id": "786",
+      "korean": "사진첩",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "相簿",
+          "exampleKr": "요즘은 디지털카메라를 쓰기 때문에 특별히 사진첩이 필요하지 않다.",
+          "exampleZh": "近來因為使用數位相機所以不太需要相簿。"
+        }
+      ]
+    },
+    {
+      "id": "787",
+      "korean": "해석",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "解析、解釋",
+          "exampleKr": "외국어 해석을 잘 하려면 모국어 실력이 정말 중요하다.",
+          "exampleZh": "想要將外語解釋到位，母語的能力真的很重要。"
+        }
+      ]
+    },
+    {
+      "id": "788",
+      "korean": "지식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "知識",
+          "exampleKr": "지식 수준이 높다고 해서 지혜로운 것은 아니다.",
+          "exampleZh": "知識水準很高，並不代表有智慧。"
+        }
+      ]
+    },
+    {
+      "id": "789",
+      "korean": "표지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "封面",
+          "exampleKr": "이 책은 표지만 보고 내용이 무엇인지 추측하기 어렵다.",
+          "exampleZh": "這本書只看封面很難推測書的內容是什麼。"
+        }
+      ]
+    },
+    {
+      "id": "790",
+      "korean": "학과",
+      "pronunciation": "학꽈",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "科系",
+          "exampleKr": "졸업 후 바로 일자리를 구할 수 있는 학과는 입시 경쟁이 치열하다.",
+          "exampleZh": "畢業後可以馬上找到工作的科系，入學競爭很激烈。"
+        }
+      ]
+    },
+    {
+      "id": "791",
+      "korean": "학부모",
+      "pronunciation": "학뿌모",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "學生家長",
+          "exampleKr": "한 한기에 한 번씩 학생, 선생님, 학부모가 만나서 면담한다.",
+          "exampleZh": "學生、老師、家長一學期會面談一次。"
+        }
+      ]
+    },
+    {
+      "id": "792",
+      "korean": "사전",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "字典",
+          "exampleKr": "사전을 찾으면 모르는 단어뿐만 아니라 다른 단어도 배울 수 있다.",
+          "exampleZh": "查字典不僅能學到不知道的單字還可以學到別的單字。"
+        },
+        {
+          "chinese": "提前",
+          "exampleKr": "여행을 떠나기 전 사전 준비는 아주 중요하다.",
+          "exampleZh": "旅行前的行前準備非常重要。"
+        }
+      ]
+    },
+    {
+      "id": "793",
+      "korean": "쓰기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "寫作",
+          "exampleKr": "고급 과정 쓰기 시험을 위해 거의 매일 한국어 일기를 쓴다.",
+          "exampleZh": "為了高級課程的寫作考試，幾乎每天寫韓文日記。"
+        }
+      ]
+    },
+    {
+      "id": "794",
+      "korean": "턱",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "下巴",
+          "exampleKr": "턱을 괴고 앉아있는 것은 예의 바른 행동이 아니다.",
+          "exampleZh": "坐著撐著下巴的行為不是很禮貌。"
+        }
+      ]
+    },
+    {
+      "id": "795",
+      "korean": "털",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "毛",
+          "exampleKr": "우리 강아지는 털이 많이 빠져서 방에는 들어올 수 없다.",
+          "exampleZh": "我們家的狗因為容易脫毛，因此不能進來房間裡。"
+        }
+      ]
+    },
+    {
+      "id": "796",
+      "korean": "털다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "拍打",
+          "exampleKr": "집에 들어가기 전에 신발을 잘 털고 들어간다.",
+          "exampleZh": "進去家裡之前先拍打鞋子再進去。"
+        }
+      ]
+    },
+    {
+      "id": "797",
+      "korean": "지각",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "遲到",
+          "exampleKr": "지각하면 선생님께 혼나고 점수도 깎인다.",
+          "exampleZh": "遲到會被老師罵還會被扣分。"
+        },
+        {
+          "chinese": "知覺",
+          "exampleKr": "지각 능력을 향상시키기 위해 관련된 책을 여러 권 읽었다.",
+          "exampleZh": "為提升知覺能力而讀了很多相關書籍。"
+        }
+      ]
+    },
+    {
+      "id": "798",
+      "korean": "쓰이다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被使用",
+          "exampleKr": "이 문법책은 설명이 자세해서 많은 학생들에게 쓰인다.",
+          "exampleZh": "這本文法書因為說明很仔細，所以被很多學生使用。"
+        }
+      ]
+    },
+    {
+      "id": "799",
+      "korean": "지시",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "指示",
+          "exampleKr": "특별한 지시가 있을 때까지 자리를 이동하면 안 됩니다.",
+          "exampleZh": "得到特別指示為止，在位子上別移動。"
+        }
+      ]
+    },
+    {
+      "id": "800",
+      "korean": "회화",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "會話",
+          "exampleKr": "선생님이 좋아서 영어회화 시간이 가장 기다려진다.",
+          "exampleZh": "因為喜歡老師，所以最期待英文會話時間。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "한- / 새-",
+    "titleZh": "한-（正-）/ 새-（新-）",
+    "description": "「한-」擺在時間或空間的詞前方，表示正、正時、盛；「새-」表示新",
+    "table": [
+      {
+        "kr": "한낮",
+        "zh": "大白天"
+      },
+      {
+        "kr": "한눈",
+        "zh": "一眼"
+      },
+      {
+        "kr": "한순간",
+        "zh": "一瞬間"
+      },
+      {
+        "kr": "한동안",
+        "zh": "一段時間"
+      },
+      {
+        "kr": "한가운데",
+        "zh": "正中間"
+      },
+      {
+        "kr": "한밤중",
+        "zh": "深夜"
+      },
+      {
+        "kr": "한겨울",
+        "zh": "深冬"
+      },
+      {
+        "kr": "한여름",
+        "zh": "深夏"
+      },
+      {
+        "kr": "새집",
+        "zh": "新家"
+      },
+      {
+        "kr": "새엄마",
+        "zh": "繼母"
+      },
+      {
+        "kr": "새언니",
+        "zh": "剛嫁進來的嫂嫂"
+      },
+      {
+        "kr": "새옷",
+        "zh": "新衣服"
+      },
+      {
+        "kr": "새신발",
+        "zh": "新鞋"
+      },
+      {
+        "kr": "새해",
+        "zh": "新年"
+      }
+    ]
+  }
+}

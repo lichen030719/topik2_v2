@@ -1,0 +1,621 @@
+{
+  "day": 19,
+  "words": [
+    {
+      "id": "721",
+      "korean": "학문",
+      "pronunciation": "항문",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "學問",
+          "exampleKr": "김 선생님은 서양 학문을 도입하는 데 큰 기여를 하셨다.",
+          "exampleZh": "金老師對於引進西學有很大的貢獻。"
+        }
+      ]
+    },
+    {
+      "id": "722",
+      "korean": "가장",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "家長",
+          "exampleKr": "부모님이 안 계실 때 우리 언니가 집안의 가장이 된다.",
+          "exampleZh": "父母親不在家時我姊姊就是家裡的家長。"
+        }
+      ]
+    },
+    {
+      "id": "723",
+      "korean": "학습",
+      "pronunciation": "학씁",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "學習",
+          "exampleKr": "한 시간 정도 공부하고 휴식을 하는 방법으로 학습 효과를 높일 수 있다.",
+          "exampleZh": "念書念一小時左右再休息的方法，可以提升學習效果。"
+        }
+      ]
+    },
+    {
+      "id": "724",
+      "korean": "독",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "毒、毒害",
+          "exampleKr": "계속 무리해서 일하면 몸에 독이 된다.",
+          "exampleZh": "繼續勉強工作的話對身體有害。"
+        }
+      ]
+    },
+    {
+      "id": "725",
+      "korean": "독감",
+      "pronunciation": "독깜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "重感冒",
+          "exampleKr": "지금 독감이 유행하고 있으니 예방 접종을 반드시 맞아야 한다.",
+          "exampleZh": "現在流行重感冒一定要打預防針。"
+        }
+      ]
+    },
+    {
+      "id": "726",
+      "korean": "다름없다",
+      "pronunciation": "다름업따",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "同樣、沒兩樣",
+          "exampleKr": "어려운 일을 겪었지만 전과 다름없이 일하고 있다.",
+          "exampleZh": "雖然經歷了難受的事，但還是像從前一樣的工作。"
+        }
+      ]
+    },
+    {
+      "id": "727",
+      "korean": "깔다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "鋪",
+          "exampleKr": "바닥이 딱딱하기 때문에 이불을 깔고 잠을 자도록 하세요.",
+          "exampleZh": "因為地板很硬，所以請鋪棉被睡。"
+        }
+      ]
+    },
+    {
+      "id": "728",
+      "korean": "반팔",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "短袖",
+          "exampleKr": "아직 4월인데도 벌써부터 반팔을 입고 다니는 사람을 종종 볼 수 있다.",
+          "exampleZh": "還在4月但已經可以常看到穿短袖的人。"
+        }
+      ]
+    },
+    {
+      "id": "729",
+      "korean": "동의",
+      "pronunciation": "동이",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "同意",
+          "exampleKr": "선생님의 동의를 구하고 오늘은 일찍 집으로 왔다.",
+          "exampleZh": "今天得到老師的同意提早回家了。"
+        }
+      ]
+    },
+    {
+      "id": "730",
+      "korean": "가져다주다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "帶來給",
+          "exampleKr": "준비물을 깜빡 잊고 안 가져와서 엄마가 학교로 가져다주었다.",
+          "exampleZh": "今天忘了帶準備好的東西，所以媽媽帶來學校給我。"
+        }
+      ]
+    },
+    {
+      "id": "731",
+      "korean": "발걸음",
+      "pronunciation": "발거름",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "腳步、步伐",
+          "exampleKr": "새 학기가 시작되자 모두들 힘찬 발걸음으로 학교에 간다.",
+          "exampleZh": "新學期開始，大家都踩著充滿力量的步伐上學去。"
+        }
+      ]
+    },
+    {
+      "id": "732",
+      "korean": "발길",
+      "pronunciation": "발낄",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "腳步",
+          "exampleKr": "엄마는 초등학교에 입학한 아이를 학교에 두고 쉽게 발길을 돌리지 못했다.",
+          "exampleZh": "媽媽將剛進小學的小孩送到學校，（腳步）捨不得離開。"
+        }
+      ]
+    },
+    {
+      "id": "733",
+      "korean": "가정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "家庭",
+          "exampleKr": "서로 사랑하는 두 사람은 결혼하여 가정을 이루게 되었다.",
+          "exampleZh": "相愛的兩個人結婚，組成一個家庭。"
+        },
+        {
+          "chinese": "假設",
+          "exampleKr": "설사 그 일이 사실이라고 가정을 해 봐도 이해가 되지 않는다.",
+          "exampleZh": "假設那件事情是真的，但還是無法理解。"
+        }
+      ]
+    },
+    {
+      "id": "734",
+      "korean": "동요",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "童歌",
+          "exampleKr": "어린 아이를 키우는 부모는 동요도 잘 부른다.",
+          "exampleZh": "養小孩的父母連童歌也很會唱。"
+        },
+        {
+          "chinese": "動搖",
+          "exampleKr": "경기 끝날 시간이 얼마 안 남았지만 선수들이 동요되지 않도록 해야 한다.",
+          "exampleZh": "雖然比賽快結束了，但選手不能被動搖。"
+        }
+      ]
+    },
+    {
+      "id": "735",
+      "korean": "벌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "蜂",
+          "exampleKr": "산에 가서 벌에 쏘이고 말았다.",
+          "exampleZh": "爬山時被蜂咬。"
+        },
+        {
+          "chinese": "罰",
+          "exampleKr": "거짓말을 해서 선생님께 벌을 받았다.",
+          "exampleZh": "因為說謊所以被老師處罰。"
+        }
+      ]
+    },
+    {
+      "id": "736",
+      "korean": "깔리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被鋪",
+          "exampleKr": "교실에 들어가보니 바닥에 글자와 사진이 깔려있었다.",
+          "exampleZh": "走進教室一看，發現地上鋪著文字和照片。"
+        }
+      ]
+    },
+    {
+      "id": "737",
+      "korean": "동기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "同班同學",
+          "exampleKr": "우리 대학 동기들은 거의 모두 가수가 되려는 꿈이 있다.",
+          "exampleZh": "我們大學同班同學幾乎都有想當歌手的夢想。"
+        },
+        {
+          "chinese": "動機",
+          "exampleKr": "학생들이 수업에 참여하도록 동기를 유발해 주는 게 중요합니다.",
+          "exampleZh": "讓學生產生參與課程的動機很重要。"
+        }
+      ]
+    },
+    {
+      "id": "738",
+      "korean": "깜박",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "一閃一閃；忘記；一眨眼、一下子",
+          "exampleKr": "수업 중인데 칠판 앞 등불이 깜박이다가 꺼지고 말았다.",
+          "exampleZh": "上課途中黑板前的燈一閃一閃的，最後熄了。"
+        },
+        {
+          "chinese": "忘記",
+          "exampleKr": "오늘 저녁 가족과 식사하기로 했는데 깜박하고 친구와 약속했다.",
+          "exampleZh": "今晚原本跟家人約吃晚餐，但我忘了並且約了朋友。"
+        },
+        {
+          "chinese": "一眨眼",
+          "exampleKr": "눈을 깜박할 사이에 내가 사온 케이크를 남동생이 다 먹어버렸다.",
+          "exampleZh": "轉眼間弟弟就把我買回來的蛋糕吃光了。"
+        }
+      ]
+    },
+    {
+      "id": "739",
+      "korean": "휴학",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "休學",
+          "exampleKr": "다음 학기에 휴학을 하고 군대에 가려고 생각 중이다.",
+          "exampleZh": "下學期考慮休學去當兵。"
+        }
+      ]
+    },
+    {
+      "id": "740",
+      "korean": "분필",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "粉筆",
+          "exampleKr": "칠판이나 바닥에 분필로 그림 그리는 것은 정말 재미있다.",
+          "exampleZh": "在黑板或地板上用粉筆畫畫真好玩。"
+        }
+      ]
+    },
+    {
+      "id": "741",
+      "korean": "까먹다",
+      "pronunciation": "까먹따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "剝著吃；耗盡；忘光光",
+          "exampleKr": "전문가들은 고구마 껍질을 까먹지 말고 다 먹어야 건강에 좋다고 한다.",
+          "exampleZh": "聽專家們說地瓜別剝皮吃，全部吃才有益健康。"
+        },
+        {
+          "chinese": "耗盡",
+          "exampleKr": "아들은 아버지가 평생 모은 재산을 하루 아침에 다 까먹고 말았다.",
+          "exampleZh": "兒子一夜之間便蕩盡了父親一輩子存下的財產。"
+        },
+        {
+          "chinese": "忘光光",
+          "exampleKr": "방금 하려던 말을 까먹어서 난감해졌다.",
+          "exampleZh": "忘了剛才要說的話很難堪。"
+        }
+      ]
+    },
+    {
+      "id": "742",
+      "korean": "발견",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "發現",
+          "exampleKr": "청소를 하다가 예전에 사 놓은 커피를 발견했다.",
+          "exampleZh": "打掃到一半發現之前買的咖啡。"
+        }
+      ]
+    },
+    {
+      "id": "743",
+      "korean": "벌떡",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "突然、霍然",
+          "exampleKr": "알람시계 소리에 벌떡 일어나서 먼저 세수를 했다.",
+          "exampleZh": "聽到鬧鐘響，霍然起身先去洗臉。"
+        }
+      ]
+    },
+    {
+      "id": "744",
+      "korean": "부딪치다",
+      "pronunciation": "부딘치다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "撞擊、碰到",
+          "exampleKr": "손바닥과 손바닥을 부딪치면서 서로를 격려한다.",
+          "exampleZh": "擊掌互相鼓勵。"
+        }
+      ]
+    },
+    {
+      "id": "745",
+      "korean": "부딪히다",
+      "pronunciation": "부디치다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被撞、被碰",
+          "exampleKr": "자전거가 벽에 부딪히면서 무릎을 조금 다쳤다.",
+          "exampleZh": "腳踏車撞上牆壁時膝蓋受了一點傷。"
+        }
+      ]
+    },
+    {
+      "id": "746",
+      "korean": "손잡다",
+      "pronunciation": "손잡따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "牽手",
+          "exampleKr": "친구끼리 손잡고 학교로 가면서 노래를 흥얼거린다.",
+          "exampleZh": "朋友之間一邊牽手去學校，一邊哼著歌。"
+        }
+      ]
+    },
+    {
+      "id": "747",
+      "korean": "손잡이",
+      "pronunciation": "손자비",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "把手",
+          "exampleKr": "버스를 타면 손잡이를 잡아야 안전하다.",
+          "exampleZh": "搭公車時要抓把手才安全。"
+        }
+      ]
+    },
+    {
+      "id": "748",
+      "korean": "발음",
+      "pronunciation": "바름",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "發音",
+          "exampleKr": "자주 텔레비전을 보는 친구들이 특히 한국어 발음이 좋아요.",
+          "exampleZh": "常看電視的人（朋友）韓文發音特別好。"
+        }
+      ]
+    },
+    {
+      "id": "749",
+      "korean": "설득",
+      "pronunciation": "설뚝",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "說服",
+          "exampleKr": "친구의 설득에 못 이겨 그 동아리에 가입하였다.",
+          "exampleZh": "禁不住朋友的說服就加入那個社團。"
+        }
+      ]
+    },
+    {
+      "id": "750",
+      "korean": "재학",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "在學",
+          "exampleKr": "과장님은 중학교에 재학 중인 남매가 있다.",
+          "exampleZh": "課長有（兩個）在讀中學的兒女。"
+        }
+      ]
+    },
+    {
+      "id": "751",
+      "korean": "뽑히다",
+      "pronunciation": "뽀피다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被選",
+          "exampleKr": "이번 선거에서 여자 후보들이 대거 국회의원에 뽑혔다.",
+          "exampleZh": "這次的選舉中女性候選人被大舉選為國會議員。"
+        }
+      ]
+    },
+    {
+      "id": "752",
+      "korean": "사상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "思想",
+          "exampleKr": "이 사람은 어렸을 때부터 바른 사상을 교육받았다.",
+          "exampleZh": "這個人從小開始就接受正確的思想教育。"
+        },
+        {
+          "chinese": "史上",
+          "exampleKr": "사상 최초 이 물건을 개발한 사람이 우리 회사에 와서 강연을 한다.",
+          "exampleZh": "史上第一次開發這個物品的人來我們公司演講。"
+        }
+      ]
+    },
+    {
+      "id": "753",
+      "korean": "사이좋다",
+      "pronunciation": "사이조타",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "感情好、融洽",
+          "exampleKr": "형제끼리 사이좋게 지낼 때 부모님이 흐뭇해 하신다.",
+          "exampleZh": "兄弟之間相處融洽，父母就會感到開心。"
+        }
+      ]
+    },
+    {
+      "id": "754",
+      "korean": "쓸다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "掃地",
+          "exampleKr": "경비원 아저씨는 아침에 아파트 앞을 쓸고 청소하신다.",
+          "exampleZh": "警衛叔叔早上在公寓的前面掃地打掃。"
+        }
+      ]
+    },
+    {
+      "id": "755",
+      "korean": "어휘",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "詞彙",
+          "exampleKr": "책을 많이 읽으면 어휘 능력 향상에 도움이 된다.",
+          "exampleZh": "如果讀很多書，對提升詞彙能力有幫助。"
+        }
+      ]
+    },
+    {
+      "id": "756",
+      "korean": "설립하다",
+      "pronunciation": "설리파다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "設立",
+          "exampleKr": "이 회사는 수익의 일부를 모아 장학회를 설립하였다.",
+          "exampleZh": "這家公司的部分收益用在設立獎學金會。"
+        }
+      ]
+    },
+    {
+      "id": "757",
+      "korean": "여쭈다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "問",
+          "exampleKr": "선생님께 모르는 것을 여쭈면 친절하게 설명해 주실 것이다.",
+          "exampleZh": "向老師請教不懂的地方，老師會親切的說明給你聽。"
+        }
+      ]
+    },
+    {
+      "id": "758",
+      "korean": "사생활",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "私生活",
+          "exampleKr": "다른 사람의 사생활까지 궁금해할 필요는 없다.",
+          "exampleZh": "不必連別人的私生活都知道。"
+        }
+      ]
+    },
+    {
+      "id": "759",
+      "korean": "영리하다",
+      "pronunciation": "영니하다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "聰明",
+          "exampleKr": "저 아이는 영리하고 친구들과 사교성도 좋다.",
+          "exampleZh": "那個小孩很聰明，社交能力也很好。"
+        }
+      ]
+    },
+    {
+      "id": "760",
+      "korean": "점검",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "檢查、查看",
+          "exampleKr": "일년에 한 번씩 학교 시설을 정기적으로 점검하고 있다.",
+          "exampleZh": "一年一次定期檢查學校的設備。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "첫- / 초-",
+    "titleZh": "첫-（第一）/ 초-（初-）",
+    "description": "「첫-」表示第一的固有語；「초-」表示第一次或初期",
+    "table": [
+      {
+        "kr": "첫눈",
+        "zh": "一見"
+      },
+      {
+        "kr": "첫사랑",
+        "zh": "初戀"
+      },
+      {
+        "kr": "첫인사",
+        "zh": "初次問候"
+      },
+      {
+        "kr": "초가을",
+        "zh": "早秋、初秋"
+      },
+      {
+        "kr": "초겨울",
+        "zh": "早冬、初冬"
+      },
+      {
+        "kr": "초급",
+        "zh": "初級"
+      },
+      {
+        "kr": "초기",
+        "zh": "初期"
+      },
+      {
+        "kr": "초반",
+        "zh": "初盤（第一盤棋）"
+      },
+      {
+        "kr": "초보",
+        "zh": "初步"
+      },
+      {
+        "kr": "초저녁",
+        "zh": "傍晚"
+      },
+      {
+        "kr": "초여름",
+        "zh": "早夏、初夏"
+      }
+    ]
+  }
+}

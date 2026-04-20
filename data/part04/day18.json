@@ -1,0 +1,586 @@
+{
+  "day": 18,
+  "words": [
+    {
+      "id": "681",
+      "korean": "특정",
+      "pronunciation": "특쩡",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "特定",
+          "exampleKr": "이 문제는 특정한 분야에서 초래된 것이 아니다.",
+          "exampleZh": "這個問題並非在特定的領域中發生。"
+        }
+      ]
+    },
+    {
+      "id": "682",
+      "korean": "인력",
+      "pronunciation": "일력",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人力",
+          "exampleKr": "공교육만으로 전문 인력을 배출할 수 있도록 정책이 마련되야 한다.",
+          "exampleZh": "若只靠公共教育培養出專業人才，就必須想好政策。"
+        }
+      ]
+    },
+    {
+      "id": "683",
+      "korean": "특징",
+      "pronunciation": "특찡",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "特徵、特點",
+          "exampleKr": "여기 유치원의 특징은 거의 모든 수업이 야외에서 진행된다는 사실이다.",
+          "exampleZh": "這裡幼稚園的特色就是，幾乎所有的課都在戶外進行。"
+        }
+      ]
+    },
+    {
+      "id": "684",
+      "korean": "결론",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "結論",
+          "exampleKr": "서로를 존중하지도 결론이 나지도 않는 토론을 계속 진행하고 있다.",
+          "exampleZh": "彼此不尊重也得不出結論的討論正在持續進行中。"
+        }
+      ]
+    },
+    {
+      "id": "685",
+      "korean": "대충",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "大概",
+          "exampleKr": "대충 여러 번 읽는 것 보다 자세히 한 번 읽는 것이 더 효과가 좋다.",
+          "exampleZh": "比起馬馬虎虎讀好幾次，一次仔細的閱讀效果更好。"
+        }
+      ]
+    },
+    {
+      "id": "686",
+      "korean": "방식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "方式",
+          "exampleKr": "성장 환경이 다른 두 사람의 사고 방식은 다르기 마련이다.",
+          "exampleZh": "成長環境不同的兩個人思考方式難免也不同。"
+        }
+      ]
+    },
+    {
+      "id": "687",
+      "korean": "결코",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "絕對、一定",
+          "exampleKr": "결과에 대해서 결코 남을 탓하거나 원망하면 안 된다.",
+          "exampleZh": "不論結果如何，都絕對不能怪罪或埋怨他人。"
+        }
+      ]
+    },
+    {
+      "id": "688",
+      "korean": "대하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "對待、面對",
+          "exampleKr": "관계가 좋지 않은 사람을 대할 때 여간 어색하지 않을 수 없다.",
+          "exampleZh": "面對關係不好的人時，通常會感到尷尬。"
+        }
+      ]
+    },
+    {
+      "id": "689",
+      "korean": "결승",
+      "pronunciation": "결씅",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "決賽",
+          "exampleKr": "결승 경기가 시작되자마자 우리 팀에서 먼저 득점했다.",
+          "exampleZh": "決賽一開始我們隊就先得分了。"
+        }
+      ]
+    },
+    {
+      "id": "690",
+      "korean": "겸손",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "謙虛",
+          "exampleKr": "우리 선생님은 실력이 있으실 뿐 아니라 겸손하시다.",
+          "exampleZh": "我們老師不但有實力而且還很謙虛。"
+        }
+      ]
+    },
+    {
+      "id": "691",
+      "korean": "가르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "切",
+          "exampleKr": "수박을 가르니까 빨간 속이 드러났다.",
+          "exampleZh": "切開西瓜，裡面紅紅的果肉就露出來了。"
+        }
+      ]
+    },
+    {
+      "id": "692",
+      "korean": "확실하다",
+      "pronunciation": "확씰하다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "確實、肯定",
+          "exampleKr": "어두운 곳에서 책을 보면 눈이 나빠질게 확실하다.",
+          "exampleZh": "在很暗的地方看書的話，視力一定會變不好。"
+        }
+      ]
+    },
+    {
+      "id": "693",
+      "korean": "다녀가다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "來過",
+          "exampleKr": "이미 우체부가 우리 집을 다녀갔는데 소포는 받지 못했다.",
+          "exampleZh": "郵差已經來過我們家，不過沒有收到包裹。"
+        }
+      ]
+    },
+    {
+      "id": "694",
+      "korean": "가치",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "價值",
+          "exampleKr": "모든 사람들에게 유익한 일이 진정 가치 있는 일일 것이다.",
+          "exampleZh": "對所有的人有益的事，才是真正有價值的事。"
+        }
+      ]
+    },
+    {
+      "id": "695",
+      "korean": "다만",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "只是",
+          "exampleKr": "다만 지금은 미래를 위해 준비하는 기간일 뿐이다.",
+          "exampleZh": "現在只是為了未來準備的期間而已。"
+        }
+      ]
+    },
+    {
+      "id": "696",
+      "korean": "농촌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "農村",
+          "exampleKr": "우리 부모님은 자녀들이 출가한 후에 농촌에서 농사를 짓는다.",
+          "exampleZh": "我的父母在子女結婚之後，就在農村務農。"
+        }
+      ]
+    },
+    {
+      "id": "697",
+      "korean": "가치관",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "價值觀",
+          "exampleKr": "외국 사람들을 많이 접하면서 나의 가치관도 조금씩 변화되기 시작했다.",
+          "exampleZh": "多接觸外國人之後，我的價值觀也開始漸漸改變。"
+        }
+      ]
+    },
+    {
+      "id": "698",
+      "korean": "높이다",
+      "pronunciation": "노피다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "尊敬",
+          "exampleKr": "스스로를 존중하고 높여주는 태도는 우울증에 도움이 된다.",
+          "exampleZh": "尊重及尊敬自己的態度對憂鬱症有幫助。"
+        }
+      ]
+    },
+    {
+      "id": "699",
+      "korean": "높임말",
+      "pronunciation": "노핌말",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "敬語",
+          "exampleKr": "한국어의 높임말은 반말보다 길고 어려운 편이다.",
+          "exampleZh": "韓文的敬語比半語長又難。"
+        }
+      ]
+    },
+    {
+      "id": "700",
+      "korean": "다듬다",
+      "pronunciation": "다듬따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "修",
+          "exampleKr": "새해를 맞이하려고 머리를 다듬고 새 옷을 마련했다.",
+          "exampleZh": "為了迎接新年，我修了頭髮並準備新衣。"
+        }
+      ]
+    },
+    {
+      "id": "701",
+      "korean": "도시락",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "便當",
+          "exampleKr": "어머니는 아침마다 점심 도시락을 준비해 주신다.",
+          "exampleZh": "母親每個早上都準備午餐便當給我。"
+        }
+      ]
+    },
+    {
+      "id": "702",
+      "korean": "가리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "遮；區分",
+          "exampleKr": "조선시대 여자들은 길을 갈 때 머리를 가리고 다녔다.",
+          "exampleZh": "朝鮮時代的女性走在路上會把頭遮起來。"
+        },
+        {
+          "chinese": "區分",
+          "exampleKr": "서로의 잘못을 가리기보다 먼저 이해하고 배려해 주기 바란다.",
+          "exampleZh": "比起釐清誰對誰錯，希望（大家）能先彼此了解並體諒。"
+        }
+      ]
+    },
+    {
+      "id": "703",
+      "korean": "닫히다",
+      "pronunciation": "다치다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被關起來",
+          "exampleKr": "바람이 강하게 불면서 문이 스스로 닫혔다.",
+          "exampleZh": "風很大，門（被吹到）自己關起來了。"
+        }
+      ]
+    },
+    {
+      "id": "704",
+      "korean": "말다툼",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "舌戰、吵架",
+          "exampleKr": "저 두 사람은 말다툼을 하다가도 함께 웃고 즐겁게 이야기를 한다.",
+          "exampleZh": "那兩個人吵一吵架，然後又一起嬉笑並愉快地聊天。"
+        }
+      ]
+    },
+    {
+      "id": "705",
+      "korean": "말투",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "語氣",
+          "exampleKr": "내가 유재석을 좋아하는 이유는 남을 존중해 주는 말투 때문이다.",
+          "exampleZh": "我喜歡劉在錫的原因是他尊重他人的語氣。"
+        }
+      ]
+    },
+    {
+      "id": "706",
+      "korean": "다리미",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "熨斗",
+          "exampleKr": "아침마다 출근하기 전에 다리미로 옷을 다린다.",
+          "exampleZh": "每天早上上班前用熨斗燙衣服。"
+        }
+      ]
+    },
+    {
+      "id": "707",
+      "korean": "다리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "燙",
+          "exampleKr": "옷을 다리다가 다른 일을 하려 할 때 다리미를 꼭 세워 두세요.",
+          "exampleZh": "燙衣服途中若是要做別的事，請務必把熨斗立起來。"
+        }
+      ]
+    },
+    {
+      "id": "708",
+      "korean": "깔끔하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "俐落",
+          "exampleKr": "저 사람은 외모도 깔끔하고 일도 잘한다.",
+          "exampleZh": "那個人外表很俐落也很會工作。"
+        }
+      ]
+    },
+    {
+      "id": "709",
+      "korean": "나무라다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "罵、責備",
+          "exampleKr": "한 번의 실수를 크게 나무라는 것은 그다지 좋지 않다.",
+          "exampleZh": "只因為一次的失誤而嚴厲指責不太好。"
+        }
+      ]
+    },
+    {
+      "id": "710",
+      "korean": "동창",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "同學",
+          "exampleKr": "오늘은 동창회에 나가서 고등학교 때 동창들을 만났다.",
+          "exampleZh": "今天去同學會見高中時候的同學。"
+        }
+      ]
+    },
+    {
+      "id": "711",
+      "korean": "말리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "勸止",
+          "exampleKr": "사람들은 싸움을 말릴 생각을 하지 않고 구경만 한다.",
+          "exampleZh": "人們通常不想勸架，只在一旁看。"
+        },
+        {
+          "chinese": "晾乾",
+          "exampleKr": "빨래를 말릴 때 잘 펴서 말리지 않으면 나중에 다리미로 다려야 한다.",
+          "exampleZh": "晾（乾）衣服時要攤平，不然之後還要用熨斗燙衣服。"
+        }
+      ]
+    },
+    {
+      "id": "712",
+      "korean": "말없이",
+      "pronunciation": "마럽씨",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "默默地",
+          "exampleKr": "우리 반 대표는 말없이 친구들을 도와주는 편이다.",
+          "exampleZh": "我們班代表屬於默默地幫助朋友的人。"
+        }
+      ]
+    },
+    {
+      "id": "713",
+      "korean": "다소",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "多少",
+          "exampleKr": "함께 일을 하려면 다소 어려운 점도 있지만 큰 성취감을 느낄 수 있다.",
+          "exampleZh": "若是想一起工作，雖然多少會有困難之處，但可以獲得很大的成就感。"
+        }
+      ]
+    },
+    {
+      "id": "714",
+      "korean": "까닭",
+      "pronunciation": "까닥",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "理由、緣由",
+          "exampleKr": "기자가 이번 프로젝트에 참여하지 않는 까닭을 물어보았다.",
+          "exampleZh": "記者問我不參與這次計畫的原因。"
+        }
+      ]
+    },
+    {
+      "id": "715",
+      "korean": "난리",
+      "pronunciation": "날리",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "大亂",
+          "exampleKr": "잘못된 소식이 전해지자 회사 사람들이 모두 난리가 났다.",
+          "exampleZh": "錯誤的消息一傳開，公司的人全都亂成一團。"
+        }
+      ]
+    },
+    {
+      "id": "716",
+      "korean": "눈치",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "眼力",
+          "exampleKr": "나는 눈치도 없이 상대방에게 곤란한 질문을 했다.",
+          "exampleZh": "我很不會看眼色白目的問了對方為難的問題。"
+        }
+      ]
+    },
+    {
+      "id": "717",
+      "korean": "난방",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "供暖",
+          "exampleKr": "겨울에 여기에서 수업을 하려면 난방시설을 잘 갖춰야 한다.",
+          "exampleZh": "冬天若想在這裡上課，就必須安裝供暖設施。"
+        }
+      ]
+    },
+    {
+      "id": "718",
+      "korean": "내다보다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "看外面",
+          "exampleKr": "창밖을 내다보니 새로 이사오는 집이 보였다.",
+          "exampleZh": "往窗外看時，看到了新搬來的人家。"
+        }
+      ]
+    },
+    {
+      "id": "719",
+      "korean": "도중",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "途中",
+          "exampleKr": "사람이 말을 하는 도중에 끼어들면 예의가 아니다.",
+          "exampleZh": "在人家講話途中插話不禮貌。"
+        }
+      ]
+    },
+    {
+      "id": "720",
+      "korean": "도장",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "蓋章",
+          "exampleKr": "이 지역을 관광하고 나서 기념 도장을 찍어 갈 수 있다.",
+          "exampleZh": "觀光這個地區後，可以蓋紀念章回去。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-점",
+    "titleZh": "-店 / -點、之處",
+    "description": "「-점（店）」表示商店；「-점（點）」表示指某個部分或要素",
+    "table": [
+      {
+        "kr": "커피전문점",
+        "zh": "咖啡專賣店"
+      },
+      {
+        "kr": "백화점",
+        "zh": "百貨公司"
+      },
+      {
+        "kr": "정육점",
+        "zh": "肉舖"
+      },
+      {
+        "kr": "제과점",
+        "zh": "點心店"
+      },
+      {
+        "kr": "할인점",
+        "zh": "折扣商店"
+      },
+      {
+        "kr": "식품점",
+        "zh": "食品館"
+      },
+      {
+        "kr": "문제점",
+        "zh": "問題點"
+      },
+      {
+        "kr": "공통점",
+        "zh": "共同點"
+      },
+      {
+        "kr": "관점",
+        "zh": "觀點"
+      },
+      {
+        "kr": "좋은 점",
+        "zh": "好處、益處"
+      },
+      {
+        "kr": "배울 점",
+        "zh": "要學習的地方"
+      }
+    ]
+  }
+}
