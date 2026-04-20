@@ -10,7 +10,7 @@
         {
           "chinese": "情況",
           "exampleKr": "학생들이 많을 경우 반을 두 개로 나누려고 한다.",
-          "exampleZh": "學生很多的情況，打算要分兩個班。"
+          "exampleZh": "學生很多的情況下，打算分成兩個班。"
         },
         {
           "chinese": "場合",
@@ -28,7 +28,7 @@
         {
           "chinese": "對象",
           "exampleKr": "이번 연구는 한국에 사는 외국인들을 대상으로 하였다.",
-          "exampleZh": "這次以住在韓國的外國人為對象，進行研究。"
+          "exampleZh": "這次研究以住在韓國的外國人為對象。"
         }
       ]
     },
@@ -40,8 +40,8 @@
       "meanings": [
         {
           "chinese": "領域",
-          "exampleKr": "오늘 세미나 강사는 금융 분야에 연구 경력이 많은 분이다.",
-          "exampleZh": "今天研討會的講師是一位對金融領域研究閱歷豐富的人。"
+          "exampleKr": "금융 분야에 경험이 많다.",
+          "exampleZh": "在金融領域有很多經驗。"
         }
       ]
     },
@@ -53,58 +53,532 @@
       "meanings": [
         {
           "chinese": "挑戰",
-          "exampleKr": "청년들이 도전을 해야 사회가 변화될 수 있다.",
-          "exampleZh": "年輕人要挑戰，社會才會改變。"
+          "exampleKr": "새로운 일에 도전해 보세요.",
+          "exampleZh": "試著挑戰新的事情。"
         }
       ]
     },
     {
       "id": "005",
-      "korean": "의지",
+      "korean": "가입",
       "pronunciation": null,
       "pos": "명",
       "meanings": [
         {
-          "chinese": "倚靠",
-          "exampleKr": "특히 해외에 살다 보면 의지할 친구가 필요하기 마련이다.",
-          "exampleZh": "尤其住在國外，一定會有需要倚靠朋友的時候。"
-        },
+          "chinese": "加入",
+          "exampleKr": "회원 가입을 해야 이용할 수 있다.",
+          "exampleZh": "必須加入會員才能使用。"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "korean": "모집",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
         {
-          "chinese": "意志",
-          "exampleKr": "강한 의지로 어려운 시험을 통과했다.",
-          "exampleZh": "以強烈的意志通過很難的考試。"
+          "chinese": "招募",
+          "exampleKr": "직원을 모집하고 있다.",
+          "exampleZh": "正在招募員工。"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "korean": "변화",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "變化",
+          "exampleKr": "사회가 빠르게 변화하고 있다.",
+          "exampleZh": "社會正在快速變化。"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "korean": "보호",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "保護",
+          "exampleKr": "환경 보호가 중요하다.",
+          "exampleZh": "環境保護很重要。"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "korean": "시설",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "設施",
+          "exampleKr": "시설이 잘 갖추어져 있다.",
+          "exampleZh": "設施很完善。"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "korean": "언젠가",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "總有一天",
+          "exampleKr": "언젠가 다시 만나자.",
+          "exampleZh": "總有一天再見面吧。"
+        }
+      ]
+    },
+
+    {
+      "id": "011",
+      "korean": "여전히",
+      "pos": "부",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "仍然",
+          "exampleKr": "그는 여전히 그 일을 하고 있다.",
+          "exampleZh": "他仍然在做那件事。"
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "korean": "변경",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "變更",
+          "exampleKr": "일정을 변경했다.",
+          "exampleZh": "變更了行程。"
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "korean": "예약",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "預約",
+          "exampleKr": "호텔을 예약했다.",
+          "exampleZh": "預約了飯店。"
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "korean": "요소",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "要素",
+          "exampleKr": "성공의 중요한 요소이다.",
+          "exampleZh": "是成功的重要要素。"
+        }
+      ]
+    },
+
+    {
+      "id": "015",
+      "korean": "우편",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "郵件",
+          "exampleKr": "우편으로 보내 주세요.",
+          "exampleZh": "請用郵寄寄送。"
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "korean": "유지하다",
+      "pos": "동",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "維持",
+          "exampleKr": "건강을 유지하다.",
+          "exampleZh": "維持健康。"
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "korean": "유효",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "有效",
+          "exampleKr": "이 표는 유효하다.",
+          "exampleZh": "這張票是有效的。"
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "korean": "동시",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "同時",
+          "exampleKr": "두 일을 동시에 한다.",
+          "exampleZh": "同時做兩件事。"
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "korean": "이전",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "以前",
+          "exampleKr": "이전 회사에서 일했다.",
+          "exampleZh": "以前在公司工作。"
+        }
+      ]
+    },
+
+    {
+      "id": "020",
+      "korean": "일반",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "一般",
+          "exampleKr": "일반 사람들도 사용할 수 있다.",
+          "exampleZh": "一般人也可以使用。"
+        }
+      ]
+    },
+
+    {
+      "id": "021",
+      "korean": "이하",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "以下",
+          "exampleKr": "10세 이하 어린이 무료",
+          "exampleZh": "10歲以下免費。"
+        }
+      ]
+    },
+
+    {
+      "id": "022",
+      "korean": "작성하다",
+      "pos": "동",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "填寫",
+          "exampleKr": "보고서를 작성하다.",
+          "exampleZh": "撰寫報告。"
+        }
+      ]
+    },
+
+    {
+      "id": "023",
+      "korean": "일부분",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "一部分",
+          "exampleKr": "일부분만 공개했다.",
+          "exampleZh": "只公開了一部分。"
+        }
+      ]
+    },
+
+    {
+      "id": "024",
+      "korean": "자격",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "資格",
+          "exampleKr": "참가 자격이 있다.",
+          "exampleZh": "有參加資格。"
+        }
+      ]
+    },
+
+    {
+      "id": "025",
+      "korean": "장기간",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "長期間",
+          "exampleKr": "장기간 연구했다.",
+          "exampleZh": "長期研究。"
+        }
+      ]
+    },
+
+    {
+      "id": "026",
+      "korean": "전국",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "全國",
+          "exampleKr": "전국적으로 확대되었다.",
+          "exampleZh": "擴展到全國。"
+        }
+      ]
+    },
+
+    {
+      "id": "027",
+      "korean": "참여하다",
+      "pos": "동",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "參與",
+          "exampleKr": "행사에 참여하다.",
+          "exampleZh": "參與活動。"
+        }
+      ]
+    },
+
+    {
+      "id": "028",
+      "korean": "체험",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "體驗",
+          "exampleKr": "체험 활동을 했다.",
+          "exampleZh": "進行體驗活動。"
+        }
+      ]
+    },
+
+    {
+      "id": "029",
+      "korean": "포함되다",
+      "pos": "동",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "包含",
+          "exampleKr": "가격에 세금이 포함되었다.",
+          "exampleZh": "價格已包含稅金。"
+        }
+      ]
+    },
+
+    {
+      "id": "030",
+      "korean": "전문",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "專門",
+          "exampleKr": "전문 분야이다.",
+          "exampleZh": "是專業領域。"
+        }
+      ]
+    },
+
+    {
+      "id": "031",
+      "korean": "표",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "票",
+          "exampleKr": "표를 샀다.",
+          "exampleZh": "買了票。"
+        }
+      ]
+    },
+
+    {
+      "id": "032",
+      "korean": "판매",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "販售",
+          "exampleKr": "상품을 판매하다.",
+          "exampleZh": "販售商品。"
+        }
+      ]
+    },
+
+    {
+      "id": "033",
+      "korean": "할인",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "折扣",
+          "exampleKr": "할인을 받았다.",
+          "exampleZh": "得到折扣。"
+        }
+      ]
+    },
+
+    {
+      "id": "034",
+      "korean": "필수",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "必須",
+          "exampleKr": "필수 항목이다.",
+          "exampleZh": "是必填項目。"
+        }
+      ]
+    },
+
+    {
+      "id": "035",
+      "korean": "상담",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "諮詢",
+          "exampleKr": "상담을 받다.",
+          "exampleZh": "接受諮詢。"
+        }
+      ]
+    },
+
+    {
+      "id": "036",
+      "korean": "무료",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "免費",
+          "exampleKr": "무료로 제공된다.",
+          "exampleZh": "免費提供。"
+        }
+      ]
+    },
+
+    {
+      "id": "037",
+      "korean": "반성",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "反省",
+          "exampleKr": "자신을 반성하다.",
+          "exampleZh": "反省自己。"
+        }
+      ]
+    },
+
+    {
+      "id": "038",
+      "korean": "분포",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "分布",
+          "exampleKr": "인구 분포를 조사하다.",
+          "exampleZh": "調查人口分布。"
+        }
+      ]
+    },
+
+    {
+      "id": "039",
+      "korean": "등록",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "登錄",
+          "exampleKr": "회원 등록을 했다.",
+          "exampleZh": "完成會員登錄。"
+        }
+      ]
+    },
+
+    {
+      "id": "040",
+      "korean": "행사",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "活動",
+          "exampleKr": "행사를 준비하다.",
+          "exampleZh": "準備活動。"
         }
       ]
     }
   ],
+
   "tip": {
     "title": "-적",
     "titleZh": "-的、-上、-性（質）的",
-    "description": "接在名詞的後面，表示該名詞的性質",
+    "description": "接在名詞的後面，表示該名詞的性質或特徵，是TOPIK中高級非常常見的構詞方式",
     "table": [
       { "kr": "개인적", "zh": "個人的" },
       { "kr": "객관적", "zh": "客觀的" },
       { "kr": "구체적", "zh": "具體的" },
-      { "kr": "기본적", "zh": "基本上" },
+      { "kr": "기본적", "zh": "基本的" },
       { "kr": "내성적", "zh": "內向的" },
       { "kr": "논리적", "zh": "邏輯性的" },
       { "kr": "대표적", "zh": "代表性的" },
-      { "kr": "문화적", "zh": "文化上" },
+      { "kr": "문화적", "zh": "文化上的" },
       { "kr": "물질적", "zh": "物質性的" },
       { "kr": "부분적", "zh": "部分的" },
-      { "kr": "부정적", "zh": "負面性的" },
-      { "kr": "비관적", "zh": "批判性的" },
+      { "kr": "부정적", "zh": "負面的" },
+      { "kr": "비관적", "zh": "悲觀的" },
       { "kr": "사교적", "zh": "社交性的" },
-      { "kr": "사적",   "zh": "私人的" },
-      { "kr": "사회적", "zh": "社會上" },
+      { "kr": "사적", "zh": "私人的" },
+      { "kr": "사회적", "zh": "社會的" },
       { "kr": "상대적", "zh": "相對的" },
       { "kr": "성공적", "zh": "成功的" },
       { "kr": "세계적", "zh": "世界性的" },
       { "kr": "수동적", "zh": "被動的" },
       { "kr": "순간적", "zh": "瞬間的" },
-      { "kr": "신체적", "zh": "身體上" },
+      { "kr": "신체적", "zh": "身體上的" },
       { "kr": "실용적", "zh": "實用性的" },
-      { "kr": "심리적", "zh": "心理上" },
+      { "kr": "심리적", "zh": "心理上的" },
       { "kr": "역사적", "zh": "歷史性的" },
       { "kr": "예술적", "zh": "藝術性的" },
       { "kr": "의무적", "zh": "義務性的" },
@@ -115,11 +589,11 @@
       { "kr": "전통적", "zh": "傳統的" },
       { "kr": "합리적", "zh": "合理的" },
       { "kr": "환상적", "zh": "夢幻的" },
-      { "kr": "효과적", "zh": "效果的" },
-      { "kr": "효율적", "zh": "效率的" },
+      { "kr": "효과적", "zh": "有效的" },
+      { "kr": "효율적", "zh": "有效率的" },
       { "kr": "규칙적", "zh": "規律的" },
       { "kr": "긍정적", "zh": "正面的" },
-      { "kr": "비교적", "zh": "比較性的" }
+      { "kr": "비교적", "zh": "比較的" }
     ]
   }
 }
