@@ -1,0 +1,604 @@
+{
+  "day": 22,
+  "words": [
+    {
+      "id": "841",
+      "korean": "인간",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人",
+          "exampleKr": "인간과 동물의 큰 차이점이라면 생각할 수 있는 능력이 아닐까.",
+          "exampleZh": "人跟動物最大的不同點，在於是否有思考的能力。"
+        }
+      ]
+    },
+    {
+      "id": "842",
+      "korean": "출연",
+      "pronunciation": "추련",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "出演、上台",
+          "exampleKr": "오늘은 내가 좋아하는 배우가 텔레비전에 출연한다.",
+          "exampleZh": "今天我喜歡的演員上電視了。"
+        }
+      ]
+    },
+    {
+      "id": "843",
+      "korean": "멜로디",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "旋律",
+          "exampleKr": "지금 나오는 노래의 멜로디가 아름답고 가사도 마음에 와 닿는다.",
+          "exampleZh": "現在播放出來的歌，旋律很美歌詞也牢記在我心。"
+        }
+      ]
+    },
+    {
+      "id": "844",
+      "korean": "녹화",
+      "pronunciation": "노콰",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "錄影",
+          "exampleKr": "오늘은 녹화 시간이 너무 길어져서 몸이 피곤하다.",
+          "exampleZh": "今天錄影的時間太長，所以身體很累。"
+        }
+      ]
+    },
+    {
+      "id": "845",
+      "korean": "제도",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "制度",
+          "exampleKr": "사회 약자를 위해 여러 가지 제도가 개선되어야 한다.",
+          "exampleZh": "為了社會弱勢者必須改善各種制度。"
+        }
+      ]
+    },
+    {
+      "id": "846",
+      "korean": "해내다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "辦到",
+          "exampleKr": "짧은 시간 동안 시험준비를 했지만 충분히 해냈다.",
+          "exampleZh": "雖然準備考試的期間很短，但充分辦到了。"
+        }
+      ]
+    },
+    {
+      "id": "847",
+      "korean": "한쪽",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "一邊",
+          "exampleKr": "한쪽 손만 쓰려고 하니까 너무 불편하다.",
+          "exampleZh": "只使用一邊的手，不太方便。"
+        }
+      ]
+    },
+    {
+      "id": "848",
+      "korean": "오락",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "娛樂",
+          "exampleKr": "일만 하는 것보다 주말에 오락을 즐기는 것도 좋다.",
+          "exampleZh": "比起一直工作，週末享受娛樂也很好。"
+        }
+      ]
+    },
+    {
+      "id": "849",
+      "korean": "협력",
+      "pronunciation": "혐녁",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "合作、協助",
+          "exampleKr": "이번 공연을 함께 준비하면서 서로 협력하는 방법을 배웠다.",
+          "exampleZh": "這次一起準備公演學到互相合作的方法。"
+        }
+      ]
+    },
+    {
+      "id": "850",
+      "korean": "구세대",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "老一代",
+          "exampleKr": "구세대의 취미 생활은 지금과 많은 차이가 있다.",
+          "exampleZh": "老一代的休閒生活和現在有很大的不同。"
+        }
+      ]
+    },
+    {
+      "id": "851",
+      "korean": "한참",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "老半天",
+          "exampleKr": "산에 한참을 올라갔지만 아직도 절반을 오르지 못했다.",
+          "exampleZh": "爬山爬了老半天還沒爬一半。"
+        }
+      ]
+    },
+    {
+      "id": "852",
+      "korean": "전통",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "傳統",
+          "exampleKr": "이 동네의 가게는 가족이 전통적으로 운영하고 있다.",
+          "exampleZh": "這個地區的商店是由家族按照傳統的方式經營。"
+        }
+      ]
+    },
+    {
+      "id": "853",
+      "korean": "계층",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "階層",
+          "exampleKr": "요즘 유행하는 저 노래는 다양한 계층의 사람들이 즐겨 듣는다.",
+          "exampleZh": "最近流行的那首歌，各個階層的人都喜歡聽。"
+        }
+      ]
+    },
+    {
+      "id": "854",
+      "korean": "한창",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "正是時候",
+          "exampleKr": "공원에서 한창 공놀이를 하는데 갑자기 비가 왔다.",
+          "exampleZh": "正在公園玩球突然下雨了。"
+        }
+      ]
+    },
+    {
+      "id": "855",
+      "korean": "경력",
+      "pronunciation": "경녁",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "經歷",
+          "exampleKr": "요즘 대학생들은 취업을 위해 공부보다 경력 쌓기에 바쁘다고 한다.",
+          "exampleZh": "聽說最近的大學生為了就業，比起念書更忙著累積經歷。"
+        }
+      ]
+    },
+    {
+      "id": "856",
+      "korean": "전쟁",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "戰爭",
+          "exampleKr": "취업이 힘들다 보니 취업 전쟁이라는 말이 나올 정도이다.",
+          "exampleZh": "因為就業困難，甚至還出現了就業戰爭這樣的詞彙。"
+        }
+      ]
+    },
+    {
+      "id": "857",
+      "korean": "디지털",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "數位",
+          "exampleKr": "이 피아노는 소리를 들어보면 디지털 피아노라는 것을 알 수 있다.",
+          "exampleZh": "聽這台鋼琴的聲音就知道是台數位鋼琴。"
+        }
+      ]
+    },
+    {
+      "id": "858",
+      "korean": "문화재",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "文化資產",
+          "exampleKr": "전통 문화재를 잘 보존하는 것은 모두의 책임이다.",
+          "exampleZh": "保存傳統文化資產是大家的責任。"
+        }
+      ]
+    },
+    {
+      "id": "859",
+      "korean": "상대방",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "對方",
+          "exampleKr": "나는 사람을 처음 만나면 어색해서 상대방을 똑바로 쳐다볼 수 없다.",
+          "exampleZh": "我遇到初次見面的人都會覺得尷尬而無法直視對方。"
+        }
+      ]
+    },
+    {
+      "id": "860",
+      "korean": "민족",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "民族",
+          "exampleKr": "우리 선생님은 민족 문화 연구에 일생을 바치셨다.",
+          "exampleZh": "我的老師貢獻了一輩子在研究民族文化。"
+        }
+      ]
+    },
+    {
+      "id": "861",
+      "korean": "출판",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "出版",
+          "exampleKr": "인터넷 블로그에서 유명한 이야기가 책으로 출판되었다.",
+          "exampleZh": "網路部落格中有名的故事被出版成書。"
+        }
+      ]
+    },
+    {
+      "id": "862",
+      "korean": "상대편",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "對方",
+          "exampleKr": "지난번 경기 상대편 선수는 사실 나의 가장 친한 친구이다.",
+          "exampleZh": "上一次比賽的對方選手其實是我最好的朋友。"
+        }
+      ]
+    },
+    {
+      "id": "863",
+      "korean": "인격",
+      "pronunciation": "인격",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人格",
+          "exampleKr": "세 살까지는 한 사람의 인격 형성에 아주 중요한 시기이다.",
+          "exampleZh": "三歲前是人格養成非常重要的時期。"
+        }
+      ]
+    },
+    {
+      "id": "864",
+      "korean": "절",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "寺廟",
+          "exampleKr": "어머니는 내 대학 입시 전에 절에 가서 기도하셨다.",
+          "exampleZh": "媽媽在我大考（大學入學考試）前到寺廟裡祈福。"
+        },
+        {
+          "chinese": "拜",
+          "exampleKr": "새해 아침에 어른들께 절을 드린다.",
+          "exampleZh": "新年的早晨向長輩拜年。"
+        }
+      ]
+    },
+    {
+      "id": "865",
+      "korean": "한층",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "更加、進一步",
+          "exampleKr": "내 친구가 못 본 사이에 한층 예뻐졌다.",
+          "exampleZh": "一段時間不見，我朋友變得更漂亮了。"
+        }
+      ]
+    },
+    {
+      "id": "866",
+      "korean": "오직",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "只",
+          "exampleKr": "지금은 오직 그 방법밖에 사용할 수 없다.",
+          "exampleZh": "現在只能使用那個方法。"
+        }
+      ]
+    },
+    {
+      "id": "867",
+      "korean": "한편",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "另一方面、另外",
+          "exampleKr": "비가 와서 집에 있었는데, 한편 친구는 밖에서 우산이 없어서 집에 돌아가지 못했다.",
+          "exampleZh": "我因為下雨而待在家裡，另一方面我朋友人在外面，卻沒有雨傘而回不了家。"
+        }
+      ]
+    },
+    {
+      "id": "868",
+      "korean": "인정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人情",
+          "exampleKr": "보통 도시 사람들보다 시골사람들이 더 인정 넘친다.",
+          "exampleZh": "通常鄉下人比城市人更有人情。"
+        },
+        {
+          "chinese": "承認、肯定",
+          "exampleKr": "나는 선생님께 인정을 받아서 반 대표로 미술대회에 나간다.",
+          "exampleZh": "我得到老師的肯定，代表我們班參加美術比賽。"
+        }
+      ]
+    },
+    {
+      "id": "869",
+      "korean": "이어서",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "接著",
+          "exampleKr": "이틀 동안 이어서 늦잠을 자서 학교에 지각했다.",
+          "exampleZh": "接連兩天都因為晚起而上學遲到。"
+        }
+      ]
+    },
+    {
+      "id": "870",
+      "korean": "자리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "位子",
+          "exampleKr": "버스 운행 중에는 자리를 이동할 수 없습니다.",
+          "exampleZh": "公車行駛中不可以移動位子。"
+        },
+        {
+          "chinese": "鋪床",
+          "exampleKr": "잘 시간이 되었으니까 자리를 펴고 잠을 자라.",
+          "exampleZh": "已經到了睡覺的時間，鋪床睡覺吧。"
+        }
+      ]
+    },
+    {
+      "id": "871",
+      "korean": "자부심",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "自豪",
+          "exampleKr": "본인이 세운 회사에 대해 자부심이 있습니다.",
+          "exampleZh": "對自己建立的公司感到自豪。"
+        }
+      ]
+    },
+    {
+      "id": "872",
+      "korean": "기반",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "基礎",
+          "exampleKr": "아버지는 회사의 기반을 다지게 하려고 부단히 노력하셨다.",
+          "exampleZh": "父親為了打好公司的基礎不斷地努力。"
+        }
+      ]
+    },
+    {
+      "id": "873",
+      "korean": "젊은이",
+      "pronunciation": "절므니",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "年輕人",
+          "exampleKr": "요즘 젊은이들은 도전하려 하지 않고 안정만을 추구합니다.",
+          "exampleZh": "最近年輕人不勇於挑戰只追求穩定。"
+        }
+      ]
+    },
+    {
+      "id": "874",
+      "korean": "젊음",
+      "pronunciation": "절름",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "年輕",
+          "exampleKr": "돈 보다 가치 있는 것은 건강과 젊음이라고 생각합니다.",
+          "exampleZh": "我認為健康和青春比金錢還重要。"
+        }
+      ]
+    },
+    {
+      "id": "875",
+      "korean": "취향",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "愛好",
+          "exampleKr": "음식을 먹는 취향이 비슷해서 우리는 더 빨리 친구가 되었다.",
+          "exampleZh": "因為吃東西的喜好類似，我們很快就成為朋友。"
+        }
+      ]
+    },
+    {
+      "id": "876",
+      "korean": "자막",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "字幕",
+          "exampleKr": "자막을 보면 되니까 외국어 영화도 잘 감상할 수 있습니다.",
+          "exampleZh": "因為可以看字幕，所以外文電影也可以好好欣賞。"
+        }
+      ]
+    },
+    {
+      "id": "877",
+      "korean": "모래",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "沙子",
+          "exampleKr": "동네 놀이터에서 모래 놀이도 하고 그네도 탑니다.",
+          "exampleZh": "在社區遊樂場玩沙子和盪鞦韆。"
+        }
+      ]
+    },
+    {
+      "id": "878",
+      "korean": "건조",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "乾燥",
+          "exampleKr": "날씨가 건조할 때 불이 나지 않도록 특별히 조심하세요.",
+          "exampleZh": "天氣乾燥時要特別小心火燭。"
+        }
+      ]
+    },
+    {
+      "id": "879",
+      "korean": "보물",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "寶物",
+          "exampleKr": "아이의 보물을 상자에 넣어 두었습니다.",
+          "exampleZh": "把小孩的寶物放進紙箱中。"
+        }
+      ]
+    },
+    {
+      "id": "880",
+      "korean": "걷다",
+      "pronunciation": "걷따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "挽；收",
+          "exampleKr": "소매를 걷고 세수를 합니다.",
+          "exampleZh": "挽起袖子洗臉。"
+        },
+        {
+          "chinese": "收",
+          "exampleKr": "비가 오려고 하니까 빨리 빨래를 걷어 주세요.",
+          "exampleZh": "要下雨了，趕快幫忙收衣服。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-표",
+    "titleZh": "-票 / -表",
+    "description": "「-표（票）」表示票券；「-표（表）」表示以簡單明瞭的方式傳達訊息",
+    "table": [
+      {
+        "kr": "수표",
+        "zh": "支票"
+      },
+      {
+        "kr": "번호표",
+        "zh": "號碼牌"
+      },
+      {
+        "kr": "차표",
+        "zh": "車票"
+      },
+      {
+        "kr": "비행기 표",
+        "zh": "飛機票"
+      },
+      {
+        "kr": "기차표",
+        "zh": "火車票"
+      },
+      {
+        "kr": "콘서트표",
+        "zh": "演唱會票"
+      },
+      {
+        "kr": "오페라표",
+        "zh": "歌劇票"
+      },
+      {
+        "kr": "영화표",
+        "zh": "電影票"
+      },
+      {
+        "kr": "성적표",
+        "zh": "成績單"
+      },
+      {
+        "kr": "사표",
+        "zh": "辭呈"
+      },
+      {
+        "kr": "이름표",
+        "zh": "名牌"
+      },
+      {
+        "kr": "일정표",
+        "zh": "行事曆"
+      },
+      {
+        "kr": "차림표",
+        "zh": "菜單"
+      }
+    ]
+  }
+}

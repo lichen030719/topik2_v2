@@ -1,0 +1,597 @@
+{
+  "day": 25,
+  "words": [
+    {
+      "id": "961",
+      "korean": "감상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "欣賞",
+          "exampleKr": "아침 저녁으로 음악 감상을 합니다.",
+          "exampleZh": "早晚都欣賞音樂。"
+        }
+      ]
+    },
+    {
+      "id": "962",
+      "korean": "감상문",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "心得",
+          "exampleKr": "학교 숙제로 오페라 감상문을 써야 한다.",
+          "exampleZh": "學校的功課是要寫觀賞歌劇的心得。"
+        }
+      ]
+    },
+    {
+      "id": "963",
+      "korean": "이미지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "形象",
+          "exampleKr": "좋은 이미지를 갖기 위해 관련된 강연을 들으러 갈 겁니다.",
+          "exampleZh": "為了有好的形象，我會去聽相關的演講。"
+        }
+      ]
+    },
+    {
+      "id": "964",
+      "korean": "장면",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "場面、場景",
+          "exampleKr": "이 장면이 드라마에서 제일 유명합니다.",
+          "exampleZh": "這是電視劇中最有名的場景。"
+        }
+      ]
+    },
+    {
+      "id": "965",
+      "korean": "찡그리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "皺起",
+          "exampleKr": "아기가 얼굴을 찡그리면서 울기 시작했다.",
+          "exampleZh": "嬰兒皺起臉開始哭。"
+        }
+      ]
+    },
+    {
+      "id": "966",
+      "korean": "맨발",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "赤腳、光腳",
+          "exampleKr": "무용수가 맨발로 춤을 추고 있다.",
+          "exampleZh": "舞蹈家正赤著腳跳舞。"
+        }
+      ]
+    },
+    {
+      "id": "967",
+      "korean": "천사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "天使",
+          "exampleKr": "이 아이는 천사처럼 마음이 곱고 예쁘다.",
+          "exampleZh": "這個小孩像天使一般心很美又很漂亮。"
+        }
+      ]
+    },
+    {
+      "id": "968",
+      "korean": "보관",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "保管",
+          "exampleKr": "무거운 물건은 보관함에 넣으세요.",
+          "exampleZh": "很重的東西請放在保管箱。"
+        }
+      ]
+    },
+    {
+      "id": "969",
+      "korean": "쫓아내다",
+      "pronunciation": "쪼차내다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "趕出去",
+          "exampleKr": "가끔 야생 고양이가 마당으로 들어오면 쫓아낸다.",
+          "exampleZh": "偶爾野貓如果進來庭園（我會把牠）趕出去。"
+        }
+      ]
+    },
+    {
+      "id": "970",
+      "korean": "경비",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "經費",
+          "exampleKr": "이벤트에 사용된 경비를 계산해서 보고해 주세요.",
+          "exampleZh": "計算活動的使用經費後請（向我）報告。"
+        }
+      ]
+    },
+    {
+      "id": "971",
+      "korean": "홍보",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "推銷、廣告、宣傳",
+          "exampleKr": "신상품이 나오면 회사는 홍보에 주력하게 된다.",
+          "exampleZh": "隨著新商品的推出，公司將主力擺在宣傳上。"
+        }
+      ]
+    },
+    {
+      "id": "972",
+      "korean": "거꾸로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "倒",
+          "exampleKr": "우산이 거꾸로 뒤집혀서 비를 다 맞았다.",
+          "exampleZh": "雨傘被翻倒過來，全都淋到雨了。"
+        }
+      ]
+    },
+    {
+      "id": "973",
+      "korean": "부채",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "扇子",
+          "exampleKr": "날씨가 더운데 에어컨도 틀 수 없어서 부채만 부친다.",
+          "exampleZh": "天氣熱又不能開冷氣，只能搧扇子。"
+        }
+      ]
+    },
+    {
+      "id": "974",
+      "korean": "걸치다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "架、搭",
+          "exampleKr": "테이블에 발을 걸치면 예의가 아니다.",
+          "exampleZh": "把腳架在桌子上不禮貌。"
+        }
+      ]
+    },
+    {
+      "id": "975",
+      "korean": "흑백",
+      "pronunciation": "흑빽",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "黑白",
+          "exampleKr": "할머니가 처음 산 텔레비전은 흑백 텔레비전이었다고 하셨다.",
+          "exampleZh": "奶奶說她第一次買的電視是黑白電視。"
+        }
+      ]
+    },
+    {
+      "id": "976",
+      "korean": "고요하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "安靜的",
+          "exampleKr": "모두가 잠을 자는 고요한 밤에 일기를 써 보세요.",
+          "exampleZh": "請試著在大家都睡著的寧靜夜裡寫日記。"
+        }
+      ]
+    },
+    {
+      "id": "977",
+      "korean": "대중",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "大眾",
+          "exampleKr": "대중의 심리를 이해하려면 설문을 해 보면 된다.",
+          "exampleZh": "若想了解大眾心理，可以做問卷調查。"
+        }
+      ]
+    },
+    {
+      "id": "978",
+      "korean": "마무리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "結尾、結束",
+          "exampleKr": "지금 하는 일이 마무리되면 한번 만납시다.",
+          "exampleZh": "現在處理的事情結束見個面吧！"
+        }
+      ]
+    },
+    {
+      "id": "979",
+      "korean": "뛰어나다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "卓越",
+          "exampleKr": "사모님의 음식 솜씨가 뛰어나다고 이야기 많이 들었습니다.",
+          "exampleZh": "我聽到很多人說師母的廚藝很卓越。"
+        }
+      ]
+    },
+    {
+      "id": "980",
+      "korean": "매진",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "售罄、售完",
+          "exampleKr": "이 공연은 인기가 있어서 매 공연마다 표가 매진된다.",
+          "exampleZh": "這個演出很受歡迎，所以每場演出的票都售罄。"
+        }
+      ]
+    },
+    {
+      "id": "981",
+      "korean": "동화",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "童話",
+          "exampleKr": "동화 속에는 수많은 왕자와 공주 이야기가 나온다.",
+          "exampleZh": "童話裡有很多王子和公主的故事。"
+        }
+      ]
+    },
+    {
+      "id": "982",
+      "korean": "마음대로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "任意、隨便",
+          "exampleKr": "오늘은 먹고 싶은 것을 마음대로 선택할 수 있다.",
+          "exampleZh": "今天你想吃什麼都可以任意選。"
+        }
+      ]
+    },
+    {
+      "id": "983",
+      "korean": "화제",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "話題",
+          "exampleKr": "다같이 이야기하는 도중에 갑자기 화제를 바꾸면 실례이다.",
+          "exampleZh": "大家一起聊天中突然換話題很失禮。"
+        }
+      ]
+    },
+    {
+      "id": "984",
+      "korean": "화재",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "火災",
+          "exampleKr": "화재가 발생해서 소방차가 무려 3대나 왔다.",
+          "exampleZh": "發生火災足足來了3台消防車。"
+        }
+      ]
+    },
+    {
+      "id": "985",
+      "korean": "검토",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "檢查",
+          "exampleKr": "사장님께서 서류를 검토해 주실 때까지 기다려 주세요.",
+          "exampleZh": "請等到社長檢查完資料。"
+        }
+      ]
+    },
+    {
+      "id": "986",
+      "korean": "지적",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "指出；指責",
+          "exampleKr": "준비물을 가져오지 않아서 선생님께 지적받았다.",
+          "exampleZh": "因為沒帶準備的東西而被老師指責。"
+        }
+      ]
+    },
+    {
+      "id": "987",
+      "korean": "공주",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "公主",
+          "exampleKr": "어린아이가 작은 공주처럼 예쁘다.",
+          "exampleZh": "小孩長得像小公主一樣漂亮。"
+        }
+      ]
+    },
+    {
+      "id": "988",
+      "korean": "덧붙이다",
+      "pronunciation": "덛뿌치다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "補充、重複貼",
+          "exampleKr": "종이 위에 자꾸 종이를 덧붙이면 오래 쓸 수 없다.",
+          "exampleZh": "紙上如果一直重複貼紙，紙張會用不久。"
+        }
+      ]
+    },
+    {
+      "id": "989",
+      "korean": "멋지다",
+      "pronunciation": "멋찌다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "帥；漂亮、精彩",
+          "exampleKr": "오늘 경기는 우리팀이 멋지게 승리했다.",
+          "exampleZh": "今天的比賽我們隊贏得很漂亮。"
+        }
+      ]
+    },
+    {
+      "id": "990",
+      "korean": "못나다",
+      "pronunciation": "몬나다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "醜",
+          "exampleKr": "얼굴이 못났다고 사람을 나쁘게 평가하면 안 된다.",
+          "exampleZh": "不能因為人長得醜，便給予不好的評價。"
+        }
+      ]
+    },
+    {
+      "id": "991",
+      "korean": "인터뷰",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "採訪",
+          "exampleKr": "저 사람의 인터뷰를 보면서 배운 게 너무나 많다.",
+          "exampleZh": "看那個人的採訪學到了很多。"
+        }
+      ]
+    },
+    {
+      "id": "992",
+      "korean": "주목",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "矚目",
+          "exampleKr": "오랫동안 꾸준히 준비한 사람은 언젠가 주목받게 되어있다.",
+          "exampleZh": "長時間努力不懈準備的人，總有一天會受到矚目。"
+        }
+      ]
+    },
+    {
+      "id": "993",
+      "korean": "체력",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "體力",
+          "exampleKr": "평소에 운동하지 않으니까 체력이 약해졌다.",
+          "exampleZh": "平常沒運動體力變差了。"
+        }
+      ]
+    },
+    {
+      "id": "994",
+      "korean": "부정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "作弊",
+          "exampleKr": "시험을 볼 때 부정을 저지르면 퇴장당한다.",
+          "exampleZh": "考試的時候作弊會被退場。"
+        },
+        {
+          "chinese": "否定",
+          "exampleKr": "아무리 물어봐도 이 제도를 부정하는지 긍정하는지 대답하지 않는다.",
+          "exampleZh": "不管再怎麼問，仍不願回答是否定或肯定這項制度。"
+        }
+      ]
+    },
+    {
+      "id": "995",
+      "korean": "일쑤",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "容易",
+          "exampleKr": "너무 바쁘면 끼니를 굶기가 일쑤이다.",
+          "exampleZh": "因為太忙了容易忘記吃飯而餓肚子。"
+        }
+      ]
+    },
+    {
+      "id": "996",
+      "korean": "부지런히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "勤奮地",
+          "exampleKr": "부지런히 일하면 반드시 성공할 수 있다.",
+          "exampleZh": "勤奮地工作一定可以成功。"
+        }
+      ]
+    },
+    {
+      "id": "997",
+      "korean": "화면",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "畫面",
+          "exampleKr": "요즘 나온 텔레비전의 화면은 실제처럼 아주 선명하다.",
+          "exampleZh": "最近新出來的電視畫面像真的一樣很鮮明。"
+        }
+      ]
+    },
+    {
+      "id": "998",
+      "korean": "침묵",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "沈默",
+          "exampleKr": "선생님은 침묵을 깨고 학생들에게 말하기 시작하셨다.",
+          "exampleZh": "老師打破沉默開始對學生說話。"
+        }
+      ]
+    },
+    {
+      "id": "999",
+      "korean": "지정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "指定",
+          "exampleKr": "나와 함께 연습할 친구를 지정해 주세요.",
+          "exampleZh": "請幫我指定要跟我一起練習的朋友。"
+        }
+      ]
+    },
+    {
+      "id": "1000",
+      "korean": "솜씨",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "手藝",
+          "exampleKr": "친구는 솜씨가 좋아서 뭐든지 잘 만든다.",
+          "exampleZh": "朋友手藝很好，什麼都很會做。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "손- / -감",
+    "titleZh": "손-（手）/ -感",
+    "description": "「손-」表示跟手有關的地方、物品或狀況；「-감」接名詞的後面，表示感覺",
+    "table": [
+      {
+        "kr": "손가방",
+        "zh": "手提包"
+      },
+      {
+        "kr": "손길",
+        "zh": "手、伸手"
+      },
+      {
+        "kr": "손끝",
+        "zh": "指尖"
+      },
+      {
+        "kr": "손등",
+        "zh": "手背"
+      },
+      {
+        "kr": "손목",
+        "zh": "手腕"
+      },
+      {
+        "kr": "손뼉",
+        "zh": "手掌"
+      },
+      {
+        "kr": "손쉽다",
+        "zh": "輕而易舉"
+      },
+      {
+        "kr": "손질",
+        "zh": "動過、修整"
+      },
+      {
+        "kr": "손톱",
+        "zh": "指甲"
+      },
+      {
+        "kr": "손가락",
+        "zh": "手指"
+      },
+      {
+        "kr": "책임감",
+        "zh": "責任感"
+      },
+      {
+        "kr": "우월감",
+        "zh": "優越感"
+      },
+      {
+        "kr": "만족감",
+        "zh": "滿足感"
+      },
+      {
+        "kr": "자신감",
+        "zh": "信心、自信感"
+      },
+      {
+        "kr": "긴장감",
+        "zh": "緊張感"
+      }
+    ]
+  }
+}

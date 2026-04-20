@@ -1,0 +1,634 @@
+{
+  "day": 21,
+  "words": [
+    {
+      "id": "801",
+      "korean": "열정",
+      "pronunciation": "열쩡",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "熱情",
+          "exampleKr": "열정이 넘치는 사람은 눈빛부터 다르다.",
+          "exampleZh": "熱情洋溢的人從眼神就跟別人不一樣。"
+        }
+      ]
+    },
+    {
+      "id": "802",
+      "korean": "호감",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "好感",
+          "exampleKr": "남자는 여자를 보자마자 호감을 가지게 되었다.",
+          "exampleZh": "男生一看女生就有了好感。"
+        }
+      ]
+    },
+    {
+      "id": "803",
+      "korean": "에너지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "活力",
+          "exampleKr": "저 아이는 에너지가 넘쳐 보인다.",
+          "exampleZh": "那個小孩看起來充滿活力。"
+        },
+        {
+          "chinese": "能源",
+          "exampleKr": "핵에너지는 생활의 편리함보다 위험부담이 크다.",
+          "exampleZh": "核能的危險性比其帶來的生活便利性還大。"
+        }
+      ]
+    },
+    {
+      "id": "804",
+      "korean": "연주",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "演奏",
+          "exampleKr": "거의 매달 재즈 연주회 표를 사러 간다.",
+          "exampleZh": "幾乎每個月都去買爵士演奏會的票。"
+        }
+      ]
+    },
+    {
+      "id": "805",
+      "korean": "묘사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "描述",
+          "exampleKr": "저 배우는 어떤 상황이든지 적절한 연기와 묘사를 한다.",
+          "exampleZh": "那位演員無論什麼情境都能用契合的演技和描述來表現。"
+        }
+      ]
+    },
+    {
+      "id": "806",
+      "korean": "형식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "形式",
+          "exampleKr": "이번 공연은 제대로 형식을 갖추고 하는 정식 무대이다.",
+          "exampleZh": "這次的公演具有按照原本形式演出的正式舞台。"
+        }
+      ]
+    },
+    {
+      "id": "807",
+      "korean": "연애",
+      "pronunciation": "여내",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "戀愛",
+          "exampleKr": "연애를 하듯이 자기 일을 사랑하는 사람들이 부럽다.",
+          "exampleZh": "很羨慕像談戀愛般愛自己工作的人。"
+        }
+      ]
+    },
+    {
+      "id": "808",
+      "korean": "연인",
+      "pronunciation": "여닌",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "戀人",
+          "exampleKr": "저 두 사람은 같은 공연을 하다가 연인 사이가 되었다.",
+          "exampleZh": "那兩位在一起演出同一場表演時成為戀人。"
+        }
+      ]
+    },
+    {
+      "id": "809",
+      "korean": "불꽃",
+      "pronunciation": "불꼳",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "火花",
+          "exampleKr": "무대 뒤에서 갑자기 불꽃이 일어나서 화재가 발생하였다.",
+          "exampleZh": "舞台後面突然迸出火花而發生火災。"
+        }
+      ]
+    },
+    {
+      "id": "810",
+      "korean": "시대",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "時代",
+          "exampleKr": "시대를 초월한 문학 작품은 많은 사람들에게 감동을 준다.",
+          "exampleZh": "超越時代的文學作品帶給很多人感動。"
+        }
+      ]
+    },
+    {
+      "id": "811",
+      "korean": "흔적",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "痕跡",
+          "exampleKr": "우리 집은 내가 태어나서 자란 곳이라서 어릴 때의 흔적이 많다.",
+          "exampleZh": "我家有很多童年時的痕跡，因為是我出生長大的地方。"
+        }
+      ]
+    },
+    {
+      "id": "812",
+      "korean": "연출",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "導演",
+          "exampleKr": "저 배우는 이번에 영화 연출자로 새로운 영화를 찍었다.",
+          "exampleZh": "那個演員這次以導演的身分拍了新的電影。"
+        }
+      ]
+    },
+    {
+      "id": "813",
+      "korean": "주제",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "主題",
+          "exampleKr": "이 영화의 제목은 영화의 주제를 잘 알 수 있게 해준다.",
+          "exampleZh": "這部電影的名稱可以讓人清楚知道電影的主題。"
+        }
+      ]
+    },
+    {
+      "id": "814",
+      "korean": "이웃집",
+      "pronunciation": "이욷찜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "鄰居",
+          "exampleKr": "이웃집에는 모두 한국 사람들이 살고 있다.",
+          "exampleZh": "鄰居都是住韓國人。"
+        }
+      ]
+    },
+    {
+      "id": "815",
+      "korean": "인간관계",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人際關係",
+          "exampleKr": "인간관계가 좋은 사람은 새로운 환경에 금방 적응하는 편이다.",
+          "exampleZh": "人際關係良好的人較能馬上適應新的環境。"
+        }
+      ]
+    },
+    {
+      "id": "816",
+      "korean": "경고",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "警告",
+          "exampleKr": "운전을 하다가 신호를 위반하면서 경찰에게 경고를 받았다.",
+          "exampleZh": "開車中違反交通號誌，被警察警告。"
+        }
+      ]
+    },
+    {
+      "id": "817",
+      "korean": "신비하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "神祕",
+          "exampleKr": "자연 현상은 항상 사람들에게 신비하게 느껴진다.",
+          "exampleZh": "自然現象總是讓人感到神祕。"
+        }
+      ]
+    },
+    {
+      "id": "818",
+      "korean": "인식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "認識、認知",
+          "exampleKr": "어른이 되어서 외국어를 공부하는 것은 어렵다는 인식이 강하다.",
+          "exampleZh": "有個強烈的認知，長大之後學外語通常很難。"
+        }
+      ]
+    },
+    {
+      "id": "819",
+      "korean": "굉장하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "巨大、壯觀",
+          "exampleKr": "이 공연은 무대와 규모 모두 굉장하다.",
+          "exampleZh": "這場表演的舞台和規模都很壯觀。"
+        }
+      ]
+    },
+    {
+      "id": "820",
+      "korean": "교대",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "換班、輪班",
+          "exampleKr": "간호원은 하루 3교대로 근무를 한다.",
+          "exampleZh": "護士一天輪3次班。"
+        }
+      ]
+    },
+    {
+      "id": "821",
+      "korean": "연합",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "聯合",
+          "exampleKr": "우리 학교 두 동아리가 연합해서 공연하기로 했다.",
+          "exampleZh": "我們學校的兩個社團決定聯合公演。"
+        }
+      ]
+    },
+    {
+      "id": "822",
+      "korean": "신사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "紳士",
+          "exampleKr": "저 두 사람을 보면 멋진 신사와 예쁜 숙녀가 만난 것 같아요.",
+          "exampleZh": "那兩位看著就像是帥氣紳士和漂亮淑女相遇一般。"
+        }
+      ]
+    },
+    {
+      "id": "823",
+      "korean": "천재",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "天才",
+          "exampleKr": "천재 작곡가라고 불리는 분의 연주가 곧 시작됩니다.",
+          "exampleZh": "那位被稱為天才作曲家的人馬上就要開始演奏了。"
+        }
+      ]
+    },
+    {
+      "id": "824",
+      "korean": "이윽고",
+      "pronunciation": "이욱꼬",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "不一會兒、緊接著、不久",
+          "exampleKr": "이윽고 천재 소년은 세계적으로 유명한 연주자가 되었다.",
+          "exampleZh": "不久，天才少年便成為世界有名的演奏家。"
+        }
+      ]
+    },
+    {
+      "id": "825",
+      "korean": "초청",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "邀請",
+          "exampleKr": "이웃집 여자는 자신의 전시회에 나를 초청했다.",
+          "exampleZh": "鄰居女子邀請我去她的展覽。"
+        }
+      ]
+    },
+    {
+      "id": "826",
+      "korean": "신세",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "麻煩",
+          "exampleKr": "오늘 저녁에 너네 집에서 신세 져도 되겠니?",
+          "exampleZh": "今天晚上可以去你家麻煩你嗎？"
+        },
+        {
+          "chinese": "命運",
+          "exampleKr": "나이 많은 할머니는 이집 저집 다니면서 구걸하는 신세가 되었다.",
+          "exampleZh": "老奶奶淪為到處乞討的命運。"
+        }
+      ]
+    },
+    {
+      "id": "827",
+      "korean": "열기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "興奮之情、激情、熱烈的氣氛",
+          "exampleKr": "오늘 콘서트는 많은 사람들의 뜨거운 열기로 가득했다.",
+          "exampleZh": "今天的演唱會充滿很多人的熱情。"
+        }
+      ]
+    },
+    {
+      "id": "828",
+      "korean": "흔하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "普遍、常見",
+          "exampleKr": "이 도시에서 자전거를 타는 것은 흔한 일이다.",
+          "exampleZh": "在這個城市中騎腳踏車很普遍。"
+        }
+      ]
+    },
+    {
+      "id": "829",
+      "korean": "흔히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "經常、往往",
+          "exampleKr": "흔히 초록색을 좋아하는 사람은 도전하기를 좋아한다고 한다.",
+          "exampleZh": "聽說喜歡綠色的人往往愛挑戰。"
+        }
+      ]
+    },
+    {
+      "id": "830",
+      "korean": "창작",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "創作",
+          "exampleKr": "창작과 모방을 통해서 자신만의 스타일이 만들어진다.",
+          "exampleZh": "透過創作和模仿而（被）形成屬於自己的風格。"
+        }
+      ]
+    },
+    {
+      "id": "831",
+      "korean": "연하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "嫩",
+          "exampleKr": "어머니가 만드신 고기가 연하고 참 맛있네요.",
+          "exampleZh": "母親煮的肉很嫩真好吃。"
+        },
+        {
+          "chinese": "淡",
+          "exampleKr": "오늘은 평소와 달리 화장이 연하고 잘 어울리네요.",
+          "exampleZh": "今天和平常不同，妝化得比較淡很適合。"
+        }
+      ]
+    },
+    {
+      "id": "832",
+      "korean": "열중하다",
+      "pronunciation": "열쭝하다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "用功、用心、熱衷",
+          "exampleKr": "내가 학교에 갔을 때 아이는 선생님이 하시는 말씀을 열중해서 듣고 있었다.",
+          "exampleZh": "我到學校時，小孩正用心聽老師說話。"
+        }
+      ]
+    },
+    {
+      "id": "833",
+      "korean": "해방",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "解放",
+          "exampleKr": "도시에 살다가 바닷가에 나와서 자연을 보니 해방감이 느껴졌다.",
+          "exampleZh": "一直住在城市，到了海邊接觸大自然才有種解放的感覺。"
+        }
+      ]
+    },
+    {
+      "id": "834",
+      "korean": "인상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "面相",
+          "exampleKr": "사람들은 우리 선생님의 인상이 좋다고 말한다.",
+          "exampleZh": "人們都說我老師的面相很好。"
+        },
+        {
+          "chinese": "漲（價）",
+          "exampleKr": "다음 달부터 전기요금이 5퍼센트 인상된다고 해요.",
+          "exampleZh": "下個月起電費將漲百分之5。"
+        },
+        {
+          "chinese": "印象",
+          "exampleKr": "오늘 연합 공연은 너무나 인상 깊었다.",
+          "exampleZh": "今天的聯合公演讓人印象非常深刻。"
+        }
+      ]
+    },
+    {
+      "id": "835",
+      "korean": "촌스럽다",
+      "pronunciation": "촌쓰럽따",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "土氣",
+          "exampleKr": "그 사람은 옷차림이 촌스러웠지만 우리 회사 사장님이셨다.",
+          "exampleZh": "那個人的穿著很土氣，但他是我們公司的社長。"
+        }
+      ]
+    },
+    {
+      "id": "836",
+      "korean": "탈출",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "出逃、脫身、脫逃",
+          "exampleKr": "지진이 났을 때 빨리 집에서 탈출해서 나왔다.",
+          "exampleZh": "發生地震時很快地從家裡逃出來。"
+        }
+      ]
+    },
+    {
+      "id": "837",
+      "korean": "정상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "正常",
+          "exampleKr": "오늘 가보니 그 식당은 수리를 마치고 정상 영업을 하고 있었다.",
+          "exampleZh": "今天去那家餐廳發現整修好後，現已正常營業。"
+        },
+        {
+          "chinese": "頂峰",
+          "exampleKr": "오랜 노력 끝에 정상에 올랐다.",
+          "exampleZh": "長久的努力之後到達了巔峰。"
+        }
+      ]
+    },
+    {
+      "id": "838",
+      "korean": "계기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "契機",
+          "exampleKr": "우연한 계기로 좋은 회사로 이직하게 되었다.",
+          "exampleZh": "在偶然的契機下換到了好公司。"
+        }
+      ]
+    },
+    {
+      "id": "839",
+      "korean": "녹이다",
+      "pronunciation": "노기다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "融化",
+          "exampleKr": "눈이 많이 와서 미끄러우니까 도로의 눈을 녹이면 좋겠습니다.",
+          "exampleZh": "因為雪下很大（路面）很滑，希望道路上的雪能融化。"
+        }
+      ]
+    },
+    {
+      "id": "840",
+      "korean": "기본",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "基本、基礎",
+          "exampleKr": "시험을 준비하려면 기본 단어는 반드시 외워야 한다.",
+          "exampleZh": "想準備考試，就一定要把基礎單字背起來。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-력 / -권",
+    "titleZh": "-力 / -權 / -券",
+    "description": "「-력（力）」表示能力或力量；「-권（權）」表示權力或資格；「-권（券）」表示票券",
+    "table": [
+      {
+        "kr": "경제력",
+        "zh": "經濟能力"
+      },
+      {
+        "kr": "상상력",
+        "zh": "想像力"
+      },
+      {
+        "kr": "세력",
+        "zh": "勢力"
+      },
+      {
+        "kr": "실력",
+        "zh": "實力"
+      },
+      {
+        "kr": "영향력",
+        "zh": "影響力"
+      },
+      {
+        "kr": "이해력",
+        "zh": "理解力"
+      },
+      {
+        "kr": "학력",
+        "zh": "學歷"
+      },
+      {
+        "kr": "협력",
+        "zh": "協力"
+      },
+      {
+        "kr": "권력",
+        "zh": "權利"
+      },
+      {
+        "kr": "기억력",
+        "zh": "記憶力"
+      },
+      {
+        "kr": "투표권",
+        "zh": "投票權"
+      },
+      {
+        "kr": "평등권",
+        "zh": "平等權"
+      },
+      {
+        "kr": "사법권",
+        "zh": "司法權"
+      },
+      {
+        "kr": "참정권",
+        "zh": "參政權"
+      },
+      {
+        "kr": "승차권",
+        "zh": "車票、乘車券"
+      },
+      {
+        "kr": "주차권",
+        "zh": "停車券"
+      },
+      {
+        "kr": "할인권",
+        "zh": "折扣券"
+      },
+      {
+        "kr": "상품권",
+        "zh": "商品券"
+      }
+    ]
+  }
+}

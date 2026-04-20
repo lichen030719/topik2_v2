@@ -1,0 +1,614 @@
+{
+  "day": 23,
+  "words": [
+    {
+      "id": "881",
+      "korean": "형태",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "樣子",
+          "exampleKr": "이 도안을 보면 집의 형태를 알아볼 수 있다.",
+          "exampleZh": "如果看這張圖案，可以知道家的樣子。"
+        }
+      ]
+    },
+    {
+      "id": "882",
+      "korean": "틈",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "縫隙、窟窿",
+          "exampleKr": "창문에 틈이 있으면 겨울에 너무 춥다.",
+          "exampleZh": "如果窗戶有縫隙，冬天時就會很冷。"
+        }
+      ]
+    },
+    {
+      "id": "883",
+      "korean": "틈틈이",
+      "pronunciation": "틈트미",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "一有空、得空",
+          "exampleKr": "회사에 다니면서 틈틈이 한국어를 공부하고 있다.",
+          "exampleZh": "一邊上班，一邊趁空檔讀韓文。"
+        }
+      ]
+    },
+    {
+      "id": "884",
+      "korean": "출신",
+      "pronunciation": "출씬",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "出身",
+          "exampleKr": "대구 출신인 친구는 너무 예쁘고 친절하다.",
+          "exampleZh": "出身於大邱的朋友很漂亮又親切。"
+        }
+      ]
+    },
+    {
+      "id": "885",
+      "korean": "인공",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人工",
+          "exampleKr": "미술관 앞에 어마어마한 인공 호수가 있다.",
+          "exampleZh": "美術館前面有個巨大的人工湖。"
+        }
+      ]
+    },
+    {
+      "id": "886",
+      "korean": "노동",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "勞動",
+          "exampleKr": "한국인의 주간 평균 노동 시간은 다른 나라에 비해 긴 편이다.",
+          "exampleZh": "韓國人週間平均勞動時間較其他國家長。"
+        }
+      ]
+    },
+    {
+      "id": "887",
+      "korean": "상하",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "上下",
+          "exampleKr": "이 병은 상하가 맞지 않아서 사용할 수 없다.",
+          "exampleZh": "這個瓶子因上下不合而無法使用。"
+        }
+      ]
+    },
+    {
+      "id": "888",
+      "korean": "녹음",
+      "pronunciation": "노금",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "錄音",
+          "exampleKr": "가끔 책을 읽으면서 녹음해서 자신의 발음을 들어본다.",
+          "exampleZh": "偶爾讀書時錄音，聽聽看自己的發音。"
+        }
+      ]
+    },
+    {
+      "id": "889",
+      "korean": "테스트",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "測驗",
+          "exampleKr": "학교에서 테스트가 있는 날은 긴장된다.",
+          "exampleZh": "學校有測驗的日子就會緊張。"
+        }
+      ]
+    },
+    {
+      "id": "890",
+      "korean": "흔들리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "（被）搖動",
+          "exampleKr": "길이 울퉁불퉁해서 차가 많이 흔들린다.",
+          "exampleZh": "因為路面不平所以車很晃。"
+        }
+      ]
+    },
+    {
+      "id": "891",
+      "korean": "놀리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "要、嘲弄",
+          "exampleKr": "친한 친구의 실수를 그렇게 놀리면 안 된다.",
+          "exampleZh": "別那樣嘲弄好朋友的失誤。"
+        },
+        {
+          "chinese": "使……玩",
+          "exampleKr": "아이를 낮에 공원에서 놀리면 밤에 잠을 잘 자게 된다.",
+          "exampleZh": "白天讓小孩在公園玩，（小孩）晚上就會很好睡。"
+        }
+      ]
+    },
+    {
+      "id": "892",
+      "korean": "고독하다",
+      "pronunciation": "고도카다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "孤獨、寂寞",
+          "exampleKr": "고독한 노인들을 위해 정부에서 노인복지에 힘쓸 예정이다.",
+          "exampleZh": "為了獨居老人，政府將致力於老人福利（政策）。"
+        }
+      ]
+    },
+    {
+      "id": "893",
+      "korean": "호주머니",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "口袋",
+          "exampleKr": "호주머니 안에 장난감과 과자가 들어있었다.",
+          "exampleZh": "口袋裡面有玩具和餅乾。"
+        }
+      ]
+    },
+    {
+      "id": "894",
+      "korean": "꾸미다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "打扮",
+          "exampleKr": "젊은이들은 꾸미지 않아도 예쁘고 멋있다.",
+          "exampleZh": "年輕人不打扮也很漂亮、很帥。"
+        }
+      ]
+    },
+    {
+      "id": "895",
+      "korean": "공동",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "共同",
+          "exampleKr": "동네 사람들이 공동으로 사용하는 곳은 돌아가면서 청소한다.",
+          "exampleZh": "社區裡的公共空間，居民會輪流打掃。"
+        }
+      ]
+    },
+    {
+      "id": "896",
+      "korean": "공동체",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "共同體",
+          "exampleKr": "다른 나라로 이민을 가면서 교회 공동체에 가입하였다.",
+          "exampleZh": "移民到別的國家後，加入了教會團體。"
+        }
+      ]
+    },
+    {
+      "id": "897",
+      "korean": "비롯되다",
+      "pronunciation": "비롣되다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "而來、引起",
+          "exampleKr": "그의 노래 실력은 엄청난 노력에서 비롯되었다.",
+          "exampleZh": "他的唱歌實力是因他非凡的努力而來。"
+        }
+      ]
+    },
+    {
+      "id": "898",
+      "korean": "나란히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "肩並肩",
+          "exampleKr": "유치원생들이 나란히 서서 소풍을 간다.",
+          "exampleZh": "幼稚園生肩並肩排隊去郊遊。"
+        }
+      ]
+    },
+    {
+      "id": "899",
+      "korean": "가로",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "橫、寬",
+          "exampleKr": "가방의 세로와 가로의 길이를 알려 주세요.",
+          "exampleZh": "請告知包包的長和寬。"
+        }
+      ]
+    },
+    {
+      "id": "900",
+      "korean": "겉모습",
+      "pronunciation": "건모습",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "外貌",
+          "exampleKr": "겉모습만으로 사람을 판단할 수 없다.",
+          "exampleZh": "不能只看外表就評判人家。"
+        }
+      ]
+    },
+    {
+      "id": "901",
+      "korean": "오페라",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "歌劇",
+          "exampleKr": "무대가 화려하고 음악이 있는 오페라를 보는 것을 좋아합니다.",
+          "exampleZh": "我很喜歡看舞台華麗又有音樂的歌劇。"
+        }
+      ]
+    },
+    {
+      "id": "902",
+      "korean": "비로소",
+      "pronunciation": "비로쏘",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "才",
+          "exampleKr": "비로소 친구가 학교를 안 오는 이유를 알게 되었다.",
+          "exampleZh": "才知道為什麼朋友沒有來學校。"
+        }
+      ]
+    },
+    {
+      "id": "903",
+      "korean": "가사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "歌詞",
+          "exampleKr": "노래 가사를 보면서 새로운 단어를 배우기도 한다.",
+          "exampleZh": "看歌詞也可以學到新的單字。"
+        }
+      ]
+    },
+    {
+      "id": "904",
+      "korean": "내내",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "整整",
+          "exampleKr": "일주일 내내 비가 오니까 밖에 나갈 수 없다.",
+          "exampleZh": "整整一個星期都在下雨，所以無法出門。"
+        }
+      ]
+    },
+    {
+      "id": "905",
+      "korean": "광경",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "場面",
+          "exampleKr": "서로 돕고 아껴주는 광경은 너무 아름답습니다.",
+          "exampleZh": "互助互愛的場面看起來非常美好。"
+        }
+      ]
+    },
+    {
+      "id": "906",
+      "korean": "단독",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "單獨",
+          "exampleKr": "모든 학생과 담임 선생님이 일대일 단독 면담을 시작합니다.",
+          "exampleZh": "所有學生和班導師開始一對一單獨面談。"
+        }
+      ]
+    },
+    {
+      "id": "907",
+      "korean": "만원",
+      "pronunciation": "마뉜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "額滿",
+          "exampleKr": "백화점 세일 기간에는 그 근처에 사람이 만원을 이룬다.",
+          "exampleZh": "百貨公司促銷期間附近人滿為患。"
+        }
+      ]
+    },
+    {
+      "id": "908",
+      "korean": "반납",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "還",
+          "exampleKr": "책을 반납하려면 기계를 이용해 주세요.",
+          "exampleZh": "如果要還書請利用機器。"
+        }
+      ]
+    },
+    {
+      "id": "909",
+      "korean": "메우다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "填補",
+          "exampleKr": "오페라를 보려는 사람들이 공연장을 가득 메웠다.",
+          "exampleZh": "音樂廳因想看音樂劇的人而座無虛席。"
+        }
+      ]
+    },
+    {
+      "id": "910",
+      "korean": "독자",
+      "pronunciation": "독짜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "讀者",
+          "exampleKr": "독자들은 작가에게 이 이메일을 이용해서 의견을 보낼 수 있다.",
+          "exampleZh": "讀者可以透過電子信箱寫意見給作者。"
+        }
+      ]
+    },
+    {
+      "id": "911",
+      "korean": "가짜",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "假的",
+          "exampleKr": "가짜의 품질은 좋지 않으니 진짜를 이용하세요.",
+          "exampleZh": "因為假的品質不好，請使用真品。"
+        }
+      ]
+    },
+    {
+      "id": "912",
+      "korean": "만만하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "小看",
+          "exampleKr": "상대가 어린아이라고 만만하게 생각하면 안 됩니다.",
+          "exampleZh": "不能因為對方是小孩而小看他。"
+        }
+      ]
+    },
+    {
+      "id": "913",
+      "korean": "간혹",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "偶爾、有時",
+          "exampleKr": "간혹 어른보다 똑똑한 어린이가 있습니다.",
+          "exampleZh": "偶爾也會有比大人聰明的小孩。"
+        }
+      ]
+    },
+    {
+      "id": "914",
+      "korean": "고생하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "辛苦",
+          "exampleKr": "고생하고 노력해서 좋은 결과를 얻게 되었다.",
+          "exampleZh": "辛辛苦苦努力得到了好的結果。"
+        }
+      ]
+    },
+    {
+      "id": "915",
+      "korean": "대기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "空氣",
+          "exampleKr": "봄이 되면 특히 대기 오염이 심각해진다.",
+          "exampleZh": "到了春天空氣汙染很嚴重。"
+        },
+        {
+          "chinese": "等候",
+          "exampleKr": "언제 출발할 수 있는지 잘 모르니까 먼저 학생들을 대기시켜 주세요.",
+          "exampleZh": "因為不知何時可以出發，因此請讓學生先等候。"
+        }
+      ]
+    },
+    {
+      "id": "916",
+      "korean": "고집",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "固執",
+          "exampleKr": "아기들은 자아가 생기면서 자주 고집을 부린다.",
+          "exampleZh": "嬰兒產生自我意識後，就會常常耍固執。"
+        }
+      ]
+    },
+    {
+      "id": "917",
+      "korean": "도무지",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "根本、完全",
+          "exampleKr": "열심히 시험을 준비했지만 시험이 어려워서 도무지 답을 알 수 없다.",
+          "exampleZh": "雖然努力準備考試，但因考試很難，根本不知道答案是什麼。"
+        }
+      ]
+    },
+    {
+      "id": "918",
+      "korean": "뜻대로",
+      "pronunciation": "뜯때로",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "如意",
+          "exampleKr": "이번 일은 본인의 뜻대로 결정하도록 해 주세요.",
+          "exampleZh": "這次的事情讓本人按自己的意思決定吧。"
+        }
+      ]
+    },
+    {
+      "id": "919",
+      "korean": "말끔히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "乾淨地",
+          "exampleKr": "식사 후에 지저분한 식탁을 말끔히 정리했다.",
+          "exampleZh": "飯後將亂七八糟的餐桌整理得乾乾淨淨。"
+        }
+      ]
+    },
+    {
+      "id": "920",
+      "korean": "방면",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "方面、方向",
+          "exampleKr": "지금 종로 방면은 차가 엄청나게 막힙니다.",
+          "exampleZh": "現在往鐘路（地名）方向非常塞。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-품 / -기",
+    "titleZh": "-品 / -器、-機",
+    "description": "「-품（品）」表示物品或作品；「-기（器/機）」表示機器",
+    "table": [
+      {
+        "kr": "식료품",
+        "zh": "食品（包含飲料）"
+      },
+      {
+        "kr": "신상품",
+        "zh": "新商品"
+      },
+      {
+        "kr": "소지품",
+        "zh": "攜帶品"
+      },
+      {
+        "kr": "작품",
+        "zh": "作品"
+      },
+      {
+        "kr": "제품",
+        "zh": "產品"
+      },
+      {
+        "kr": "중고품",
+        "zh": "中古品、二手貨"
+      },
+      {
+        "kr": "필수품",
+        "zh": "必備用品"
+      },
+      {
+        "kr": "기념품",
+        "zh": "紀念品"
+      },
+      {
+        "kr": "학용품",
+        "zh": "學習用品"
+      },
+      {
+        "kr": "화장품",
+        "zh": "化妝品"
+      },
+      {
+        "kr": "재활용품",
+        "zh": "回收用品"
+      },
+      {
+        "kr": "세탁기",
+        "zh": "洗衣機"
+      },
+      {
+        "kr": "복사기",
+        "zh": "影印機"
+      },
+      {
+        "kr": "정수기",
+        "zh": "淨水器"
+      },
+      {
+        "kr": "청소기",
+        "zh": "吸塵器"
+      },
+      {
+        "kr": "녹음기",
+        "zh": "錄音機"
+      },
+      {
+        "kr": "가습기",
+        "zh": "加濕器"
+      },
+      {
+        "kr": "제습기",
+        "zh": "除濕機"
+      }
+    ]
+  }
+}

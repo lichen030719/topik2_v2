@@ -1,0 +1,615 @@
+{
+  "day": 24,
+  "words": [
+    {
+      "id": "921",
+      "korean": "감독",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "導演",
+          "exampleKr": "제 장래 꿈은 영화 감독입니다.",
+          "exampleZh": "我未來的夢想是電影導演。"
+        },
+        {
+          "chinese": "監督",
+          "exampleKr": "선생님이 시험을 볼 때 학생들을 감독합니다.",
+          "exampleZh": "考試時老師監督學生。"
+        }
+      ]
+    },
+    {
+      "id": "922",
+      "korean": "인도",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人行道",
+          "exampleKr": "자전거는 인도를 지나갈 수 있습니까?",
+          "exampleZh": "腳踏車可以經行人行道嗎？"
+        }
+      ]
+    },
+    {
+      "id": "923",
+      "korean": "더하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "加",
+          "exampleKr": "새해가 되면 나이가 한 살 더 더해지게 된다.",
+          "exampleZh": "新年到，年紀會多加一歲。"
+        }
+      ]
+    },
+    {
+      "id": "924",
+      "korean": "깨닫다",
+      "pronunciation": "깨닫따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "領悟",
+          "exampleKr": "이 문장의 의미를 깨달을 때까지 계속 읽어보세요.",
+          "exampleZh": "請繼續讀直到領悟這個句子的意義。"
+        }
+      ]
+    },
+    {
+      "id": "925",
+      "korean": "본능",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "本能",
+          "exampleKr": "너무 본능에 따르지 말고 더 깊이 관찰할 필요가 있다.",
+          "exampleZh": "不要太注重本能，需要更深的觀察。"
+        }
+      ]
+    },
+    {
+      "id": "926",
+      "korean": "덕",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "品德",
+          "exampleKr": "우리 선생님은 덕이 높아서 학생들이 모두 존경한다.",
+          "exampleZh": "我的老師品德高尚，學生都很尊敬他。"
+        }
+      ]
+    },
+    {
+      "id": "927",
+      "korean": "덕택",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "托福",
+          "exampleKr": "부모님 덕택에 해외에서 공부하면서 언어를 배웠다.",
+          "exampleZh": "托父母的福在國外念書並學習語言。"
+        }
+      ]
+    },
+    {
+      "id": "928",
+      "korean": "벤치",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "長椅",
+          "exampleKr": "공원 벤치에서 책 보는 것이 가장 행복하다.",
+          "exampleZh": "最幸福的事是在公園的長椅上看書。"
+        }
+      ]
+    },
+    {
+      "id": "929",
+      "korean": "부러지다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "斷",
+          "exampleKr": "너무 힘을 주었더니 연필이 부러졌다.",
+          "exampleZh": "太用力了，所以鉛筆斷掉了。"
+        }
+      ]
+    },
+    {
+      "id": "930",
+      "korean": "상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "獎賞、獎",
+          "exampleKr": "이번 미술 대회에서 일등해서 상을 받았다.",
+          "exampleZh": "這次美術大會中因為得到第一名而獲獎。"
+        },
+        {
+          "chinese": "飯桌",
+          "exampleKr": "혼자 밥을 먹을 때는 꼭 상에서 먹어라.",
+          "exampleZh": "一個人吃飯時一定要在飯桌上吃。"
+        }
+      ]
+    },
+    {
+      "id": "931",
+      "korean": "뮤지컬",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "音樂劇",
+          "exampleKr": "이번 여행에서 가장 인상 깊었던 것은 그 뮤지컬이었다.",
+          "exampleZh": "這次旅行中印象最深刻的就是那場音樂劇。"
+        }
+      ]
+    },
+    {
+      "id": "932",
+      "korean": "버티다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "堅持",
+          "exampleKr": "너무 너무 피곤했지만 일을 마칠 때까지 버텼다.",
+          "exampleZh": "雖然非常累，還是一直堅持到工作結束。"
+        }
+      ]
+    },
+    {
+      "id": "933",
+      "korean": "삶",
+      "pronunciation": "삼",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人生",
+          "exampleKr": "건강한 삶을 위해 건강한 재료를 사서 먹습니다.",
+          "exampleZh": "為了健康的人生而買健康的食材來吃。"
+        }
+      ]
+    },
+    {
+      "id": "934",
+      "korean": "삶다",
+      "pronunciation": "삼따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "水煮",
+          "exampleKr": "아침에 식사를 대신해서 계란을 삶아서 먹는다.",
+          "exampleZh": "早上水煮雞蛋來代替吃早餐。"
+        }
+      ]
+    },
+    {
+      "id": "935",
+      "korean": "시리즈",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "系列",
+          "exampleKr": "이 소설책의 모든 시리즈가 영화로 만들어졌다.",
+          "exampleZh": "這本小說的所有系列都拍成電影。"
+        }
+      ]
+    },
+    {
+      "id": "936",
+      "korean": "얼른",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "快、連忙",
+          "exampleKr": "아침에 얼른 일어나서 학교에 갈 준비를 합니다.",
+          "exampleZh": "早上連忙起床準備去上學。"
+        }
+      ]
+    },
+    {
+      "id": "937",
+      "korean": "버튼",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "按鈕",
+          "exampleKr": "이 버튼을 누르면 기계가 자동으로 움직인다.",
+          "exampleZh": "按這個鈕機器就會自己動。"
+        }
+      ]
+    },
+    {
+      "id": "938",
+      "korean": "수시로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "隨時",
+          "exampleKr": "수시로 사용하는 물건은 가까운 곳에 두세요.",
+          "exampleZh": "隨時要用的東西請擺在近的地方。"
+        }
+      ]
+    },
+    {
+      "id": "939",
+      "korean": "창의",
+      "pronunciation": "창이",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "創意、獨創、創新",
+          "exampleKr": "나는 여행을 다닐 때 창의적인 생각이 자주 떠오른다.",
+          "exampleZh": "我旅行時常常會有很獨創性的想法。"
+        }
+      ]
+    },
+    {
+      "id": "940",
+      "korean": "몰래",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "偷偷、悄悄",
+          "exampleKr": "표도 없이 몰래 뮤지컬을 보러 들어갔다가 들켰다.",
+          "exampleZh": "沒買票偷偷進去看音樂劇而被發現。"
+        }
+      ]
+    },
+    {
+      "id": "941",
+      "korean": "감동",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "感動",
+          "exampleKr": "이번 공연을 보면서 크게 감동을 받아서 눈물이 났다.",
+          "exampleZh": "看了這場表演深受感動而落淚。"
+        }
+      ]
+    },
+    {
+      "id": "942",
+      "korean": "본질",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "本質、根本",
+          "exampleKr": "문제의 본질을 파악하지 못하고 화만 내면 안 됩니다.",
+          "exampleZh": "沒弄清楚問題的根本，光生氣是不行的。"
+        }
+      ]
+    },
+    {
+      "id": "943",
+      "korean": "성질",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "個性",
+          "exampleKr": "우리 집 고양이는 성질이 온순하다.",
+          "exampleZh": "我們家的貓個性很溫順。"
+        }
+      ]
+    },
+    {
+      "id": "944",
+      "korean": "번갈다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "輪流",
+          "exampleKr": "교복이 두 벌 있어서 매일 번갈아 입는다.",
+          "exampleZh": "有兩件校服所以每天輪流穿。"
+        }
+      ]
+    },
+    {
+      "id": "945",
+      "korean": "심부름",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "跑腿",
+          "exampleKr": "아이에게 심부름을 시켰는데 아직도 돌아오지 않는다.",
+          "exampleZh": "讓小孩去跑腿但還沒回來。"
+        }
+      ]
+    },
+    {
+      "id": "946",
+      "korean": "인삼",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "人參",
+          "exampleKr": "삼계탕을 먹으면 인삼을 함께 먹게 된다.",
+          "exampleZh": "吃雞湯自然也會吃到人參。"
+        }
+      ]
+    },
+    {
+      "id": "947",
+      "korean": "시청하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "收看",
+          "exampleKr": "하루에 평균 몇 시간 텔레비전을 시청하십니까?",
+          "exampleZh": "一天平均收看電視幾個小時？"
+        }
+      ]
+    },
+    {
+      "id": "948",
+      "korean": "도망가다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "逃走",
+          "exampleKr": "도둑이 도망가는 것을 경찰이 바로 잡았다.",
+          "exampleZh": "警察馬上就抓到逃逸的小偷。"
+        }
+      ]
+    },
+    {
+      "id": "949",
+      "korean": "도망치다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "逃",
+          "exampleKr": "손님이 오셔서 강아지를 방에 넣어 놓았는데 도망쳐 나왔다.",
+          "exampleZh": "因為客人來，所以把小狗關在房間裡，卻被牠逃了出來。"
+        }
+      ]
+    },
+    {
+      "id": "950",
+      "korean": "맞은편",
+      "pronunciation": "마즌편",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "對面",
+          "exampleKr": "아이의 맞은편에 앉아서 행동을 관찰해 보았다.",
+          "exampleZh": "坐在小孩的對面觀察他的行為。"
+        }
+      ]
+    },
+    {
+      "id": "951",
+      "korean": "클래식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "古典、古典音樂",
+          "exampleKr": "잠이 오지 않으면 잔잔한 클래식을 들어 보세요.",
+          "exampleZh": "如果睡不著，就聽聽平靜的古典音樂。"
+        }
+      ]
+    },
+    {
+      "id": "952",
+      "korean": "예컨대",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "例如",
+          "exampleKr": "나는 예컨대 한국 음식처럼 매운 음식을 좋아한다.",
+          "exampleZh": "例如我喜歡像韓國菜一樣辣的食物。"
+        }
+      ]
+    },
+    {
+      "id": "953",
+      "korean": "영상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "影片",
+          "exampleKr": "아기의 예쁜 모습을 매일 영상에 담아 둔다.",
+          "exampleZh": "每天把嬰兒漂亮的樣子拍成影片。"
+        },
+        {
+          "chinese": "零上",
+          "exampleKr": "오늘 날씨는 영상이지만 영하처럼 느껴진다.",
+          "exampleZh": "今天天氣是零上但感覺跟零下一樣。"
+        }
+      ]
+    },
+    {
+      "id": "954",
+      "korean": "변동",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "變動",
+          "exampleKr": "정부가 노력하고 있지만 경기 변동이 심하다.",
+          "exampleZh": "雖然政府在努力，但經濟變動還是很嚴重。"
+        }
+      ]
+    },
+    {
+      "id": "955",
+      "korean": "장르",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "體裁",
+          "exampleKr": "이런 장르의 영화는 별로 좋아하지 않는다.",
+          "exampleZh": "我不太喜歡這種體裁的電影。"
+        }
+      ]
+    },
+    {
+      "id": "956",
+      "korean": "변명",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "藉口",
+          "exampleKr": "변명을 하지 말고 실수를 인정하기 바란다.",
+          "exampleZh": "別找藉口，希望你勇於承認自己的失誤。"
+        }
+      ]
+    },
+    {
+      "id": "957",
+      "korean": "여건",
+      "pronunciation": "여껀",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "條件",
+          "exampleKr": "생활 여건을 잘 고려해서 결정해 주세요.",
+          "exampleZh": "請好好考慮生活條件再做決定。"
+        }
+      ]
+    },
+    {
+      "id": "958",
+      "korean": "작곡",
+      "pronunciation": "작꼭",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "作曲",
+          "exampleKr": "저 사람은 원래 가수였지만 지금은 작곡가로 활약하고 있다.",
+          "exampleZh": "那個人本來是歌手，但現在以作曲家的身分活躍中。"
+        }
+      ]
+    },
+    {
+      "id": "959",
+      "korean": "한꺼번에",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "一次、一下子",
+          "exampleKr": "숙제가 아주 많았지만 한꺼번에 다 하고 놀고 있다.",
+          "exampleZh": "雖然功課很多，要一次全寫完後再玩。"
+        }
+      ]
+    },
+    {
+      "id": "960",
+      "korean": "표현",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "表現、說話方式",
+          "exampleKr": "긍정적인 표현을 많이 쓰도록 합시다.",
+          "exampleZh": "我們要多使用正面的說話方式。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-화 / -회",
+    "titleZh": "-化 / -會",
+    "description": "「-화（化）」接在名詞的後面，表示變成該名詞性質的狀況；「-회（會）」表示團體或聚會",
+    "table": [
+      {
+        "kr": "세계화",
+        "zh": "世界化"
+      },
+      {
+        "kr": "정보화",
+        "zh": "情報化、資訊化"
+      },
+      {
+        "kr": "간편화",
+        "zh": "簡單化"
+      },
+      {
+        "kr": "국제화",
+        "zh": "國際化"
+      },
+      {
+        "kr": "기계화",
+        "zh": "機器化"
+      },
+      {
+        "kr": "대중화",
+        "zh": "大眾化"
+      },
+      {
+        "kr": "도시화",
+        "zh": "都市化"
+      },
+      {
+        "kr": "발표회",
+        "zh": "發表會"
+      },
+      {
+        "kr": "음악회",
+        "zh": "音樂會"
+      },
+      {
+        "kr": "동창회",
+        "zh": "同學會"
+      },
+      {
+        "kr": "송별회",
+        "zh": "送別會"
+      },
+      {
+        "kr": "연주회",
+        "zh": "演奏會"
+      },
+      {
+        "kr": "위원회",
+        "zh": "委員會"
+      },
+      {
+        "kr": "환영회",
+        "zh": "歡迎會"
+      },
+      {
+        "kr": "동호회",
+        "zh": "（網路）家族"
+      },
+      {
+        "kr": "노인회",
+        "zh": "老人會"
+      },
+      {
+        "kr": "환송회",
+        "zh": "歡送會"
+      }
+    ]
+  }
+}
