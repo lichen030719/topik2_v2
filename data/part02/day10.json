@@ -1,0 +1,304 @@
+{
+  "day": 10,
+  "words": [
+    {
+      "id": "361",
+      "korean": "국민",
+      "pronunciation": "궁민",
+      "pos": "명",
+      "meanings": [{ "chinese": "國民", "exampleKr": "국민 소득으로 경제 성장을 추측할 수 있다.", "exampleZh": "可用國民所得推測經濟成長。" }]
+    },
+    {
+      "id": "362",
+      "korean": "일일이",
+      "pronunciation": "일리리",
+      "pos": "부",
+      "meanings": [{ "chinese": "逐一", "exampleKr": "제품이 완성되면 일일이 검사하고 있다.", "exampleZh": "產品完成後都逐一檢查。" }]
+    },
+    {
+      "id": "363",
+      "korean": "자극",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "刺激", "exampleKr": "이 화장품은 피부 자극이 없어서 잘 팔린다.", "exampleZh": "這個化妝品都不會刺激皮膚，所以很暢銷。" }]
+    },
+    {
+      "id": "364",
+      "korean": "국산",
+      "pronunciation": "국싼",
+      "pos": "명",
+      "meanings": [{ "chinese": "國產", "exampleKr": "국산 제품의 품질도 많이 향상되었다.", "exampleZh": "國產產品的品質也提高了很多。" }]
+    },
+    {
+      "id": "365",
+      "korean": "불러일으키다",
+      "pronunciation": "불러이르키다",
+      "pos": "동",
+      "meanings": [{ "chinese": "激發、引起", "exampleKr": "신문에 기사가 나면서 더욱 관심을 불러일으키게 되었다.", "exampleZh": "經新聞（報紙上）報導後，因而引來更多關注。" }]
+    },
+    {
+      "id": "366",
+      "korean": "교류",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "交流", "exampleKr": "민간에서 문화 교류와 인적 교류가 빈번하다.", "exampleZh": "在民間文化交流及人們的交流十分頻繁。" }]
+    },
+    {
+      "id": "367",
+      "korean": "모처럼",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "難得", "exampleKr": "모처럼 날씨가 좋아서 산책하러 나왔다.", "exampleZh": "難得天氣好出來散步。" }]
+    },
+    {
+      "id": "368",
+      "korean": "돌려받다",
+      "pronunciation": "돌려받따",
+      "pos": "동",
+      "meanings": [{ "chinese": "收回", "exampleKr": "일 년 동안 빌려준 책을 모두 돌려받았다.", "exampleZh": "一年裡借出的書全收回了。" }]
+    },
+    {
+      "id": "369",
+      "korean": "그제야",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "那時才、那才", "exampleKr": "그 문제 발생의 이유를 그제야 알게 되었다.", "exampleZh": "那才知道那件事情發生的原因。" }]
+    },
+    {
+      "id": "370",
+      "korean": "주의",
+      "pronunciation": "주이",
+      "pos": "명",
+      "meanings": [{ "chinese": "注意", "exampleKr": "약속이 많으면 잊어버리지 않도록 주의해야 한다.", "exampleZh": "如果有很多約，要多加注意以免忘了。" }]
+    },
+    {
+      "id": "371",
+      "korean": "일자리",
+      "pronunciation": "일짜리",
+      "pos": "명",
+      "meanings": [{ "chinese": "工作", "exampleKr": "일자리를 구하기가 점점 어려워지고 있다.", "exampleZh": "找工作越來越難。" }]
+    },
+    {
+      "id": "372",
+      "korean": "중순",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "中旬", "exampleKr": "이번 달 중순부터 본격적인 장마가 시작될 것이다.", "exampleZh": "從這個月中旬開始會正式進入梅雨季。" }]
+    },
+    {
+      "id": "373",
+      "korean": "독립",
+      "pronunciation": "동닙",
+      "pos": "명",
+      "meanings": [{ "chinese": "獨立", "exampleKr": "원래는 한 회사였지만 작년에 한 부서가 독립해서 나왔다.", "exampleZh": "原本是某間公司裡的一個部門，但去年獨立出來了。" }]
+    },
+    {
+      "id": "374",
+      "korean": "따라가다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "跟著走", "exampleKr": "길을 잘 몰라서 앞서 가는 사람을 따라갔다.", "exampleZh": "因為不知道路，所以跟著前面的人走。" }]
+    },
+    {
+      "id": "375",
+      "korean": "적성",
+      "pronunciation": "적씽",
+      "pos": "명",
+      "meanings": [{ "chinese": "適性、適合", "exampleKr": "지금 하는 일은 내 적성에 딱 맞는다.", "exampleZh": "現在做的工作很適合我。" }]
+    },
+    {
+      "id": "376",
+      "korean": "따로따로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "各自、分別", "exampleKr": "쇼핑몰 내에 상점이 너무 많아서 필요한 물건을 따로따로 구매했다.", "exampleZh": "因為購物中心內商店太多，所以分別購買了需要的東西。" }]
+    },
+    {
+      "id": "377",
+      "korean": "일시불",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "一次付清", "exampleKr": "신용카드를 사용할 때 할부보다는 일시불이 더 편리하다.", "exampleZh": "使用信用卡時，比起分期付款，一次付清更方便。" }]
+    },
+    {
+      "id": "378",
+      "korean": "작용",
+      "pronunciation": "자공",
+      "pos": "명",
+      "meanings": [{ "chinese": "作用", "exampleKr": "감기약이 수면에도 작용을 하는 것 같다.", "exampleZh": "感冒藥好像也會對睡眠產生影響（作用）。" }]
+    },
+    {
+      "id": "379",
+      "korean": "저축",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "存款、儲蓄", "exampleKr": "저축을 많이 하면 미래를 준비할 수 있다.", "exampleZh": "如果多多儲蓄，可以為未來做準備。" }]
+    },
+    {
+      "id": "380",
+      "korean": "추측",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "推測", "exampleKr": "환율 때문에 소비가 줄어들 것으로 추측하고 있다.", "exampleZh": "因為匯率的緣故，推測消費應該會減少。" }]
+    },
+    {
+      "id": "381",
+      "korean": "현실",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "現實", "exampleKr": "현실에 만족하면서 하루 하루 노력해야 한다.", "exampleZh": "應該要滿足於現實，每天用心（工作）。" }]
+    },
+    {
+      "id": "382",
+      "korean": "협조",
+      "pronunciation": "협쪼",
+      "pos": "명",
+      "meanings": [{ "chinese": "協助", "exampleKr": "백화점 이용 규칙을 보고 잘 협조해 주십시오.", "exampleZh": "請參閱百貨公司的使用規則，並多加配合（協助）。" }]
+    },
+    {
+      "id": "383",
+      "korean": "적당히",
+      "pronunciation": "적당히",
+      "pos": "부",
+      "meanings": [{ "chinese": "適當地", "exampleKr": "술은 적당히 마시면 건강에 오히려 유익하다.", "exampleZh": "適量地小酌，反而有益健康。" }]
+    },
+    {
+      "id": "384",
+      "korean": "아마도",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "也許、可能", "exampleKr": "표정이 안 좋은 것을 보니 아마도 걱정이 있나 보다.", "exampleZh": "看起來表情不好可能有心煩事。" }]
+    },
+    {
+      "id": "385",
+      "korean": "따라서",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "因此", "exampleKr": "신제품 구매자가 많다. 따라서 구입을 원하면 적어도 한 달을 기다려야 한다.", "exampleZh": "想購買新產品的人很多。因此至少要等一個月。" }]
+    },
+    {
+      "id": "386",
+      "korean": "환율",
+      "pronunciation": "환늘",
+      "pos": "명",
+      "meanings": [{ "chinese": "匯率", "exampleKr": "환율을 잘 계산해서 손해보지 않도록 주의하세요.", "exampleZh": "要好好計算匯率，以防損失。" }]
+    },
+    {
+      "id": "387",
+      "korean": "통계",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "統計", "exampleKr": "작년의 휴대 전화 판매 수를 통계 내 보았다.", "exampleZh": "試著統計去年賣出的手機數量。" }]
+    },
+    {
+      "id": "388",
+      "korean": "마주",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "相對、面對", "exampleKr": "두 사람은 서로 마주 앉아서 오랫동안 이야기를 나눴다.", "exampleZh": "兩個人相對而坐聊天聊了很久。" }]
+    },
+    {
+      "id": "389",
+      "korean": "차라리",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "倒不如", "exampleKr": "억지로 일하는 것 보다 차라리 다른 일을 찾는 게 낫다.", "exampleZh": "比起勉強工作，倒不如找其他工作。" }]
+    },
+    {
+      "id": "390",
+      "korean": "비유",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "比喻、比方", "exampleKr": "우리 선생님은 아주 어려운 문제도 비유를 들어 잘 설명하신다.", "exampleZh": "我們老師即使相當難的問題也會舉例子說明清楚。" }]
+    },
+    {
+      "id": "391",
+      "korean": "전망",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "展望、前途、前景", "exampleKr": "전문가들은 올해 경제가 회복될 것이라고 전망한다.", "exampleZh": "專家（預測）今年經濟前景有望恢復。" }]
+    },
+    {
+      "id": "392",
+      "korean": "화폐",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "貨幣", "exampleKr": "각종 화폐의 단위를 잘 살펴 보아야 한다.", "exampleZh": "必須要仔細看每個貨幣的單位。" }]
+    },
+    {
+      "id": "393",
+      "korean": "짜리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "面額", "exampleKr": "백 원짜리 동전조차 사용할 일이 거의 없다.", "exampleZh": "連一百韓圓面額的硬幣都幾乎用不到。" }]
+    },
+    {
+      "id": "394",
+      "korean": "집세",
+      "pronunciation": "집쎄",
+      "pos": "명",
+      "meanings": [{ "chinese": "租金", "exampleKr": "집세는 매달 10일까지 은행으로 이체해 주세요.", "exampleZh": "租金請於每個月10日前轉帳至銀行。" }]
+    },
+    {
+      "id": "395",
+      "korean": "재산",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "財產、財富", "exampleKr": "그녀는 젊었을 때부터 재산을 모으기 시작했다.", "exampleZh": "她從年輕時就開始累積財富。" }]
+    },
+    {
+      "id": "396",
+      "korean": "유산",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "遺產", "exampleKr": "부모님께 이 집을 유산으로 물려받았다.", "exampleZh": "從父母親那裡得到遺產而繼承了這間房子。" }]
+    },
+    {
+      "id": "397",
+      "korean": "월세",
+      "pronunciation": "월쎄",
+      "pos": "명",
+      "meanings": [{ "chinese": "月租費", "exampleKr": "일 년간의 월세를 이미 냈다.", "exampleZh": "已經交了一年的月租費。" }]
+    },
+    {
+      "id": "398",
+      "korean": "예측",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "預測", "exampleKr": "경제 변동에 대한 예측이 들어맞았다.", "exampleZh": "針對經濟變動的預測都說中了。" }]
+    },
+    {
+      "id": "399",
+      "korean": "아끼다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "愛惜、省", "exampleKr": "돈을 아끼는 습관은 생활에 도움이 된다.", "exampleZh": "（養成）省錢的習慣對生活有幫助。" }]
+    },
+    {
+      "id": "400",
+      "korean": "아깝다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [{ "chinese": "可惜", "exampleKr": "어제 샀는데 오늘 고장이 나서 너무 아깝다.", "exampleZh": "昨天才買今天就壞掉，太可惜了。" }]
+    }
+  ],
+  "tip": {
+    "title": "-량 / -률",
+    "titleZh": "-量 / -率",
+    "description": "「-량」接在漢字名詞後面，表示可以算出來的數量或分量；「-률」接在漢字名詞後面，表示比率（有尾音時念「률」，無尾音或尾音「ㄴ」名詞之後念「율」）",
+    "table": [
+      { "kr": "작업량", "zh": "作業量" },
+      { "kr": "식사량", "zh": "食量" },
+      { "kr": "운동량", "zh": "運動量" },
+      { "kr": "노동량", "zh": "工作量" },
+      { "kr": "가사량", "zh": "歌詞量、家務量" },
+      { "kr": "칼로리양", "zh": "熱量" },
+      { "kr": "일양", "zh": "工作量" },
+      { "kr": "출생률", "zh": "出生率" },
+      { "kr": "시청률", "zh": "收視率" },
+      { "kr": "출석률", "zh": "出席率" },
+      { "kr": "비율", "zh": "比率" },
+      { "kr": "환율", "zh": "匯率" }
+    ]
+  }
+}

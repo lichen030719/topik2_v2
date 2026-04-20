@@ -1,0 +1,309 @@
+{
+  "day": 9,
+  "words": [
+    {
+      "id": "321",
+      "korean": "개방",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "開放", "exampleKr": "전시관 개방 시간은 홈페이지에 나와있다.", "exampleZh": "展覽館的開放時間網頁裡有寫。" }]
+    },
+    {
+      "id": "322",
+      "korean": "개혁",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "改革", "exampleKr": "경제 개혁으로 작은 규모의 상점은 큰 혜택을 입었다.", "exampleZh": "透過經濟改革，小規模商店得到了許多福利。" }]
+    },
+    {
+      "id": "323",
+      "korean": "그만큼",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "那種程度", "exampleKr": "중소기업이 성공하기는 그만큼 쉽지 않다.", "exampleZh": "中小企業能成功，沒那麼容易。" }]
+    },
+    {
+      "id": "324",
+      "korean": "국내선",
+      "pronunciation": "궁내선",
+      "pos": "명",
+      "meanings": [{ "chinese": "國內線", "exampleKr": "다른 항공사의 영향으로 국내선 비행기표 가격도 내렸다.", "exampleZh": "受到別間航空公司的影響，國內線的機票價格也調降了。" }]
+    },
+    {
+      "id": "325",
+      "korean": "지폐",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "紙鈔", "exampleKr": "이 자동판매기는 지폐와 동전 모두 사용이 가능하다.", "exampleZh": "這台自動販賣機紙鈔及硬幣都可使用。" }]
+    },
+    {
+      "id": "326",
+      "korean": "장식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "裝飾", "exampleKr": "이 상점은 상품을 장식처럼 전시하고 있다.", "exampleZh": "這家商店的商品，陳列得像裝飾品一樣。" }]
+    },
+    {
+      "id": "327",
+      "korean": "중부",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "中部", "exampleKr": "중부는 상업과 공업이 발달했고 남부는 어업이 발달했다.", "exampleZh": "中部商業及工業發達，南部漁業發達。" }]
+    },
+    {
+      "id": "328",
+      "korean": "가능",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "可能、可以", "exampleKr": "우리 식당은 일 인분도 무료 배달이 가능하다.", "exampleZh": "我們餐廳連一人份也可以免費配送。" }]
+    },
+    {
+      "id": "329",
+      "korean": "개념",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "概念", "exampleKr": "이 책을 읽으면서 경제 개념을 이해하는데 도움이 됐다.", "exampleZh": "讀這本書，對理解經濟概念有幫助。" }]
+    },
+    {
+      "id": "330",
+      "korean": "통역",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "口譯", "exampleKr": "통역을 하지 않으면 두 회사가 소통할 수 없다.", "exampleZh": "如果沒人幫忙口譯，兩家公司無法溝通。" }]
+    },
+    {
+      "id": "331",
+      "korean": "뜻밖",
+      "pronunciation": "뜻빡",
+      "pos": "부",
+      "meanings": [{ "chinese": "意外地", "exampleKr": "해외 여행을 하는 도중 뜻밖의 문제가 발생했다.", "exampleZh": "國外旅行途中，意外發生了問題。" }]
+    },
+    {
+      "id": "332",
+      "korean": "마찰",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "摩擦", "exampleKr": "여행 중 친구와 마찰이 생기지 않도록 해야 한다.", "exampleZh": "旅行中必須（努力）別和朋友產生摩擦（問題）。" }]
+    },
+    {
+      "id": "333",
+      "korean": "주요",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "主要", "exampleKr": "이 도시의 주요 관광지는 모두 다 가봤다.", "exampleZh": "這個城市的主要觀光景點都去過了。" }]
+    },
+    {
+      "id": "334",
+      "korean": "마침내",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "終於", "exampleKr": "출장을 마치고 마침내 집으로 돌아오게 되었다.", "exampleZh": "出差結束，終於回到家了。" }]
+    },
+    {
+      "id": "335",
+      "korean": "개발",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "開發", "exampleKr": "이 지역은 농업 도시에서 상업 도시로 개발될 것이다.", "exampleZh": "這個地區會從農業城市開發成商業城市。" }]
+    },
+    {
+      "id": "336",
+      "korean": "매장",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "賣場", "exampleKr": "처음으로 온라인 매장을 열었다.", "exampleZh": "第一次開了網路賣場。" }]
+    },
+    {
+      "id": "337",
+      "korean": "명확하다",
+      "pronunciation": "명화카다",
+      "pos": "형",
+      "meanings": [{ "chinese": "明確", "exampleKr": "사장님께 이번 문제의 핵심을 명확하게 설명했다.", "exampleZh": "向社長明確說明了這次問題的核心。" }]
+    },
+    {
+      "id": "338",
+      "korean": "매점",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "小店舖、福利社", "exampleKr": "회사 안에 매점이 있으면 아주 편리하다.", "exampleZh": "如果公司裡面有福利社會非常方便。" }]
+    },
+    {
+      "id": "339",
+      "korean": "만족",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "滿足、滿意", "exampleKr": "오늘 산 물건은 모두 마음에 들어서 만족한다.", "exampleZh": "今天買的東西都很喜歡，所以很滿足。" }]
+    },
+    {
+      "id": "340",
+      "korean": "거품",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "泡沫", "exampleKr": "저녁에 거품 목욕을 하면 피로가 풀린다.", "exampleZh": "晚上洗泡泡浴，可以消除疲勞。" }]
+    },
+    {
+      "id": "341",
+      "korean": "계산대",
+      "pronunciation": "계산때",
+      "pos": "명",
+      "meanings": [{ "chinese": "收銀台", "exampleKr": "저기 계산대에 사장님이 계십니다.", "exampleZh": "社長在那邊的收銀台。" }]
+    },
+    {
+      "id": "342",
+      "korean": "맞벌이",
+      "pronunciation": "말뻐리",
+      "pos": "명",
+      "meanings": [{ "chinese": "雙薪家庭", "exampleKr": "맞벌이 부부에게 육아는 큰 고민거리이다.", "exampleZh": "對於雙薪家庭而言，育兒是一件十分讓人苦惱的事。" }]
+    },
+    {
+      "id": "343",
+      "korean": "계좌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "戶頭、帳號", "exampleKr": "여기 계좌 번호로 물건 값을 입금해 주세요.", "exampleZh": "請將物品的費用匯至這裡的帳號。" }]
+    },
+    {
+      "id": "344",
+      "korean": "곧이어",
+      "pronunciation": "고디어",
+      "pos": "부",
+      "meanings": [{ "chinese": "接著", "exampleKr": "곧이어 두번째 영화가 시작될 것이다.", "exampleZh": "接著第二部電影要開始了。" }]
+    },
+    {
+      "id": "345",
+      "korean": "과정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "過程", "exampleKr": "시험을 준비하는 과정은 그리 복잡하지 않다.", "exampleZh": "準備考試的過程不怎麼複雜。" }]
+    },
+    {
+      "id": "346",
+      "korean": "관리",
+      "pronunciation": "괄리",
+      "pos": "명",
+      "meanings": [{ "chinese": "管理", "exampleKr": "건강 관리를 위해서 하루에 물을 여덟 잔 마신다.", "exampleZh": "為了保持身體健康，一天喝八杯水。" }]
+    },
+    {
+      "id": "347",
+      "korean": "구조",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        { "chinese": "救助", "exampleKr": "바다에서 물놀이를 하다가 위험하면 구조 요청을 하세요.", "exampleZh": "在海邊玩水若遇到危險，請求救援。" },
+        { "chinese": "構造", "exampleKr": "상점 구조를 바꾸니까 손님이 늘어났다.", "exampleZh": "變換了商店（內部）的結構，所以客人增加了。" }
+      ]
+    },
+    {
+      "id": "348",
+      "korean": "업계",
+      "pronunciation": "업께",
+      "pos": "명",
+      "meanings": [{ "chinese": "業界", "exampleKr": "이 출판사의 책은 아동 교육 업계에 큰 영향을 주었다.", "exampleZh": "這家出版社的書，對幼教界帶來了很大的影響。" }]
+    },
+    {
+      "id": "349",
+      "korean": "규모",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "規模", "exampleKr": "우리 회사는 규모가 그리 크지 않지만 업계 매출 일위이다.", "exampleZh": "我們公司雖然規模沒那麼大，但在業界的銷售額第一名。" }]
+    },
+    {
+      "id": "350",
+      "korean": "그런대로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "還、尚可", "exampleKr": "색깔이 서로 달라도 그런대로 괜찮은 것 같다.", "exampleZh": "即使顏色不同，但看起來還可以。" }]
+    },
+    {
+      "id": "351",
+      "korean": "무역",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "貿易", "exampleKr": "내년에는 무역 흑자를 기대해 본다.", "exampleZh": "期待明年貿易黑字（貿易順差）。" }]
+    },
+    {
+      "id": "352",
+      "korean": "반영",
+      "pronunciation": "바녕",
+      "pos": "명",
+      "meanings": [{ "chinese": "反映", "exampleKr": "우리 회사에도 정부의 연구 결과가 반영이 되었다.", "exampleZh": "政府的研究結果也反映在我們公司上。" }]
+    },
+    {
+      "id": "353",
+      "korean": "상대",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "對方", "exampleKr": "아무리 힘들어도 상대에게 스트레스를 주면 안 된다.", "exampleZh": "無論多累都不可以給對方壓力。" }]
+    },
+    {
+      "id": "354",
+      "korean": "억지로",
+      "pronunciation": "억찌로",
+      "pos": "부",
+      "meanings": [{ "chinese": "勉強", "exampleKr": "무슨 일이든지 억지로 하면 잘 안 된다.", "exampleZh": "任何事情若勉強去做就會做不好。" }]
+    },
+    {
+      "id": "355",
+      "korean": "극복",
+      "pronunciation": "극복",
+      "pos": "명",
+      "meanings": [{ "chinese": "克服", "exampleKr": "위기 극복을 위해 필요한 분야의 책을 읽고 있다.", "exampleZh": "為了克服危機，在讀相關領域的書籍。" }]
+    },
+    {
+      "id": "356",
+      "korean": "상황",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "情況", "exampleKr": "처음에는 상황이 매우 불리했지만 잘 극복했다.", "exampleZh": "一開始的情況非常不利，但順利克服了。" }]
+    },
+    {
+      "id": "357",
+      "korean": "상식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "常識", "exampleKr": "예상외로 상식 밖의 일들이 종종 일어나곤 한다.", "exampleZh": "出乎預料不合乎常理的事經常發生。" }]
+    },
+    {
+      "id": "358",
+      "korean": "엄청나다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [{ "chinese": "巨大、非常大", "exampleKr": "그 사람은 온라인에서 영향력이 엄청나다.", "exampleZh": "那個人在網路上的影響力極大。" }]
+    },
+    {
+      "id": "359",
+      "korean": "역할",
+      "pronunciation": "여칼",
+      "pos": "명",
+      "meanings": [{ "chinese": "角色", "exampleKr": "아이가 부모님도 잘 도와드리고 가끔 어머니의 친구 역할도 한다.", "exampleZh": "小孩會乖乖幫父母的忙，偶爾也會扮演媽媽朋友的角色。" }]
+    },
+    {
+      "id": "360",
+      "korean": "일손",
+      "pronunciation": "일쏜",
+      "pos": "명",
+      "meanings": [{ "chinese": "人手、勞動力", "exampleKr": "가을에는 농촌에 일손이 항상 부족하다.", "exampleZh": "秋天收成時總是人手不足。" }]
+    }
+  ],
+  "tip": {
+    "title": "-당 / -별",
+    "titleZh": "-（當）每 / -別",
+    "description": "「-당」接數字或單位相關單字後面，表示每、平均；「-별」接在部分名詞後面，表示「照」或「別」的意思",
+    "table": [
+      { "kr": "시간당", "zh": "每小時" },
+      { "kr": "회사당", "zh": "每家公司" },
+      { "kr": "교실당", "zh": "每個教室" },
+      { "kr": "한 사람당", "zh": "每一個人" },
+      { "kr": "한 마리당", "zh": "每一隻（指動物）" },
+      { "kr": "학년별", "zh": "按照學年" },
+      { "kr": "학교별", "zh": "按照學校" },
+      { "kr": "회사별", "zh": "按照公司" },
+      { "kr": "목록별", "zh": "按照目錄" },
+      { "kr": "주제별", "zh": "按照主題" },
+      { "kr": "능력별", "zh": "按照能力" },
+      { "kr": "성별", "zh": "性別" },
+      { "kr": "월별", "zh": "按月" },
+      { "kr": "단계별", "zh": "階段性" }
+    ]
+  }
+}

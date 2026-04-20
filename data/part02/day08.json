@@ -1,0 +1,306 @@
+{
+  "day": 8,
+  "words": [
+    {
+      "id": "281",
+      "korean": "주식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        { "chinese": "股票", "exampleKr": "주식에 투자한다고 해서 다 돈을 버는 것은 아니다.", "exampleZh": "因為投資股票並不是大家都會賺錢。" },
+        { "chinese": "主食", "exampleKr": "한국인의 주식은 밥이고 부식은 면류나 빵이라고 할 수 있다.", "exampleZh": "可以說韓國人的主食是飯，副食是麵類或麵包。" }
+      ]
+    },
+    {
+      "id": "282",
+      "korean": "지출",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "支出", "exampleKr": "가계 지출이 늘어야 시장 경제가 활성화된다.", "exampleZh": "必須要增加家庭支出，市場經濟才會活躍。" }]
+    },
+    {
+      "id": "283",
+      "korean": "통신",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "通信、通訊", "exampleKr": "최근들어 이동통신회사의 종류가 늘고 있다.", "exampleZh": "近來移動通信公司的種類正在增加。" }]
+    },
+    {
+      "id": "284",
+      "korean": "추진",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "促進、推進", "exampleKr": "세계 각국에서 환경 보호 사업을 추진 중이다.", "exampleZh": "世界各國正在推進環境保護事業。" }]
+    },
+    {
+      "id": "285",
+      "korean": "그야말로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "的確、實在", "exampleKr": "학교 경기에서 우리 반이 일등을 해서 그야말로 행복했다.", "exampleZh": "學校比賽中我們班得到第一名實在很幸福。" }]
+    },
+    {
+      "id": "286",
+      "korean": "처하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "面臨", "exampleKr": "나라 경제가 불황이라서 개개인도 어려움에 처하게 되었다.", "exampleZh": "因為國家經濟不景氣，因此個人也面臨困境。" }]
+    },
+    {
+      "id": "287",
+      "korean": "연장",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "延長", "exampleKr": "연장 경기를 진행하고 있어도 승부가 나지 않는다.", "exampleZh": "即使進行延長賽，仍無法分出勝負。" }]
+    },
+    {
+      "id": "288",
+      "korean": "평가",
+      "pronunciation": "평까",
+      "pos": "명",
+      "meanings": [{ "chinese": "評價", "exampleKr": "이번 학기에는 선생님께 좋은 평가를 받았다.", "exampleZh": "這學期從老師那裡得到了很好的評價。" }]
+    },
+    {
+      "id": "289",
+      "korean": "중반",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "中盤、中局", "exampleKr": "경기가 중반에 들어서면서 승부가 나뉘었다.", "exampleZh": "比賽進入中盤，分出勝敗。" }]
+    },
+    {
+      "id": "290",
+      "korean": "상영",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "上映", "exampleKr": "영화 상영 시간은 인터넷에서 확인할 수 있다.", "exampleZh": "電影上映的時間可以在網路上確認。" }]
+    },
+    {
+      "id": "291",
+      "korean": "통일",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "統一", "exampleKr": "남한과 북한이 통일이 되면 좋겠다.", "exampleZh": "希望南北韓可以統一。" }]
+    },
+    {
+      "id": "292",
+      "korean": "상점",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "商店", "exampleKr": "상점 주인 아저씨는 친절하고 자상하다.", "exampleZh": "商店的老闆，很親切又細心。" }]
+    },
+    {
+      "id": "293",
+      "korean": "국제결혼",
+      "pronunciation": "국제결혼",
+      "pos": "명",
+      "meanings": [{ "chinese": "國際結婚", "exampleKr": "국제결혼을 하는 가구가 점차 늘어나고 있다.", "exampleZh": "國際通婚的人口逐漸增加。" }]
+    },
+    {
+      "id": "294",
+      "korean": "중심지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "中心地", "exampleKr": "이곳은 많은 기업이 이전해 오면서 각종 산업 중심지가 되었다.", "exampleZh": "很多企業搬遷到這裡，成為各種產業的中心地。" }]
+    },
+    {
+      "id": "295",
+      "korean": "상업",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "商業", "exampleKr": "이 지역은 농업보다 상업이 발달되었다.", "exampleZh": "這區商業比農業發達。" }]
+    },
+    {
+      "id": "296",
+      "korean": "중고",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "中古", "exampleKr": "중고 휴대 전화도 인터넷에서 쉽게 살 수 있다.", "exampleZh": "中古手機在網路上也很容易買到。" }]
+    },
+    {
+      "id": "297",
+      "korean": "동일",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "一致、同一", "exampleKr": "어떤 제품을 구매해도 가격은 모두 동일하다.", "exampleZh": "購買任何產品，價錢都是不二價（同一價）。" }]
+    },
+    {
+      "id": "298",
+      "korean": "성립하다",
+      "pronunciation": "성니파다",
+      "pos": "동",
+      "meanings": [{ "chinese": "成立", "exampleKr": "두 회사의 거래가 성립하려면 조건을 잘 살펴봐야 한다.", "exampleZh": "為了兩家公司交易成立，必須仔細看條件。" }]
+    },
+    {
+      "id": "299",
+      "korean": "전제",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "前提", "exampleKr": "회사 발전의 전제 조건은 좋은 상품을 만드는 것이다.", "exampleZh": "公司發展的前提就是做出好的產品。" }]
+    },
+    {
+      "id": "300",
+      "korean": "서서히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "慢慢地", "exampleKr": "광고의 효과가 서서히 드러나고 있다.", "exampleZh": "廣告的效果慢慢地顯現出來。" }]
+    },
+    {
+      "id": "301",
+      "korean": "조건",
+      "pronunciation": "조껀",
+      "pos": "명",
+      "meanings": [{ "chinese": "條件", "exampleKr": "여러 가지 조건이 본인과 맞는지 확인해 보세요.", "exampleZh": "請確認各種條件是否與本人相符。" }]
+    },
+    {
+      "id": "302",
+      "korean": "홈페이지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "網站、網頁", "exampleKr": "홈페이지에 회사 소개가 자세히 나와있습니다.", "exampleZh": "網頁中有公司的詳細介紹。" }]
+    },
+    {
+      "id": "303",
+      "korean": "적어도",
+      "pronunciation": "저거도",
+      "pos": "부",
+      "meanings": [{ "chinese": "至少、起碼", "exampleKr": "우리 회사는 올해 적어도 열 명의 신입사원을 뽑을 예정이다.", "exampleZh": "我們公司今年預計至少招收十名新進職員。" }]
+    },
+    {
+      "id": "304",
+      "korean": "장사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "生意", "exampleKr": "장사가 잘 되려면 좋은 장소도 중요한 조건 중 하나이다.", "exampleZh": "為了要生意好，好的地點也是重要條件之一。" }]
+    },
+    {
+      "id": "305",
+      "korean": "잔액",
+      "pronunciation": "자냑",
+      "pos": "명",
+      "meanings": [{ "chinese": "餘額", "exampleKr": "통장에 잔액은 은행 홈페이지에서도 확인할 수 있다.", "exampleZh": "戶頭中的餘額在銀行網頁中也可以確認。" }]
+    },
+    {
+      "id": "306",
+      "korean": "장수",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "長壽", "exampleKr": "건강하게 장수하려면 좋은 음식을 가려서 먹어야 한다.", "exampleZh": "想要長命百歲（健康長壽），就必須挑選好的食物吃。" }]
+    },
+    {
+      "id": "307",
+      "korean": "성장",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "成長", "exampleKr": "지역의 특성을 고려해서 경제 성장을 추진해야 한다.", "exampleZh": "得要考慮這個地區的特色，促進經濟成長。" }]
+    },
+    {
+      "id": "308",
+      "korean": "안정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "安定", "exampleKr": "수출이 서서히 증가하면서 경제 안정을 유지하고 있다.", "exampleZh": "隨著出口慢慢增加，也讓經濟維持穩定。" }]
+    },
+    {
+      "id": "309",
+      "korean": "저렴하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [{ "chinese": "低廉", "exampleKr": "요즘은 가격이 저렴하고 품질 좋은 제품이 많다.", "exampleZh": "最近物美價廉的產品很多。" }]
+    },
+    {
+      "id": "310",
+      "korean": "일석이조",
+      "pronunciation": "일써기조",
+      "pos": "명",
+      "meanings": [{ "chinese": "一石二鳥", "exampleKr": "원하는 물건을 싸게 사면 기분도 좋아서 일석이조이다.", "exampleZh": "想要的東西便宜買到的話，心情也會很好，所以可說是一石二鳥。" }]
+    },
+    {
+      "id": "311",
+      "korean": "영업",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "營業", "exampleKr": "영업 중에는 가게 불이 켜져 있다.", "exampleZh": "營業中商店的燈會開著。" }]
+    },
+    {
+      "id": "312",
+      "korean": "자본",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "資本、資金", "exampleKr": "이 회사에 투자하는 사람이 많아서 자본이 넉넉하다.", "exampleZh": "這家公司投資者很多，所以資金充裕。" }]
+    },
+    {
+      "id": "313",
+      "korean": "어느새",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "不知不覺", "exampleKr": "하루 하루 노력을 했더니 어느새 부자가 되었다.", "exampleZh": "因為天天努力，不知不覺就成為有錢人了。" }]
+    },
+    {
+      "id": "314",
+      "korean": "온라인",
+      "pronunciation": "올라인",
+      "pos": "명",
+      "meanings": [{ "chinese": "上網、線上", "exampleKr": "휴대 전화가 발달하면서 온라인 구매도 증가하고 있다.", "exampleZh": "手機發達的同時，上網購物（的人）也在增加。" }]
+    },
+    {
+      "id": "315",
+      "korean": "농업",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "農業", "exampleKr": "이 도시는 농업과 어업이 발달했다.", "exampleZh": "這座城市的農業和漁業很發達。" }]
+    },
+    {
+      "id": "316",
+      "korean": "오히려",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "反而", "exampleKr": "취미로 배운 한국어가 오히려 취직에 도움이 되었다.", "exampleZh": "因為興趣而學的韓文，反而有助於就業。" }]
+    },
+    {
+      "id": "317",
+      "korean": "예비",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "預備", "exampleKr": "다음 여행을 위해서 예비로 저금을 하고 있다.", "exampleZh": "為了下一次的旅遊，正在存錢做準備（預備）。" }]
+    },
+    {
+      "id": "318",
+      "korean": "아무튼",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "無論如何", "exampleKr": "아무튼 이번 일이 잘 해결 되어서 정말 다행이다.", "exampleZh": "無論如何這次的事情順利解決了，真是萬幸。" }]
+    },
+    {
+      "id": "319",
+      "korean": "예산",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "預算", "exampleKr": "어떤 일이든지 예산을 짜는 것은 아주 중요하다.", "exampleZh": "無論何事制定預算相當重要。" }]
+    },
+    {
+      "id": "320",
+      "korean": "끝내",
+      "pronunciation": "끈내",
+      "pos": "부",
+      "meanings": [{ "chinese": "終於", "exampleKr": "혼자 시작한 회사가 끝내 대기업이 되었다.", "exampleZh": "從一人公司開始，終於成了大企業。" }]
+    }
+  ],
+  "tip": {
+    "title": "수- / -소",
+    "titleZh": "數- / -所",
+    "description": "「수-」通常接有關數字或數量的名詞前面，表示該數量的兩三倍；「-소」接在地點有關的單字後面，表示該地方或機構",
+    "table": [
+      { "kr": "수백", "zh": "數百" },
+      { "kr": "수십", "zh": "數十" },
+      { "kr": "수천", "zh": "數千" },
+      { "kr": "수만", "zh": "數萬" },
+      { "kr": "수없이", "zh": "無數的" },
+      { "kr": "연구소", "zh": "研究所" },
+      { "kr": "안내소", "zh": "服務台" },
+      { "kr": "주유소", "zh": "加油站" },
+      { "kr": "파출소", "zh": "派出所" },
+      { "kr": "사무소", "zh": "事務所" },
+      { "kr": "검역소", "zh": "檢疫所" }
+    ]
+  }
+}

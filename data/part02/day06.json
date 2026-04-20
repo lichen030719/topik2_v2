@@ -1,0 +1,319 @@
+{
+  "day": 6,
+  "words": [
+    {
+      "id": "201",
+      "korean": "기업",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "企業", "exampleKr": "좋은 상품을 만드는 기업이 되기 위해서 노력한다.", "exampleZh": "努力成為製造優質商品的企業。" }]
+    },
+    {
+      "id": "202",
+      "korean": "도입",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "引進", "exampleKr": "해외에서 도입한 기술과 국내 인력으로 값싸고 품질 좋은 제품을 만든다.", "exampleZh": "以國外引進的技術及國內的人力，製作物美價廉的商品。" }]
+    },
+    {
+      "id": "203",
+      "korean": "소득",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "所得、收入", "exampleKr": "가계 소득은 늘어나고 있지만 높은 물가를 따라가기 어렵다.", "exampleZh": "雖然家庭收入增加了，但很難跟上高物價。" }]
+    },
+    {
+      "id": "204",
+      "korean": "기술",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "技術", "exampleKr": "그는 고등학교 때부터 기술을 배워서 크게 성공하였다.", "exampleZh": "他高中開始學習技術，之後飛黃騰達。" }]
+    },
+    {
+      "id": "205",
+      "korean": "소리치다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "喊、呼喚", "exampleKr": "내가 응원하는 팀이 이겨서 나도 모르게 소리쳤다.", "exampleZh": "因為我支持的隊贏了（太高興），所以不自覺就喊了出來。" }]
+    },
+    {
+      "id": "206",
+      "korean": "내세우다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "樹立、提出", "exampleKr": "어떤 사람들은 자신의 돈과 권력을 내세운다.", "exampleZh": "有人只會展現自己的金錢和權力。" }]
+    },
+    {
+      "id": "207",
+      "korean": "소망",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "希望", "exampleKr": "이 아이의 작은 소망은 따뜻하고 행복한 가정이다.", "exampleZh": "這位小朋友的小小希望就是一個溫暖又幸福的家庭。" }]
+    },
+    {
+      "id": "208",
+      "korean": "소매",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        { "chinese": "衣袖", "exampleKr": "팔 길이가 길어서 어떤 옷을 입어도 소매가 짧다.", "exampleZh": "（我的）胳膊（比較）長，穿什麼衣服袖子都顯短。" },
+        { "chinese": "零售", "exampleKr": "이 가게는 소매 가격으로 물건을 파니까 다른 가게보다 싸다.", "exampleZh": "這家店以零售的價格出售商品，所以比其他商店便宜。" }
+      ]
+    },
+    {
+      "id": "209",
+      "korean": "반값",
+      "pronunciation": "반깝",
+      "pos": "명",
+      "meanings": [{ "chinese": "半價", "exampleKr": "오늘만 모든 상품을 반값에 판매합니다.", "exampleZh": "只有今天所有的商品半價出售。" }]
+    },
+    {
+      "id": "210",
+      "korean": "소비",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "消費", "exampleKr": "가계 소비가 늘면 경제 성장에 도움이 된다.", "exampleZh": "增加家庭消費的話，有助於經濟成長。" }]
+    },
+    {
+      "id": "211",
+      "korean": "경제",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "經濟", "exampleKr": "그는 우리 나라 경제 발전에 큰 공헌을 했다.", "exampleZh": "他對於我們國家的經濟發展有很大的貢獻。" }]
+    },
+    {
+      "id": "212",
+      "korean": "소문",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "傳聞", "exampleKr": "우리 회사 회장님 건강이 안 좋다는 소문이 났다.", "exampleZh": "有傳聞我們公司的會長身體不好。" }]
+    },
+    {
+      "id": "213",
+      "korean": "근거",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "根據", "exampleKr": "이 소문이 사실이라는 아무런 근거가 없다.", "exampleZh": "沒有任何根據（證明）這個傳聞是真的。" }]
+    },
+    {
+      "id": "214",
+      "korean": "발전",
+      "pronunciation": "발쩐",
+      "pos": "명",
+      "meanings": [{ "chinese": "發展", "exampleKr": "경제가 빠르게 성장했으나 문화적 발전을 이루지 못했다.", "exampleZh": "經濟迅速成長，卻沒有文化上的發展。" }]
+    },
+    {
+      "id": "215",
+      "korean": "무조건",
+      "pronunciation": "무조건",
+      "pos": "명",
+      "meanings": [{ "chinese": "無條件", "exampleKr": "다른 사람의 말을 무조건 믿는 것은 위험한 일이다.", "exampleZh": "對別人說的話總是深信不疑（無條件相信）會很危險。" }]
+    },
+    {
+      "id": "216",
+      "korean": "시스템",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "系統", "exampleKr": "이 학교는 훌륭한 교육 시스템을 가지고 있다.", "exampleZh": "這所學校有出色的教育系統。" }]
+    },
+    {
+      "id": "217",
+      "korean": "결제",
+      "pronunciation": "결쩨",
+      "pos": "명",
+      "meanings": [{ "chinese": "結帳", "exampleKr": "우리 가게에서는 현금과 카드로 결제할 수 있다.", "exampleZh": "我們商店可以用現金及信用卡結帳。" }]
+    },
+    {
+      "id": "218",
+      "korean": "생존",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "生存", "exampleKr": "생존과 관계가 있는 위험은 항상 우리 주변에 있다.", "exampleZh": "我們周遭總是伴隨著危險，攸關生命安全（生存）。" }]
+    },
+    {
+      "id": "219",
+      "korean": "선진",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "先進", "exampleKr": "경제 성장뿐만 아니라 선진 문화도 이룩해야 한다.", "exampleZh": "不但要經濟成長，也要實現先進文化。" }]
+    },
+    {
+      "id": "220",
+      "korean": "선진국",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "先進國", "exampleKr": "선진국으로 성장하려면 어떤 요건이 필요합니까?", "exampleZh": "如果要成長為先進國，需要怎麼樣的條件？" }]
+    },
+    {
+      "id": "221",
+      "korean": "중소기업",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "中小企業", "exampleKr": "우리 회사는 수많은 중소기업과 협력하고 있다.", "exampleZh": "我們公司與許多中小企業協力合作。" }]
+    },
+    {
+      "id": "222",
+      "korean": "생활용품",
+      "pronunciation": "생활용품",
+      "pos": "명",
+      "meanings": [{ "chinese": "生活用品", "exampleKr": "세일 기간 동안 생활용품을 반값에 구입할 수 있다.", "exampleZh": "折扣期間可以半價購買生活用品。" }]
+    },
+    {
+      "id": "223",
+      "korean": "부담",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "負擔", "exampleKr": "이번 피해 보상은 모두 우리 회사가 부담하기로 했다.", "exampleZh": "這次的損害賠償，決定都由我們公司來負擔。" }]
+    },
+    {
+      "id": "224",
+      "korean": "수입",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        { "chinese": "收入", "exampleKr": "맞벌이 부부가 아닌데 수입이 많은 편이다.", "exampleZh": "不是雙薪家庭，但收入算多。" },
+        { "chinese": "進口", "exampleKr": "올해부터 수출보다 수입이 증가해서 경제 불균형이 발생했다.", "exampleZh": "自今年起進口大於出口，造成（發生）經濟失衡（的現象）。" }
+      ]
+    },
+    {
+      "id": "225",
+      "korean": "발행",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "發行", "exampleKr": "우리 출판사는 책뿐만 아니라 잡지도 발행하고 있다.", "exampleZh": "我們出版社不只書，還有發行雜誌。" }]
+    },
+    {
+      "id": "226",
+      "korean": "소용",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "用處", "exampleKr": "하루 이틀만 시험을 준비하면 소용이 없다.", "exampleZh": "只（利用）一兩天準備考試沒有用。" }]
+    },
+    {
+      "id": "227",
+      "korean": "해결",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "解決", "exampleKr": "경제 불균형을 해결하기 위해서 회의를 열려고 한다.", "exampleZh": "為了解決經濟失衡（的問題），打算開會。" }]
+    },
+    {
+      "id": "228",
+      "korean": "부동산",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "不動產", "exampleKr": "예전에는 부동산에 투자하여 큰 돈을 벌었다.", "exampleZh": "以前投資不動產，賺了很大一筆錢。" }]
+    },
+    {
+      "id": "229",
+      "korean": "생산",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "生產", "exampleKr": "저 친구는 우리 회사 생산 부문에서 근무했었다.", "exampleZh": "那個朋友（之前）在我們公司生產部門上班。" }]
+    },
+    {
+      "id": "230",
+      "korean": "해결책",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "解決方法", "exampleKr": "실업자를 줄일 수 있는 해결책은 무엇일까?", "exampleZh": "能減少失業者的解決方法是什麼？" }]
+    },
+    {
+      "id": "231",
+      "korean": "공급",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "供應", "exampleKr": "우리 회사는 중소기업이지만 대기업에 부품을 공급하고 있다.", "exampleZh": "我們公司雖然是中小企業，但供應零件給大企業。" }]
+    },
+    {
+      "id": "232",
+      "korean": "수요",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "需要、需求", "exampleKr": "요즘은 노트북보다 휴대 전화의 수요가 더 느는 추세이다.", "exampleZh": "最近相較於筆記型電腦，手機的需求有增加的趨勢。" }]
+    },
+    {
+      "id": "233",
+      "korean": "할부",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "分期付款", "exampleKr": "행사 기간 동안 6개월 무이자 할부로 물건을 구매할 수 있다.", "exampleZh": "活動期間購物可以6個月分期付款免利息。" }]
+    },
+    {
+      "id": "234",
+      "korean": "소유",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "所有", "exampleKr": "이 빌딩은 개인 소유인지 국가 소유인지 알 수가 없다.", "exampleZh": "不知道這棟大樓是屬於個人所有還是國家所有。" }]
+    },
+    {
+      "id": "235",
+      "korean": "합계",
+      "pronunciation": "합께",
+      "pos": "명",
+      "meanings": [{ "chinese": "合計、總計", "exampleKr": "매일 저녁 하루에 소비한 합계를 노트에 적는다.", "exampleZh": "每天晚上會將一天的消費總額（合計）寫在筆記本中。" }]
+    },
+    {
+      "id": "236",
+      "korean": "수용",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "接受", "exampleKr": "위의 내용을 모두 수용할 수 있으면 여기에 사인해 주세요.", "exampleZh": "以上內容全都可以接受的話，請在這裡簽名。" }]
+    },
+    {
+      "id": "237",
+      "korean": "품목",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "品目、項目、清單", "exampleKr": "이 가게에는 전자 제품과 관련된 품목을 상당량 판매하고 있다.", "exampleZh": "這家商店販售相當多電子產品相關的品項。" }]
+    },
+    {
+      "id": "238",
+      "korean": "수집",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "收集", "exampleKr": "어른들도 아이들이 장난감을 모으는 것처럼 전자기기를 수집하기도 한다.", "exampleZh": "就像小孩收集玩具一樣，大人也會收集電子機器。" }]
+    },
+    {
+      "id": "239",
+      "korean": "정신",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "精神、態度", "exampleKr": "너무 낭비하지 말고 절약 정신을 길러야 한다.", "exampleZh": "別太浪費，應該要養成節約的精神。" }]
+    },
+    {
+      "id": "240",
+      "korean": "수출",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "出口", "exampleKr": "모든 해외 수출 품목이 이 항구를 통해 나간다.", "exampleZh": "所有的國外出口商品都是經由這個港口出去。" }]
+    }
+  ],
+  "tip": {
+    "title": "-금 / -료",
+    "titleZh": "-金 / -費",
+    "description": "「-금」接名詞後面，表示相當於該名詞的費用；「-료」接在名詞的後面，表示該名詞相關的費用",
+    "table": [
+      { "kr": "계약금", "zh": "訂金" },
+      { "kr": "공공요금", "zh": "公共收費" },
+      { "kr": "공과금", "zh": "公用費用" },
+      { "kr": "장학금", "zh": "獎學金" },
+      { "kr": "등록금", "zh": "註冊費" },
+      { "kr": "모금", "zh": "募捐" },
+      { "kr": "벌금", "zh": "罰金" },
+      { "kr": "상금", "zh": "獎金" },
+      { "kr": "세금", "zh": "稅金" },
+      { "kr": "예금", "zh": "存款" },
+      { "kr": "요금", "zh": "費用" },
+      { "kr": "임금", "zh": "薪水" },
+      { "kr": "입금", "zh": "收款" },
+      { "kr": "연금", "zh": "退休金" },
+      { "kr": "보험금", "zh": "保險費" },
+      { "kr": "통화료", "zh": "通話費" },
+      { "kr": "수수료", "zh": "手續費" },
+      { "kr": "연체료", "zh": "滯納金" },
+      { "kr": "입장료", "zh": "門票" },
+      { "kr": "주차료", "zh": "停車費" },
+      { "kr": "항공료", "zh": "空運運費" }
+    ]
+  }
+}

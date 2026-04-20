@@ -1,0 +1,313 @@
+{
+  "day": 7,
+  "words": [
+    {
+      "id": "241",
+      "korean": "소원",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "願望、期望", "exampleKr": "올해 소원은 마음이 잘 맞는 친구를 사귀는 것이다.", "exampleZh": "今年的願望是交一個心靈相通的朋友。" }]
+    },
+    {
+      "id": "242",
+      "korean": "절반",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "一半", "exampleKr": "한국어 수업 세 시간 동안 절반 이상은 한국어만 쓴다.", "exampleZh": "韓文課三小時的時間中，有一半以上都只用韓文。" }]
+    },
+    {
+      "id": "243",
+      "korean": "선호",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "偏好、偏愛", "exampleKr": "모두들 많은 사람들이 선호하는 대학에 가고 싶어 한다.", "exampleZh": "大家都想上許多人偏愛的大學。" }]
+    },
+    {
+      "id": "244",
+      "korean": "함부로",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "隨便", "exampleKr": "다른 집의 초인종을 함부로 누르면 안 된다.", "exampleZh": "不可以隨便按別人家的門鈴。" }]
+    },
+    {
+      "id": "245",
+      "korean": "이제야",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [{ "chinese": "現在才", "exampleKr": "그 이유를 이제야 알게 되었다.", "exampleZh": "現在才知道那個理由。" }]
+    },
+    {
+      "id": "246",
+      "korean": "밝혀내다",
+      "pronunciation": "발겨내다",
+      "pos": "동",
+      "meanings": [{ "chinese": "細究、闡明", "exampleKr": "이 사건 해결이 어려운 이유를 밝혀내 주세요.", "exampleZh": "請闡明這件事難以解決的理由。" }]
+    },
+    {
+      "id": "247",
+      "korean": "렌터카",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "出租的汽車、租用車", "exampleKr": "먼저 고속철도를 타고가서 다시 렌터카를 이용하면 편리합니다.", "exampleZh": "先搭高鐵過去，然後再使用出租的汽車會比較方便。" }]
+    },
+    {
+      "id": "248",
+      "korean": "합의",
+      "pronunciation": "하비",
+      "pos": "명",
+      "meanings": [{ "chinese": "意見一致、協商", "exampleKr": "두 회사가 합의하기까지 정말 오랜 시간이 걸렸다.", "exampleZh": "兩家公司直至意見一致，真的耗費了很長一段時間。" }]
+    },
+    {
+      "id": "249",
+      "korean": "기부",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "捐款", "exampleKr": "적은 돈이라도 기부하는 습관을 가지는 것은 중요하다.", "exampleZh": "養成捐款的習慣很重要，哪怕金額不大（也沒關係）。" }]
+    },
+    {
+      "id": "250",
+      "korean": "수명",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "壽命", "exampleKr": "과학은 발달했지만 기대 수명은 길어지지 않았다.", "exampleZh": "雖然科學很發達，但期望的壽命卻沒有變長。" }]
+    },
+    {
+      "id": "251",
+      "korean": "위기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "危機", "exampleKr": "나는 위기가 닥칠 때 마다 기도를 한다.", "exampleZh": "我每次遇到危機就禱告。" }]
+    },
+    {
+      "id": "252",
+      "korean": "노선",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "路線", "exampleKr": "이사 온 동네의 버스 노선은 많지 않아서 불편하다.", "exampleZh": "搬來的地方（村里）因為公車路線不多而不方便。" }]
+    },
+    {
+      "id": "253",
+      "korean": "신용",
+      "pronunciation": "시뇽",
+      "pos": "명",
+      "meanings": [{ "chinese": "信用", "exampleKr": "현대 사회는 신용사회라고 말해도 과언이 아니다.", "exampleZh": "說現代社會是信用社會也不為過。" }]
+    },
+    {
+      "id": "254",
+      "korean": "이롭다",
+      "pronunciation": "이롭따",
+      "pos": "형",
+      "meanings": [{ "chinese": "有利", "exampleKr": "유기농 야채과 과일은 비싸더라도 몸에 이롭다.", "exampleZh": "有機蔬菜及水果，即使價錢很貴，但對身體有益。" }]
+    },
+    {
+      "id": "255",
+      "korean": "합치다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "合、併攏", "exampleKr": "우리 팀원들의 능력을 합치면 못 하는 일이 없다.", "exampleZh": "集結我們全體隊員的力量，沒有不可能的事。" }]
+    },
+    {
+      "id": "256",
+      "korean": "신문지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "新聞紙、報紙", "exampleKr": "유리 그릇은 신문지에 잘 싸면 쉽게 깨지지 않는다.", "exampleZh": "如果玻璃碗用報紙好好包住，就不容易打碎。" }]
+    },
+    {
+      "id": "257",
+      "korean": "합하다",
+      "pronunciation": "하파다",
+      "pos": "동",
+      "meanings": [{ "chinese": "合併、加總", "exampleKr": "물건 가격은 표시된 가격뿐만 아니라 세금까지 합해야 한다.", "exampleZh": "物品的價格不只要看標價，還要加上（合併）稅金。" }]
+    },
+    {
+      "id": "258",
+      "korean": "유지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "維持", "exampleKr": "건강을 유지하기 위해서 적게 먹고 운동한다.", "exampleZh": "為了維持健康，要少吃（多）運動。" }]
+    },
+    {
+      "id": "259",
+      "korean": "이익",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "利益", "exampleKr": "건강하게 오래 사는 것이 가장 큰 이익이라고 생각한다.", "exampleZh": "我認為健康長壽就是最大的利益。" }]
+    },
+    {
+      "id": "260",
+      "korean": "이자",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "利息", "exampleKr": "나는 무이자 할부를 자주 이용하는 편이다.", "exampleZh": "我比較常用無息分期。" }]
+    },
+    {
+      "id": "261",
+      "korean": "시급",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        { "chinese": "時薪", "exampleKr": "친구의 아르바이트 시급은 5천원이다.", "exampleZh": "朋友的打工時薪是5千韓圓。" },
+        { "chinese": "緊迫", "exampleKr": "이 문제는 너무 중요해서 해결이 시급하다.", "exampleZh": "這個問題十分重要，所以解決（問題）是當務之急。" }
+      ]
+    },
+    {
+      "id": "262",
+      "korean": "월급",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "月薪", "exampleKr": "면접을 볼 때 월급과 기타 복지 혜택에 대해 물어봐야 한다.", "exampleZh": "面試的時候必須要問月薪以及其他福利優惠。" }]
+    },
+    {
+      "id": "263",
+      "korean": "타다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        { "chinese": "領（薪水）", "exampleKr": "매달 1일에 월급을 탄다.", "exampleZh": "每個月1號領薪水。" },
+        { "chinese": "騒（汙漬）", "exampleKr": "윗옷은 목 부분에 쉽게 때가 탄다.", "exampleZh": "上衣領子（脖子）的部分很容易騒。" }
+      ]
+    },
+    {
+      "id": "264",
+      "korean": "이루다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "成就、實現", "exampleKr": "꿈을 이루기 전까지 어려움이 오기 마련이다.", "exampleZh": "實現夢想之前，難免會遇到困難。" }]
+    },
+    {
+      "id": "265",
+      "korean": "수면",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "睡眠", "exampleKr": "수면 시간에 잠을 푹 자는 것을 숙면이라고 한다.", "exampleZh": "睡眠時間睡得很沉叫做熟睡。" }]
+    },
+    {
+      "id": "266",
+      "korean": "이루하다",
+      "pronunciation": "이루카다",
+      "pos": "동",
+      "meanings": [{ "chinese": "達成", "exampleKr": "올해는 10퍼센트의 경제 성장을 이룰 것으로 보인다.", "exampleZh": "今年看來經濟（有望）達成（成長）百分之10。" }]
+    },
+    {
+      "id": "267",
+      "korean": "실리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [{ "chinese": "登載、刊登", "exampleKr": "오늘 아침 신문에 내가 좋아하는 가수의 기사가 실렸다.", "exampleZh": "今天早上報紙上刊登了我喜歡的歌手的報導。" }]
+    },
+    {
+      "id": "268",
+      "korean": "유통",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "流通", "exampleKr": "현재 유통되고 있는 고기에는 문제가 없습니까?", "exampleZh": "現在流通的肉類沒有問題嗎？" }]
+    },
+    {
+      "id": "269",
+      "korean": "절차",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "程序", "exampleKr": "일이 복잡할수록 분명한 절차를 밟는 것이 중요합니다.", "exampleZh": "重要的是，事情越複雜，程序越要清清楚楚。" }]
+    },
+    {
+      "id": "270",
+      "korean": "손해",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "損害、損失", "exampleKr": "3년전에 시작한 주식투자로 손해를 많이 입었다.", "exampleZh": "3年前開始投資股票，損失慘重。" }]
+    },
+    {
+      "id": "271",
+      "korean": "핵심",
+      "pronunciation": "핵씸",
+      "pos": "명",
+      "meanings": [{ "chinese": "核心", "exampleKr": "이 문제의 핵심은 한자를 아는 것에 있다.", "exampleZh": "這個題目的核心在是否認識漢字。" }]
+    },
+    {
+      "id": "272",
+      "korean": "유형",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "類型", "exampleKr": "시험 문제의 유형을 분석하면 더 잘 준비할 수 있다.", "exampleZh": "如果分析考題的類型，會準備得更好。" }]
+    },
+    {
+      "id": "273",
+      "korean": "절대",
+      "pronunciation": "절때",
+      "pos": "부",
+      "meanings": [{ "chinese": "絕對", "exampleKr": "어떤 일도 어렵다고 절대 포기하면 안 됩니다.", "exampleZh": "無論何事，即使你認為很難，也絕對不能放棄。" }]
+    },
+    {
+      "id": "274",
+      "korean": "형편",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "情況、家境", "exampleKr": "생활 형편이 좋은 사람은 마음에 여유가 있다.", "exampleZh": "家境（生活情況）好的人心中悠然自得。" }]
+    },
+    {
+      "id": "275",
+      "korean": "절망",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "絕望", "exampleKr": "아무리 힘들더라도 절망하지 말고 다시 시작해 보세요.", "exampleZh": "無論再怎麼辛苦也別絕望，請重新出發。" }]
+    },
+    {
+      "id": "276",
+      "korean": "연체",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "拖延、拖欠", "exampleKr": "신용카드 비용을 연체하면 큰 불이익을 볼 수 있다.", "exampleZh": "如果拖欠繳交信用卡費用，會吃大虧。" }]
+    },
+    {
+      "id": "277",
+      "korean": "혜택",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "優惠", "exampleKr": "이 회사에 들어가면 여러 가지 혜택을 누릴 수 있다.", "exampleZh": "如果進這家公司的話，可享受各種優惠。" }]
+    },
+    {
+      "id": "278",
+      "korean": "평",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "評價", "exampleKr": "내가 쓰는 화장품은 인터넷에서 평이 좋다.", "exampleZh": "我在使用的化妝品，在網路上評價很好。" }]
+    },
+    {
+      "id": "279",
+      "korean": "과소비",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "過度消費", "exampleKr": "과소비를 줄이려면 메모하는 습관을 들여야 한다.", "exampleZh": "為了減少過度消費，要養成記錄的習慣。" }]
+    },
+    {
+      "id": "280",
+      "korean": "평균",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [{ "chinese": "平均", "exampleKr": "한 달 평균 생활비를 얼마나 사용합니까?", "exampleZh": "一個月生活費平均花費多少錢？" }]
+    }
+  ],
+  "tip": {
+    "title": "-비 / 비-",
+    "titleZh": "-費 / 非-",
+    "description": "「-비」接部分名詞的後面，表示費用；「비-」接部分名詞的前面，表示否定",
+    "table": [
+      { "kr": "휴가비", "zh": "休假津貼" },
+      { "kr": "생활비", "zh": "生活費" },
+      { "kr": "수리비", "zh": "修理費" },
+      { "kr": "숙박비", "zh": "住宿費、食宿費" },
+      { "kr": "회비", "zh": "會費" },
+      { "kr": "학비", "zh": "學費" },
+      { "kr": "교육비", "zh": "教育費" },
+      { "kr": "식비", "zh": "餐費" },
+      { "kr": "교통비", "zh": "交通費" },
+      { "kr": "비공식", "zh": "非正式" },
+      { "kr": "비매품", "zh": "非賣品" },
+      { "kr": "비정상", "zh": "非正常" },
+      { "kr": "비인간적", "zh": "非人的" },
+      { "kr": "비생산적", "zh": "非生產性的" },
+      { "kr": "비능률적", "zh": "沒效率" }
+    ]
+  }
+}
