@@ -1,0 +1,590 @@
+{
+  "day": 14,
+  "words": [
+    {
+      "id": "521",
+      "korean": "괴롭다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "難受、痛苦",
+          "exampleKr": "이 문제가 나 때문에 발생한 것 같아서 마음이 괴롭다.",
+          "exampleZh": "這個問題好像是因我而生，所以心裡很難過。"
+        }
+      ]
+    },
+    {
+      "id": "522",
+      "korean": "처리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "處理",
+          "exampleKr": "증명서를 신청하면 일주일의 처리 기간이 소요된다.",
+          "exampleZh": "申請證明書時，需要花一個星期的處理時間。"
+        }
+      ]
+    },
+    {
+      "id": "523",
+      "korean": "방지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "預防、防止",
+          "exampleKr": "우울증을 방지하기 위해서 과일을 먹는 것이 도움이 된다.",
+          "exampleZh": "吃水果有助於預防憂鬱症。"
+        }
+      ]
+    },
+    {
+      "id": "524",
+      "korean": "분실",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "遺失",
+          "exampleKr": "분실 사고를 방지하기 위해서 감시하는 사람을 두었다.",
+          "exampleZh": "為了防止東西遺失，安排了兩個人來監視。"
+        }
+      ]
+    },
+    {
+      "id": "525",
+      "korean": "마음껏",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "盡情",
+          "exampleKr": "오늘은 내가 내니까 마음껏 드세요.",
+          "exampleZh": "今天我請客，請盡情吃。"
+        }
+      ]
+    },
+    {
+      "id": "526",
+      "korean": "지연",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "誤點、延遲",
+          "exampleKr": "비가 많이 오고 차가 막히니까 도착이 지연되었다.",
+          "exampleZh": "因為下很大又塞車，所以延遲了。"
+        }
+      ]
+    },
+    {
+      "id": "527",
+      "korean": "파손",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "損壞",
+          "exampleKr": "택배를 받았는데 파손되었을 경우 보상을 받을 수 있다.",
+          "exampleZh": "收到宅配但東西有損壞的情況，可以獲得賠償。"
+        }
+      ]
+    },
+    {
+      "id": "528",
+      "korean": "잇다",
+      "pronunciation": "인다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "連接",
+          "exampleKr": "학생들이 손과 손을 맞잡아서 큰 원을 잇게 되었다.",
+          "exampleZh": "學生們手牽著手，連接成很大的圓形。"
+        }
+      ]
+    },
+    {
+      "id": "529",
+      "korean": "잇따르다",
+      "pronunciation": "인따르다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "接連",
+          "exampleKr": "눈이 오면서 자동차 사고가 잇따르고 있다.",
+          "exampleZh": "下雪時，車禍也接連而來。"
+        }
+      ]
+    },
+    {
+      "id": "530",
+      "korean": "놓이다",
+      "pronunciation": "노이다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "放",
+          "exampleKr": "친구가 와서 도와준다고 말하니 마음이 놓인다.",
+          "exampleZh": "朋友說要來幫忙，讓我很放心。"
+        }
+      ]
+    },
+    {
+      "id": "531",
+      "korean": "마음가짐",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "心理準備、心態",
+          "exampleKr": "바른 마음가짐으로 매사에 최선을 다한다.",
+          "exampleZh": "以正確的心態盡心盡力做好每件事。"
+        }
+      ]
+    },
+    {
+      "id": "532",
+      "korean": "애쓰다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "努力",
+          "exampleKr": "도와주려고 애썼지만 생각처럼 쉽게 해결되지 않았다.",
+          "exampleZh": "雖然努力想幫忙，但沒有想像中容易解決。"
+        }
+      ]
+    },
+    {
+      "id": "533",
+      "korean": "질서",
+      "pronunciation": "질써",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "秩序",
+          "exampleKr": "어릴 때부터 질서를 지키도록 잘 가르쳐야 한다.",
+          "exampleZh": "從小就要好好教導遵守秩序。"
+        }
+      ]
+    },
+    {
+      "id": "534",
+      "korean": "실천",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "實踐",
+          "exampleKr": "아침에 일찍 일어나는 것을 실천에 옮기기가 쉽지 않다.",
+          "exampleZh": "早上早起不容易實踐。"
+        }
+      ]
+    },
+    {
+      "id": "535",
+      "korean": "옮기다",
+      "pronunciation": "옴기다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "搬、變為",
+          "exampleKr": "어제부터 책상을 침대 옆으로 옮겨서 사용하고 있다.",
+          "exampleZh": "從昨天開始就把桌子搬到床的旁邊使用。"
+        },
+        {
+          "chinese": "抄",
+          "exampleKr": "다른 사람의 글을 그대로 옮기는 것도 불법이다.",
+          "exampleZh": "將別人的文章直接變為自己的是違法的。"
+        }
+      ]
+    },
+    {
+      "id": "536",
+      "korean": "진행하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "進行",
+          "exampleKr": "이번 회의는 영어로 진행하게 되었다.",
+          "exampleZh": "這次的會議以英文進行。"
+        }
+      ]
+    },
+    {
+      "id": "537",
+      "korean": "순조롭다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "順利",
+          "exampleKr": "오늘 하루는 회사 일이 모두 순조로웠다.",
+          "exampleZh": "今天一整天在公司的工作都很順利。"
+        }
+      ]
+    },
+    {
+      "id": "538",
+      "korean": "보람",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "意義",
+          "exampleKr": "열심히 준비한 일이 좋은 성과를 거두어서 보람이 있다.",
+          "exampleZh": "努力準備的事情有好的成果，很有意義。"
+        }
+      ]
+    },
+    {
+      "id": "539",
+      "korean": "후회",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "後悔",
+          "exampleKr": "한번 지나간 일은 후회를 해도 소용이 없다.",
+          "exampleZh": "已經過去的事後悔也沒用。"
+        }
+      ]
+    },
+    {
+      "id": "540",
+      "korean": "근무",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "勤務、工作",
+          "exampleKr": "지금 야간 근무를 마치고 집으로 돌아왔다.",
+          "exampleZh": "現在夜班結束後便回家了。"
+        }
+      ]
+    },
+    {
+      "id": "541",
+      "korean": "사정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "狀況",
+          "exampleKr": "모든 사람들의 사정이 다르기 때문에 쉽게 판단할 수 없다.",
+          "exampleZh": "每個人的狀況都不同，所以無法輕易判斷。"
+        }
+      ]
+    },
+    {
+      "id": "542",
+      "korean": "저지르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "造成",
+          "exampleKr": "실수를 저질러도 모르고 한 일이면 용서해 주어야 한다.",
+          "exampleZh": "如果在不知道的情況下造成錯誤，應該要原諒。"
+        }
+      ]
+    },
+    {
+      "id": "543",
+      "korean": "무사히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "平安無事地、安然無恙地",
+          "exampleKr": "해외 출장을 무사히 마치고 집으로 오는 비행기를 탔다.",
+          "exampleZh": "國外出差安然無恙地結束後，搭上了回家的飛機。"
+        }
+      ]
+    },
+    {
+      "id": "544",
+      "korean": "세미나",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "研討會",
+          "exampleKr": "세미나에 참석하면 새로운 지식을 습득함과 동시에 최근 연구 경향도 알 수 있다.",
+          "exampleZh": "參加研討會可習得新知，同時也能知道最近研究的趨勢。"
+        }
+      ]
+    },
+    {
+      "id": "545",
+      "korean": "분류",
+      "pronunciation": "불류",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "分類",
+          "exampleKr": "물건을 잘 분류해 놓는 것도 성격과 연관이 있다고 한다.",
+          "exampleZh": "聽說分類物品的習慣也跟個性有關。"
+        }
+      ]
+    },
+    {
+      "id": "546",
+      "korean": "비록",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "雖然、儘管",
+          "exampleKr": "비록 한국어를 배운지 얼마 되지 않았지만 한국으로 배낭여행을 가려고 한다.",
+          "exampleZh": "儘管學韓文沒有多久，但打算要去韓國背包旅行。"
+        }
+      ]
+    },
+    {
+      "id": "547",
+      "korean": "사건",
+      "pronunciation": "사껀",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "事情、事件",
+          "exampleKr": "언론의 사건 보도가 공정하지 않다는 것을 배웠다.",
+          "exampleZh": "學到媒體對事件報導不太公平。"
+        }
+      ]
+    },
+    {
+      "id": "548",
+      "korean": "조작",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "操作",
+          "exampleKr": "연구 결과를 조작하는 것은 학자의 양심에 어긋나는 일이다.",
+          "exampleZh": "操作研究結果，是一件違背學者良心的事。"
+        }
+      ]
+    },
+    {
+      "id": "549",
+      "korean": "양심",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "良心",
+          "exampleKr": "양심에 찔리는 일을 하는 것은 도리에 어긋난다.",
+          "exampleZh": "做良心上過不去的事是違背道理。"
+        }
+      ]
+    },
+    {
+      "id": "550",
+      "korean": "얼마간",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "一些、一段時間",
+          "exampleKr": "두 사람이 심하게 싸운 이후 얼마간 서로 연락하지 않았다.",
+          "exampleZh": "兩個人大吵一架之後，有好一段時間沒有互相聯絡。"
+        }
+      ]
+    },
+    {
+      "id": "551",
+      "korean": "분리",
+      "pronunciation": "불리",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "分類；分離",
+          "exampleKr": "쓰레기 분리 수거 제도가 점점 정착되고 있다.",
+          "exampleZh": "垃圾分類回收的制度逐步落實下來。"
+        },
+        {
+          "chinese": "分離",
+          "exampleKr": "엄마와 아기를 분리해 놓으면 성장 발달에 큰 영향을 미친다.",
+          "exampleZh": "如果媽媽和寶寶分離，對（寶寶的）成長發育會有很大的影響。"
+        }
+      ]
+    },
+    {
+      "id": "552",
+      "korean": "기적",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "奇蹟",
+          "exampleKr": "기적처럼 시험을 한 번에 통과했다.",
+          "exampleZh": "像奇蹟般一次就通過考試。"
+        }
+      ]
+    },
+    {
+      "id": "553",
+      "korean": "사과",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "道歉",
+          "exampleKr": "먼저 사과를 구하는 것은 용기가 필요한 일이다.",
+          "exampleZh": "先請求對方道歉，是需要勇氣的一件事。"
+        }
+      ]
+    },
+    {
+      "id": "554",
+      "korean": "피로",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "疲倦",
+          "exampleKr": "이 약은 피로 회복에 탁월한 효과가 있다.",
+          "exampleZh": "這個藥對恢復疲倦有卓越的效果。"
+        }
+      ]
+    },
+    {
+      "id": "555",
+      "korean": "피부",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "皮膚",
+          "exampleKr": "좋은 피부를 유지하기 위해서 물을 많이 마셔야 한다.",
+          "exampleZh": "為了維持好的皮膚需要多喝水。"
+        }
+      ]
+    },
+    {
+      "id": "556",
+      "korean": "횟수",
+      "pronunciation": "휃쑤",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "次數",
+          "exampleKr": "한번 회원 가입을 하면 이용 횟수에 관계없이 무료입장을 할 수 있다.",
+          "exampleZh": "只要加入會員，無論使用幾次都可以免費入場。"
+        }
+      ]
+    },
+    {
+      "id": "557",
+      "korean": "가꾸다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "栽種",
+          "exampleKr": "어머니는 꽃을 가꾸는 취미가 있으시다.",
+          "exampleZh": "我母親對種花有興趣。"
+        }
+      ]
+    },
+    {
+      "id": "558",
+      "korean": "각오",
+      "pronunciation": "가고",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "覺悟、決心",
+          "exampleKr": "경기에 앞서서 각오 한 말씀 부탁합니다.",
+          "exampleZh": "比賽前請用一句話表達你的決心。"
+        }
+      ]
+    },
+    {
+      "id": "559",
+      "korean": "강요",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "強迫",
+          "exampleKr": "부모의 강요에 의해서 선택한 일은 오래가지 못하는 법이다.",
+          "exampleZh": "被父母強迫選擇的事情，本來就做不久。"
+        }
+      ]
+    },
+    {
+      "id": "560",
+      "korean": "갖가지",
+      "pronunciation": "갇까지",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "各種",
+          "exampleKr": "겉으로는 행복해 보일지 몰라도 마음에 갖가지 걱정거리가 있다.",
+          "exampleZh": "即使外表上看起來幸福，心裡卻有各種煩惱。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-관",
+    "titleZh": "-官 / -館 / -觀",
+    "description": "「-관（官）」表示公家機關的官員；「-관（館）」接在建築或機構的名詞後面，表示建築或機構；「-관（觀）」表示觀點或見解",
+    "table": [
+      {
+        "kr": "외교관",
+        "zh": "外交官"
+      },
+      {
+        "kr": "면접관",
+        "zh": "面試官"
+      },
+      {
+        "kr": "경찰관",
+        "zh": "警察"
+      },
+      {
+        "kr": "법무관",
+        "zh": "法務官"
+      },
+      {
+        "kr": "감독관",
+        "zh": "監督官"
+      },
+      {
+        "kr": "도서관",
+        "zh": "圖書館"
+      },
+      {
+        "kr": "박물관",
+        "zh": "博物館"
+      },
+      {
+        "kr": "대사관",
+        "zh": "大使館"
+      },
+      {
+        "kr": "영화관",
+        "zh": "電影院"
+      },
+      {
+        "kr": "가치관",
+        "zh": "價值觀"
+      },
+      {
+        "kr": "세계관",
+        "zh": "世界觀"
+      },
+      {
+        "kr": "인생관",
+        "zh": "人生觀"
+      }
+    ]
+  }
+}

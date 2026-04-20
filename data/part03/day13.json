@@ -1,0 +1,587 @@
+{
+  "day": 13,
+  "words": [
+    {
+      "id": "481",
+      "korean": "관점",
+      "pronunciation": "관쩜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "觀點",
+          "exampleKr": "같은 사건이라도 보는 관점에 따라 대응하는 방법도 다르다.",
+          "exampleZh": "即使同一件事情，對應方法也會依觀點而不同。"
+        }
+      ]
+    },
+    {
+      "id": "482",
+      "korean": "상징",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "象徵",
+          "exampleKr": "남산에 있는 서울타워는 서울의 상징이 되었다.",
+          "exampleZh": "南山的首爾塔成為首爾的象徵。"
+        }
+      ]
+    },
+    {
+      "id": "483",
+      "korean": "알레르기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "過敏",
+          "exampleKr": "땅콩을 많이 먹으면 알레르기를 유발할 수 있다.",
+          "exampleZh": "花生吃多了可能引起過敏。"
+        }
+      ]
+    },
+    {
+      "id": "484",
+      "korean": "연기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "延期",
+          "exampleKr": "이번 여행은 태풍 피해로 인해 무기한으로 연기되었다.",
+          "exampleZh": "這次的旅行因颱風災情而無限延期。"
+        },
+        {
+          "chinese": "菸味",
+          "exampleKr": "담배 연기를 많이 마으면 몸에 해롭다.",
+          "exampleZh": "吸太多二手菸對身體有害。"
+        },
+        {
+          "chinese": "演技",
+          "exampleKr": "이 배우의 연기는 보는 사람들이 진짜인 것처럼 착각할 때가 많다.",
+          "exampleZh": "這個演員的演技常讓人誤以為是真的。"
+        }
+      ]
+    },
+    {
+      "id": "485",
+      "korean": "영혼",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "靈魂",
+          "exampleKr": "사람이 죽어도 영혼은 죽지 않는다고 믿는다.",
+          "exampleZh": "相信即使人死了靈魂也不會死。"
+        }
+      ]
+    },
+    {
+      "id": "486",
+      "korean": "접속",
+      "pronunciation": "접쏙",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "連上、連接",
+          "exampleKr": "커피숍에는 커피를 마시면서 인터넷에 접속할 수 있는 서비스가 있다.",
+          "exampleZh": "咖啡店可以喝咖啡，同時提供網路連接的服務。"
+        }
+      ]
+    },
+    {
+      "id": "487",
+      "korean": "충분히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "充分的",
+          "exampleKr": "이번 시험에 통과할 수 있도록 충분히 준비했다.",
+          "exampleZh": "為通過這次考試做了充分的準備。"
+        }
+      ]
+    },
+    {
+      "id": "488",
+      "korean": "태양",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "太陽",
+          "exampleKr": "아침부터 태양이 강해서 눈이 부신다.",
+          "exampleZh": "從早上開始太陽就很強很刺眼。"
+        }
+      ]
+    },
+    {
+      "id": "489",
+      "korean": "풍부하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "豐富",
+          "exampleKr": "딸기에는 비타민이 풍부하게 들어있어서 몸에 좋다.",
+          "exampleZh": "草莓含有豐富的維生素，對身體很好。"
+        }
+      ]
+    },
+    {
+      "id": "490",
+      "korean": "감정",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "感情",
+          "exampleKr": "우리의 감정은 얼굴에 나타나기 마련이다.",
+          "exampleZh": "我們的感情容易表現在臉上。"
+        }
+      ]
+    },
+    {
+      "id": "491",
+      "korean": "상상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "想像",
+          "exampleKr": "사고 싶은 물건을 사는 상상만으로도 기분이 좋다.",
+          "exampleZh": "光是想像買到想買的東西就很高興。"
+        }
+      ]
+    },
+    {
+      "id": "492",
+      "korean": "엄격하다",
+      "pronunciation": "엄껴카다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "嚴格",
+          "exampleKr": "아버지는 군인이시기 때문에 매우 엄격하신 편이다.",
+          "exampleZh": "因為父親是軍人，所以算是相當嚴格。"
+        }
+      ]
+    },
+    {
+      "id": "493",
+      "korean": "종종",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "常常",
+          "exampleKr": "해외에서 공부하기 때문에 종종 부모님께 전화 드린다.",
+          "exampleZh": "因為在國外念書，所以常常打電話給父母親。"
+        }
+      ]
+    },
+    {
+      "id": "494",
+      "korean": "출현하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "出現",
+          "exampleKr": "등산을 할 때 가끔 산에서 토끼나 뱀이 출현하기도 한다.",
+          "exampleZh": "爬山時，偶爾山上也會出現兔子或蛇。"
+        }
+      ]
+    },
+    {
+      "id": "495",
+      "korean": "존재하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "存在",
+          "exampleKr": "세계 각국에 많은 언어가 존재하기 때문에 공용으로 영어를 쓴다.",
+          "exampleZh": "世界各國存在很多語言，因此便使用英語當作共通的語言。"
+        }
+      ]
+    },
+    {
+      "id": "496",
+      "korean": "충고",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "勸告",
+          "exampleKr": "부모님의 충고는 신중하게 듣고 실천하는 것이 좋다.",
+          "exampleZh": "要慎重聽取父母親的勸告並實踐。"
+        }
+      ]
+    },
+    {
+      "id": "497",
+      "korean": "태우다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "使燃燒",
+          "exampleKr": "가을에 낙엽이 떨어지면 곧잘 낙엽을 불에 태운다.",
+          "exampleZh": "秋天落葉時，常常燒落葉。"
+        },
+        {
+          "chinese": "使……乘坐",
+          "exampleKr": "아기를 차에 태울 때 전용 의자를 사용해야 한다.",
+          "exampleZh": "讓嬰兒坐車時，要使用寶寶專用椅。"
+        }
+      ]
+    },
+    {
+      "id": "498",
+      "korean": "택하다",
+      "pronunciation": "태카다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "挑選",
+          "exampleKr": "많은 색깔의 휴대 전화 가운데 빨간색을 택했다.",
+          "exampleZh": "很多顏色的手機中我選了紅色。"
+        }
+      ]
+    },
+    {
+      "id": "499",
+      "korean": "해소",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "消除",
+          "exampleKr": "스트레스 해소를 위해 가끔 노래방에 간다.",
+          "exampleZh": "為了消除壓力偶爾去KTV（唱歌）。"
+        }
+      ]
+    },
+    {
+      "id": "500",
+      "korean": "확장",
+      "pronunciation": "확짱",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "擴大",
+          "exampleKr": "식당에 사람이 너무 많아서 반드시 가게를 확장해야 한다.",
+          "exampleZh": "因為餐廳客人太多，一定要擴大餐廳。"
+        }
+      ]
+    },
+    {
+      "id": "501",
+      "korean": "상태",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "狀況",
+          "exampleKr": "나이가 많으신 부모님의 건강을 위해 자주 건강 상태를 확인해야 한다.",
+          "exampleZh": "為了年紀大的父母親的健康，要常常確認他們的健康狀況。"
+        }
+      ]
+    },
+    {
+      "id": "502",
+      "korean": "영원",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "永遠",
+          "exampleKr": "결혼 반지는 영원한 사랑을 의미한다고 한다.",
+          "exampleZh": "聽說結婚戒指的意思是永遠的愛。"
+        }
+      ]
+    },
+    {
+      "id": "503",
+      "korean": "종이컵",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "紙杯",
+          "exampleKr": "이 자동판매기는 종이컵에 커피가 나온다.",
+          "exampleZh": "這台自動販賣機使用紙杯盛裝咖啡（出來）。"
+        }
+      ]
+    },
+    {
+      "id": "504",
+      "korean": "충격",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "打擊、衝擊",
+          "exampleKr": "이번 사건은 우리 사회에 큰 충격을 안겨 주었다.",
+          "exampleZh": "這次的事件為我們社會帶來很大的衝擊。"
+        }
+      ]
+    },
+    {
+      "id": "505",
+      "korean": "접하다",
+      "pronunciation": "저파다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "聽、相連",
+          "exampleKr": "그 소식을 접한 후에 너무 기뻐서 눈물이 났다.",
+          "exampleZh": "聽到那個消息後，因為太高興而流淚。"
+        }
+      ]
+    },
+    {
+      "id": "506",
+      "korean": "충돌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "衝突、碰撞",
+          "exampleKr": "오토바이가 충돌하면서 큰 소리가 났다.",
+          "exampleZh": "摩托車衝撞時發出很大的聲音。"
+        }
+      ]
+    },
+    {
+      "id": "507",
+      "korean": "감히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "敢",
+          "exampleKr": "감히 미성년자가 술을 마시려고 한다.",
+          "exampleZh": "未成年人竟敢喝酒。"
+        }
+      ]
+    },
+    {
+      "id": "508",
+      "korean": "호르몬",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "荷爾蒙",
+          "exampleKr": "이 약을 먹으면 성장 호르몬이 나와서 키가 클 수 있다고 한다.",
+          "exampleZh": "聽說如果吃這個藥，會分泌生長荷爾蒙而長高。"
+        }
+      ]
+    },
+    {
+      "id": "509",
+      "korean": "폭발하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "爆發",
+          "exampleKr": "큰 연기와 함께 화산이 폭발했다.",
+          "exampleZh": "火山伴隨著濃煙而爆發。"
+        }
+      ]
+    },
+    {
+      "id": "510",
+      "korean": "감추다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "隱瞞",
+          "exampleKr": "어린 아이는 자신의 잘못을 알 때 그 행동을 감추려고 한다.",
+          "exampleZh": "小孩知道自己做錯時會隱瞞該行為。"
+        }
+      ]
+    },
+    {
+      "id": "511",
+      "korean": "수상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "領賞、獲獎",
+          "exampleKr": "소설책 한 권으로 올해의 작가 상을 수상하게 되었다.",
+          "exampleZh": "以一本小說獲得年度作家獎。"
+        }
+      ]
+    },
+    {
+      "id": "512",
+      "korean": "차별",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "差別、歧視",
+          "exampleKr": "아직도 인종 차별 때문에 고통 받는 사람들이 많다.",
+          "exampleZh": "至今還有許多人因為種族歧視而受苦。"
+        }
+      ]
+    },
+    {
+      "id": "513",
+      "korean": "진심",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "真心",
+          "exampleKr": "같은 반 친구가 좋은 회사에 취직을 해서 진심으로 축하해 주었다.",
+          "exampleZh": "同班同學進了好公司，我真心恭喜他。"
+        }
+      ]
+    },
+    {
+      "id": "514",
+      "korean": "지나치다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "過度",
+          "exampleKr": "말을 지나치게 많이 하면 잦은 실수를 하게 된다.",
+          "exampleZh": "如果講太多話，會常常失言。"
+        }
+      ]
+    },
+    {
+      "id": "515",
+      "korean": "접어들다",
+      "pronunciation": "저버들다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "進入",
+          "exampleKr": "바람이 차고 날씨가 추워진 걸 보니 겨울에 접어드나 보다.",
+          "exampleZh": "看風這麼涼、天氣也變冷了，好像要進入冬天。"
+        }
+      ]
+    },
+    {
+      "id": "516",
+      "korean": "예방",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "預防",
+          "exampleKr": "특히 어린이나 노약자는 감기 예방에 힘써야 한다.",
+          "exampleZh": "尤其要努力預防兒童及老弱者感冒。"
+        }
+      ]
+    },
+    {
+      "id": "517",
+      "korean": "접촉",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "接觸",
+          "exampleKr": "감기에 걸린 사람들은 다른 사람과 접촉을 피해야 한다.",
+          "exampleZh": "已經感冒的人要避免跟別人接觸。"
+        }
+      ]
+    },
+    {
+      "id": "518",
+      "korean": "응답",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "回答",
+          "exampleKr": "인터넷에 질문을 올리면 한 시간 내로 응답해 준다.",
+          "exampleZh": "若在網路上問問題，會於一小時內回答給你。"
+        }
+      ]
+    },
+    {
+      "id": "519",
+      "korean": "의견",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "意見",
+          "exampleKr": "생각이 서로 다르더라도 각자의 의견을 존중해 주어야 한다.",
+          "exampleZh": "即使彼此想法不同，還是必須尊重各自的意見。"
+        }
+      ]
+    },
+    {
+      "id": "520",
+      "korean": "좀처럼",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "不容易",
+          "exampleKr": "매일 매일 비가 와서 빨래가 좀처럼 마르지 않는다.",
+          "exampleZh": "天天下雨所以洗好的衣服不容易乾。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "시- / 외-",
+    "titleZh": "시-（婆家）/ 외-（外婆家）",
+    "description": "「시-」接在家族有關的名詞後面，表示和丈夫家族有關；「외-」接在家族有關的名詞後面，表示和母親家族有關",
+    "table": [
+      {
+        "kr": "시어머니",
+        "zh": "婆婆"
+      },
+      {
+        "kr": "시댁",
+        "zh": "婆家"
+      },
+      {
+        "kr": "시동생",
+        "zh": "先生的弟弟"
+      },
+      {
+        "kr": "시집",
+        "zh": "婆家"
+      },
+      {
+        "kr": "시누이",
+        "zh": "先生的姊姊或弟弟"
+      },
+      {
+        "kr": "외할머니",
+        "zh": "外婆"
+      },
+      {
+        "kr": "외가",
+        "zh": "外婆家"
+      },
+      {
+        "kr": "외갓집",
+        "zh": "外婆家"
+      },
+      {
+        "kr": "외삼촌",
+        "zh": "媽媽的兄弟"
+      },
+      {
+        "kr": "외손녀",
+        "zh": "外孫女（女兒生的女兒）"
+      }
+    ]
+  }
+}

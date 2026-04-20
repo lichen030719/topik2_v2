@@ -1,0 +1,588 @@
+{
+  "day": 15,
+  "words": [
+    {
+      "id": "561",
+      "korean": "강의하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "講課、上課",
+          "exampleKr": "선생님은 강의하시기 전에 최근 이슈에 대해 이야기하신다.",
+          "exampleZh": "老師上課前先談論關於最近震動的議題。"
+        }
+      ]
+    },
+    {
+      "id": "562",
+      "korean": "졸리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "想睡覺",
+          "exampleKr": "밤에 영화를 보느라 늦게 잤는데 낮에 졸려서 낮잠을 잤다.",
+          "exampleZh": "晚上因為看電影而晚睡，於是白天很想睡而睡午覺。"
+        }
+      ]
+    },
+    {
+      "id": "563",
+      "korean": "졸음",
+      "pronunciation": "조름",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "睏",
+          "exampleKr": "회사에서 졸음이 쏟아지면 커피를 한 잔 마신다.",
+          "exampleZh": "在公司犯睏時，喝一杯咖啡。"
+        }
+      ]
+    },
+    {
+      "id": "564",
+      "korean": "가만히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "靜靜地",
+          "exampleKr": "그런 상처는 가만히 두면 스스로 낫는 법이다.",
+          "exampleZh": "那種傷口靜靜地放著，就會自己痊癒。"
+        }
+      ]
+    },
+    {
+      "id": "565",
+      "korean": "사기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "詐騙",
+          "exampleKr": "사기를 치는 사람도 나쁘지만 사기를 당하지 않도록 주의해야 한다.",
+          "exampleZh": "儘管詐騙的人也不好，但還是要小心不要被騙。"
+        }
+      ]
+    },
+    {
+      "id": "566",
+      "korean": "분명히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "明確",
+          "exampleKr": "방금 분명히 무슨 말을 하려고 했는데 도무지 기억나지 않는다.",
+          "exampleZh": "剛才我明明要說什麼，但卻一點也想不起來（原來要說什麼）。"
+        }
+      ]
+    },
+    {
+      "id": "567",
+      "korean": "산업",
+      "pronunciation": "사닙",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "產業",
+          "exampleKr": "산업 발달은 우리 생활을 편리하게 해 주었지만 자연환경은 파괴되었다.",
+          "exampleZh": "產業發達讓我們生活變方便，但卻破壞了自然環境。"
+        }
+      ]
+    },
+    {
+      "id": "568",
+      "korean": "피서",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "避暑",
+          "exampleKr": "여름 피서 기간에는 가끔 산 속 개울가에서 보낸다.",
+          "exampleZh": "夏天避暑時偶爾會到山上小溪邊度過。"
+        }
+      ]
+    },
+    {
+      "id": "569",
+      "korean": "가난하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "貧困",
+          "exampleKr": "가난했지만 자기 생활에 충실하여 성공하는 사람을 수 없이 봤다.",
+          "exampleZh": "我看過很多雖然貧困但充實自己生活而成功的人。"
+        }
+      ]
+    },
+    {
+      "id": "570",
+      "korean": "강조하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "強調",
+          "exampleKr": "미리미리 준비하는 습관은 여러 번 강조해도 지나치지 않는다.",
+          "exampleZh": "提前準備的習慣，強調幾次也不為過。"
+        }
+      ]
+    },
+    {
+      "id": "571",
+      "korean": "강제",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "強迫",
+          "exampleKr": "아이를 강제로 공부시킨다고 다 잘 되는 것은 아니다.",
+          "exampleZh": "強迫讓孩子念書不見得都有好的結果。"
+        }
+      ]
+    },
+    {
+      "id": "572",
+      "korean": "비법",
+      "pronunciation": "비뻡",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "祕訣",
+          "exampleKr": "피부가 아름다운 비법을 꼭 좀 알려 주세요.",
+          "exampleZh": "請一定要告訴我，皮膚美麗的祕訣。"
+        }
+      ]
+    },
+    {
+      "id": "573",
+      "korean": "가득하다",
+      "pronunciation": "가드카다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "充滿、滿滿",
+          "exampleKr": "집에 꽃이 가득한 것을 보니 좋은 일이 있나 보다.",
+          "exampleZh": "看到家裡滿滿的花，好像有什麼好事。"
+        }
+      ]
+    },
+    {
+      "id": "574",
+      "korean": "피하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "避開",
+          "exampleKr": "어려운 일을 피한다고 해결되는 것은 아니다.",
+          "exampleZh": "逃避很難做的事並非解決之道。"
+        }
+      ]
+    },
+    {
+      "id": "575",
+      "korean": "살리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "救活、拯救",
+          "exampleKr": "오염된 환경을 다시 살리는 일에 우리 모두가 동참해야 한다.",
+          "exampleZh": "我們一同參加救援自然環境的事業。"
+        }
+      ]
+    },
+    {
+      "id": "576",
+      "korean": "감시",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "監視",
+          "exampleKr": "어린이 집에 감시 카메라를 설치하는 것이 의무화되었다.",
+          "exampleZh": "在托兒所設置監視器成為義務。"
+        }
+      ]
+    },
+    {
+      "id": "577",
+      "korean": "기존",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "現有",
+          "exampleKr": "새 대통령이 정치를 하면서 기존의 제도를 거의 다 바꿨다.",
+          "exampleZh": "新總統執政後幾乎換掉了現有的制度。"
+        }
+      ]
+    },
+    {
+      "id": "578",
+      "korean": "냉정하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "冷靜",
+          "exampleKr": "남편 성격은 우유부단하지만 아내 성격은 냉정하다.",
+          "exampleZh": "先生的個性優柔寡斷，但太太的個性很冷靜。"
+        }
+      ]
+    },
+    {
+      "id": "579",
+      "korean": "기초",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "基礎",
+          "exampleKr": "기초를 잘 다지고 끊임없이 공부하면 반드시 합격할 수 있다.",
+          "exampleZh": "如果打好基礎不斷地念書，一定可以及格。"
+        }
+      ]
+    },
+    {
+      "id": "580",
+      "korean": "놀랍다",
+      "pronunciation": "놀랍따",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "驚訝",
+          "exampleKr": "놀랍게도 초급반 학생이 시험에 통과했다.",
+          "exampleZh": "驚訝的是初級班學生都通過了考試。"
+        }
+      ]
+    },
+    {
+      "id": "581",
+      "korean": "비용",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "費用",
+          "exampleKr": "집을 고치고 자동차를 수리하는 데에 비용이 많이 들었다.",
+          "exampleZh": "花了很多錢在整修家裡和車子。"
+        }
+      ]
+    },
+    {
+      "id": "582",
+      "korean": "도리어",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "反而",
+          "exampleKr": "나는 잘못이 없는데 상대방이 도리어 화를 냈다.",
+          "exampleZh": "我沒有做錯但對方反而生氣。"
+        }
+      ]
+    },
+    {
+      "id": "583",
+      "korean": "빼놓다",
+      "pronunciation": "빼노타",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "拔掉",
+          "exampleKr": "안 쓰는 전기제품은 콘센트를 반드시 빼놓아야 한다.",
+          "exampleZh": "不用的電子產品插頭必須拔掉。"
+        }
+      ]
+    },
+    {
+      "id": "584",
+      "korean": "늘리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "使增加、加重",
+          "exampleKr": "정부는 올해부터 부족한 예산을 늘리기 위해 세금을 올린다고 했다.",
+          "exampleZh": "政府表示今年開始為了增加預算將提高稅金。"
+        }
+      ]
+    },
+    {
+      "id": "585",
+      "korean": "늘이다",
+      "pronunciation": "느리다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "拉長、延長",
+          "exampleKr": "그 길은 좁고 짧아서 길게 늘이는 공사를 할 것이다.",
+          "exampleZh": "那條路又窄又短，所以將進行延長的施工。"
+        }
+      ]
+    },
+    {
+      "id": "586",
+      "korean": "단단하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "硬、結實",
+          "exampleKr": "열심히 운동해서 몸이 단단해졌다.",
+          "exampleZh": "因為努力運動，所以身體變得結實。"
+        }
+      ]
+    },
+    {
+      "id": "587",
+      "korean": "법칙",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "規則",
+          "exampleKr": "모든 사회에는 보이지 않는 규율과 법칙이 있기 마련이다.",
+          "exampleZh": "每個社會自然會有看不到的規律及規則。"
+        }
+      ]
+    },
+    {
+      "id": "588",
+      "korean": "독특하다",
+      "pronunciation": "독트카다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "獨特",
+          "exampleKr": "전시회에는 독특한 작품들이 많이 전시되어있다.",
+          "exampleZh": "展示會中展示很多獨特的作品。"
+        }
+      ]
+    },
+    {
+      "id": "589",
+      "korean": "면하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "避免",
+          "exampleKr": "그는 책임을 면하려고 사고 후에 도망갔다.",
+          "exampleZh": "他為了逃避責任，竟事後逃逸。"
+        }
+      ]
+    },
+    {
+      "id": "590",
+      "korean": "보살피다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "照顧",
+          "exampleKr": "그 교회에는 집이 없는 아이들을 보살피는 부부가 있다.",
+          "exampleZh": "那間教會有對夫妻照顧沒有家庭的孩子。"
+        }
+      ]
+    },
+    {
+      "id": "591",
+      "korean": "단순히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "單純、單一",
+          "exampleKr": "이 회사의 위기는 단순히 한 회사의 문제가 아니다.",
+          "exampleZh": "這家公司的危機不單是一家公司的問題。"
+        }
+      ]
+    },
+    {
+      "id": "592",
+      "korean": "목적지",
+      "pronunciation": "목쩍찌",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "目的地",
+          "exampleKr": "목적지가 눈앞에 있지만 날씨로 인해서 갈 수가 없다.",
+          "exampleZh": "目的地雖近在眼前，但因為天氣而無法過去。"
+        }
+      ]
+    },
+    {
+      "id": "593",
+      "korean": "독하다",
+      "pronunciation": "도카다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "（味道）厚",
+          "exampleKr": "어떤 와인은 소주보다 독하기도 한다.",
+          "exampleZh": "有些紅酒比燒酒味道還厚。"
+        }
+      ]
+    },
+    {
+      "id": "594",
+      "korean": "단점",
+      "pronunciation": "단쩜",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "壞處、缺點",
+          "exampleKr": "회사에서 너무 열심히 일해도 오히려 단점이 될 수 있다.",
+          "exampleZh": "在公司太過努力工作，反而很可能不利於己。"
+        }
+      ]
+    },
+    {
+      "id": "595",
+      "korean": "무려",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "足有",
+          "exampleKr": "10년 전에 비해서 물가가 무려 30퍼센트 이상 높아졌다.",
+          "exampleZh": "比起10年前物價漲了足足有百分之30以上。"
+        }
+      ]
+    },
+    {
+      "id": "596",
+      "korean": "범위",
+      "pronunciation": "버뮈",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "範圍",
+          "exampleKr": "한국어능력시험 중고급 시험은 준비할 범위가 아주 넓은 편이다.",
+          "exampleZh": "韓語檢定考試中高級要準備的範圍可以說非常廣。"
+        }
+      ]
+    },
+    {
+      "id": "597",
+      "korean": "무렵",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "時候",
+          "exampleKr": "잠이 들 무렵 갑자기 친구에게서 전화가 왔다.",
+          "exampleZh": "要入睡的時候，朋友突然打電話過來。"
+        }
+      ]
+    },
+    {
+      "id": "598",
+      "korean": "무리하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "勉強",
+          "exampleKr": "무리하게 일하지 말고 건강을 먼저 생각하세요.",
+          "exampleZh": "別勉強工作，請先考慮（自己的）健康。"
+        }
+      ]
+    },
+    {
+      "id": "599",
+      "korean": "착각",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "錯覺",
+          "exampleKr": "자신이 뚱뚱하다고 착각하는 여자들이 많다고 한다.",
+          "exampleZh": "聽說有很多女生誤以為自己很胖。"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "korean": "무시",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "無視、瞧不起",
+          "exampleKr": "자기와 다른 점이 있다고 다른 사람을 무시하면 안 된다.",
+          "exampleZh": "不可以因為和自己不一樣的人就瞧不起。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-객 / -님",
+    "titleZh": "-客 / 敬稱詞",
+    "description": "「-객」接在部分名詞的後面，表示客人或人；「-님」接在名詞的後面，表示尊敬該對象",
+    "table": [
+      {
+        "kr": "등산객",
+        "zh": "登山客"
+      },
+      {
+        "kr": "승객",
+        "zh": "乘客"
+      },
+      {
+        "kr": "탑승객",
+        "zh": "乘客"
+      },
+      {
+        "kr": "관람객",
+        "zh": "觀覽者"
+      },
+      {
+        "kr": "관객",
+        "zh": "聽眾"
+      },
+      {
+        "kr": "선생님",
+        "zh": "老師"
+      },
+      {
+        "kr": "손님",
+        "zh": "客人"
+      },
+      {
+        "kr": "형님",
+        "zh": "哥哥"
+      },
+      {
+        "kr": "부모님",
+        "zh": "父母"
+      },
+      {
+        "kr": "따님",
+        "zh": "女兒"
+      },
+      {
+        "kr": "누님",
+        "zh": "姊姊"
+      },
+      {
+        "kr": "스님",
+        "zh": "和尚"
+      },
+      {
+        "kr": "아드님",
+        "zh": "兒子"
+      },
+      {
+        "kr": "하느님",
+        "zh": "上帝"
+      }
+    ]
+  }
+}

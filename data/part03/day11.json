@@ -1,0 +1,616 @@
+{
+  "day": 11,
+  "words": [
+    {
+      "id": "401",
+      "korean": "의지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "倚靠",
+          "exampleKr": "특히 해외에 살다 보면 의지할 친구가 필요하기 마련이다.",
+          "exampleZh": "尤其住在國外，一定會有需要倚靠朋友的時候。"
+        },
+        {
+          "chinese": "意志",
+          "exampleKr": "강한 의지로 어려운 시험을 통과했다.",
+          "exampleZh": "以強烈的意志通過很難的考試。"
+        }
+      ]
+    },
+    {
+      "id": "402",
+      "korean": "지능",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "智能、智力",
+          "exampleKr": "지능이 높다고 해서 꼭 공부를 잘 하는 것은 아니다.",
+          "exampleZh": "智力很高不代表一定很會念書。"
+        }
+      ]
+    },
+    {
+      "id": "403",
+      "korean": "판단",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "判斷",
+          "exampleKr": "상황에 맞는 판단으로 모든 사람들이 편리해진다.",
+          "exampleZh": "因時制宜的判斷，讓所有人都方便。"
+        }
+      ]
+    },
+    {
+      "id": "404",
+      "korean": "자동",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "自動",
+          "exampleKr": "요즘은 기계가 자동으로 청소도 하고 설거지도 해 준다.",
+          "exampleZh": "最近機器能自動幫忙打掃洗碗。"
+        }
+      ]
+    },
+    {
+      "id": "405",
+      "korean": "과학",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "科學",
+          "exampleKr": "과학 기술이 발달했다고 생활에 유익하기만 한 것은 아니다.",
+          "exampleZh": "科學發達不代表對生活有益。"
+        }
+      ]
+    },
+    {
+      "id": "406",
+      "korean": "생생하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "歷歷在目、鮮活",
+          "exampleKr": "어릴 적 여기서 놀았던 기억이 아직도 생생하다.",
+          "exampleZh": "小時候在這裡玩的記憶仍歷歷在目。"
+        }
+      ]
+    },
+    {
+      "id": "407",
+      "korean": "고통",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "痛苦",
+          "exampleKr": "고통을 잘 이겨내면 좋은 결과가 올 것이다.",
+          "exampleZh": "好好克服痛苦，就會帶來好的結果。"
+        }
+      ]
+    },
+    {
+      "id": "408",
+      "korean": "뇌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "大腦",
+          "exampleKr": "우리의 뇌는 각각 다양한 기능을 수행하고 있다.",
+          "exampleZh": "我們的大腦負責執行各式各樣的功能。"
+        }
+      ]
+    },
+    {
+      "id": "409",
+      "korean": "달성",
+      "pronunciation": "달썽",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "達成",
+          "exampleKr": "목표 달성을 위해서 5년 동안 꾸준히 준비했다.",
+          "exampleZh": "為了達成目標，努力不懈地準備了5年。"
+        }
+      ]
+    },
+    {
+      "id": "410",
+      "korean": "대비",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "對比",
+          "exampleKr": "신호등은 색채 대비가 뚜렷해서 모두가 잘 구분할 수 있다.",
+          "exampleZh": "紅綠燈色彩對比鮮明，因此大家都可以分得很清楚。"
+        },
+        {
+          "chinese": "預備",
+          "exampleKr": "40대부터 노후를 위해 대비해야 할 필요를 느낀다.",
+          "exampleZh": "感覺從40歲以後，就要為老年生活做準備。"
+        }
+      ]
+    },
+    {
+      "id": "411",
+      "korean": "의존",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "倚靠",
+          "exampleKr": "대학을 졸업하고 일자리가 없어서 계속 부모에 의존하는 젊은이가 늘었다.",
+          "exampleZh": "大學畢業後沒有找到工作，繼續倚靠父母的年輕人變多了。"
+        }
+      ]
+    },
+    {
+      "id": "412",
+      "korean": "기능",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "功能",
+          "exampleKr": "휴대 전화의 각종 기능을 잘 알고 사용하면 편리하다.",
+          "exampleZh": "如果了解手機的各種功能後再使用就會很方便。"
+        }
+      ]
+    },
+    {
+      "id": "413",
+      "korean": "관련",
+      "pronunciation": "괄련",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "相關、關係",
+          "exampleKr": "이 사건은 지역사회 정책 문제와 관련이 있다.",
+          "exampleZh": "這件事情與地域社會政策的問題有關。"
+        }
+      ]
+    },
+    {
+      "id": "414",
+      "korean": "겪다",
+      "pronunciation": "격따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "經歷",
+          "exampleKr": "이런 고통을 겪어 본 사람만이 이해할 수 있다.",
+          "exampleZh": "只有經歷過這種痛苦的人才能理解。"
+        }
+      ]
+    },
+    {
+      "id": "415",
+      "korean": "가렵다",
+      "pronunciation": "가렵따",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "癢",
+          "exampleKr": "어제부터 손이 가렵고 빨개지기 시작했다.",
+          "exampleZh": "從昨天開始手就很癢、變紅。"
+        }
+      ]
+    },
+    {
+      "id": "416",
+      "korean": "잊히다",
+      "pronunciation": "이치다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被忘記",
+          "exampleKr": "어려움을 극복하고 나니 그 일이 금방 잊혀지게 되었다.",
+          "exampleZh": "克服難受的事後，那件事很快就被遺忘了。"
+        }
+      ]
+    },
+    {
+      "id": "417",
+      "korean": "깨어나다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "醒過來",
+          "exampleKr": "아침에 엄마가 부르셔서 달콤한 꿈에서 깨어났다.",
+          "exampleZh": "早上因為媽媽叫我，於是就從美夢中醒來。"
+        }
+      ]
+    },
+    {
+      "id": "418",
+      "korean": "두뇌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "頭腦",
+          "exampleKr": "어린 아이의 두뇌 계발을 위한 여러 가지 연구가 있다.",
+          "exampleZh": "有很多為了小孩頭腦開發的研究。"
+        }
+      ]
+    },
+    {
+      "id": "419",
+      "korean": "로봇",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "機器人",
+          "exampleKr": "최근 어린이들 사이에서 인형 지능 로봇이 대인기다.",
+          "exampleZh": "最近小孩之間人形智能機器人大受歡迎。"
+        }
+      ]
+    },
+    {
+      "id": "420",
+      "korean": "목표",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "目標",
+          "exampleKr": "목표에 도달하기 위해 한 걸음씩 노력하고 있다.",
+          "exampleZh": "為了達到目標一步一步努力中。"
+        }
+      ]
+    },
+    {
+      "id": "421",
+      "korean": "의외",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "意外",
+          "exampleKr": "컨디션이 좋지 않아서 걱정했는데 의외로 시험에 통과했다.",
+          "exampleZh": "因為身體狀況不佳，本來還很擔心，但卻意外的通過了考試。"
+        }
+      ]
+    },
+    {
+      "id": "422",
+      "korean": "의식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "意識、知覺",
+          "exampleKr": "너무 많이 다쳐서 의식을 잃어버렸다.",
+          "exampleZh": "嚴重受傷，失去意識。"
+        },
+        {
+          "chinese": "儀式",
+          "exampleKr": "여행 중 한 교회에 들어가니까 세례 의식을 치르고 있었다.",
+          "exampleZh": "旅行中進去一家教會，正在進行洗禮儀式。"
+        }
+      ]
+    },
+    {
+      "id": "423",
+      "korean": "뚜렷하다",
+      "pronunciation": "뚜려타다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "清楚",
+          "exampleKr": "뚜렷한 목표가 있으면 그 목표를 이룰 가능성도 커진다.",
+          "exampleZh": "如果有清楚的目標，實現的可能性也會變大。"
+        }
+      ]
+    },
+    {
+      "id": "424",
+      "korean": "활발하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "活潑、活躍",
+          "exampleKr": "새벽부터 시장에는 활발하게 움직이고 있는 사람들이 많다.",
+          "exampleZh": "凌晨開始很多人在市場活躍（買賣東西）。"
+        }
+      ]
+    },
+    {
+      "id": "425",
+      "korean": "지금껏",
+      "pronunciation": "지금껌",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "至今",
+          "exampleKr": "최근 모든 사람들의 관심을 끈 사건을 나는 지금껏 모르고 있었다.",
+          "exampleZh": "最近吸引大家注意的事件，我居然至今都不知道。"
+        }
+      ]
+    },
+    {
+      "id": "426",
+      "korean": "관찰",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "觀察",
+          "exampleKr": "어린 학생들이 과학 실험을 하면서 관찰하고 있다.",
+          "exampleZh": "小朋友們一邊做科學實驗一邊觀察。"
+        }
+      ]
+    },
+    {
+      "id": "427",
+      "korean": "향상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "提高",
+          "exampleKr": "듣기 능력 향상을 위해 아침마다 영어 라디오를 듣는다.",
+          "exampleZh": "為了提高聽力能力，每天早上聽英文廣播。"
+        }
+      ]
+    },
+    {
+      "id": "428",
+      "korean": "똑똑히",
+      "pronunciation": "똑또키",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "清楚的、明確的",
+          "exampleKr": "어머니와 함께 여행하던 순간을 똑똑히 기억하고 있다.",
+          "exampleZh": "我清楚地記得和母親旅行的那段時間。"
+        }
+      ]
+    },
+    {
+      "id": "429",
+      "korean": "꺼지다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "熄滅、滅火",
+          "exampleKr": "무대에 불이 꺼지면서 공연이 시작되려고 한다.",
+          "exampleZh": "表演隨著舞台熄燈而開始。"
+        }
+      ]
+    },
+    {
+      "id": "430",
+      "korean": "논리",
+      "pronunciation": "놀리",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "邏輯",
+          "exampleKr": "중요한 발표를 위해 논리에 맞춰서 발표 자료를 정리하고 있다.",
+          "exampleZh": "為了重要的發表，按邏輯整理發表資料。"
+        }
+      ]
+    },
+    {
+      "id": "431",
+      "korean": "의욕",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "慾望、熱情",
+          "exampleKr": "우리 회장님은 연세가 많으시지만 의욕이 넘치신다.",
+          "exampleZh": "我們會長雖然年紀大，但非常熱情。"
+        }
+      ]
+    },
+    {
+      "id": "432",
+      "korean": "이끌다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "帶領、領導",
+          "exampleKr": "대학교 때 동아리를 이끌면서 사람들과의 관계에 대해 많이 배웠다.",
+          "exampleZh": "大學時領導社團，同時學到很多關於人際關係的事。"
+        }
+      ]
+    },
+    {
+      "id": "433",
+      "korean": "지극히",
+      "pronunciation": "지그키",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "極其、至極",
+          "exampleKr": "진짜 꽃이 아님에도 불구하고 지극히 자연스럽다.",
+          "exampleZh": "儘管不是真花但極其自然。"
+        }
+      ]
+    },
+    {
+      "id": "434",
+      "korean": "관심사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "關注的事",
+          "exampleKr": "두 사람은 모두 음악가지만 관심사가 서로 다르다.",
+          "exampleZh": "兩個人雖然都是音樂家，但關注的領域互相不同。"
+        }
+      ]
+    },
+    {
+      "id": "435",
+      "korean": "자라나다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "長大、成長",
+          "exampleKr": "아기가 금방 자라나서 말도 하고 뛰기도 한다.",
+          "exampleZh": "小孩長得很快，可以說話也可以跑。"
+        }
+      ]
+    },
+    {
+      "id": "436",
+      "korean": "깨우다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "喚醒",
+          "exampleKr": "아침마다 창 밖의 새 소리가 우리 가족을 깨운다.",
+          "exampleZh": "每天早上窗外的鳥叫聲叫醒我們家人。"
+        }
+      ]
+    },
+    {
+      "id": "437",
+      "korean": "발달",
+      "pronunciation": "발딸",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "發達",
+          "exampleKr": "휴대 전화의 발달은 못하는 일이 없을 정도로 빠르다.",
+          "exampleZh": "手機發達之快，到了無所不能的程度。"
+        }
+      ]
+    },
+    {
+      "id": "438",
+      "korean": "도자기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "陶瓷器",
+          "exampleKr": "학교에서 새로 사귄 친구들은 도자기를 빚는 취미가 있다.",
+          "exampleZh": "在學校新認識的朋友們都有做陶瓷器的興趣。"
+        }
+      ]
+    },
+    {
+      "id": "439",
+      "korean": "미치다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "發瘋、瘋狂",
+          "exampleKr": "많은 사람들이 그 드라마에 미쳐있다.",
+          "exampleZh": "很多人都很瘋那部連續劇。"
+        },
+        {
+          "chinese": "使……受、給予",
+          "exampleKr": "중국의 도자기가 서양미술에 영향을 미쳤다.",
+          "exampleZh": "中國陶瓷影響了西洋美術。"
+        }
+      ]
+    },
+    {
+      "id": "440",
+      "korean": "반복",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "重複",
+          "exampleKr": "잘 모르는 단어도 반복해서 듣거나 읽으면 금방 외울 수 있다.",
+          "exampleZh": "不認識的單字重複聽或讀的話，很快就可以背起來。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-사",
+    "titleZh": "-社 / -師 / -史",
+    "description": "「-사（社）」接部分名詞，表示公司；「-사（師）」接名詞後面，表示做該名詞的人；「-사（史）」接部分名詞後面，表示歷史",
+    "table": [
+      {
+        "kr": "신문사",
+        "zh": "報社"
+      },
+      {
+        "kr": "방송사",
+        "zh": "廣播電視公司"
+      },
+      {
+        "kr": "회사",
+        "zh": "公司"
+      },
+      {
+        "kr": "출판사",
+        "zh": "出版社"
+      },
+      {
+        "kr": "잡지사",
+        "zh": "雜誌社"
+      },
+      {
+        "kr": "변호사",
+        "zh": "律師"
+      },
+      {
+        "kr": "요리사",
+        "zh": "料理師"
+      },
+      {
+        "kr": "판사",
+        "zh": "法官"
+      },
+      {
+        "kr": "도박사",
+        "zh": "賭徒"
+      },
+      {
+        "kr": "사진사",
+        "zh": "攝影師"
+      },
+      {
+        "kr": "의사",
+        "zh": "醫生"
+      },
+      {
+        "kr": "역사",
+        "zh": "歷史"
+      },
+      {
+        "kr": "서양사",
+        "zh": "西洋史"
+      },
+      {
+        "kr": "미술사",
+        "zh": "美術史"
+      },
+      {
+        "kr": "경제사",
+        "zh": "經濟史"
+      },
+      {
+        "kr": "음악사",
+        "zh": "音樂史"
+      }
+    ]
+  }
+}

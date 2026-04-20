@@ -1,0 +1,574 @@
+{
+  "day": 12,
+  "words": [
+    {
+      "id": "441",
+      "korean": "견디다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "忍受、忍耐",
+          "exampleKr": "머리가 조금 아프지만 잘 견디고 수업을 들어야만 한다.",
+          "exampleZh": "雖然頭有點痛，但只能忍著上課。"
+        }
+      ]
+    },
+    {
+      "id": "442",
+      "korean": "논의",
+      "pronunciation": "노니",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "討論、議論",
+          "exampleKr": "이번 회의에서 논의한 내용은 보고서에서 확인할 수 있다.",
+          "exampleZh": "這次會議討論的內容可以從報告書中確認。"
+        }
+      ]
+    },
+    {
+      "id": "443",
+      "korean": "논쟁",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "爭論",
+          "exampleKr": "두 시간에 걸친 논쟁 끝에 합의에 이르렀다.",
+          "exampleZh": "經過兩個小時的爭論後，終於達成協議。"
+        }
+      ]
+    },
+    {
+      "id": "444",
+      "korean": "결합",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "結合",
+          "exampleKr": "이 두 요소가 결합하면 훌륭한 결과를 도출할 수 있다.",
+          "exampleZh": "這兩種要素結合時，可導出卓越的結果。"
+        }
+      ]
+    },
+    {
+      "id": "445",
+      "korean": "깨지다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "碎、摔壞",
+          "exampleKr": "컵이 깨지면서 파편이 여기저기로 흩어졌다.",
+          "exampleZh": "摔壞杯子時，碎片散落各處。"
+        }
+      ]
+    },
+    {
+      "id": "446",
+      "korean": "발명",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "發明",
+          "exampleKr": "라디오의 발명과 함께 소식이 급속도로 전파될 수 있었다.",
+          "exampleZh": "隨著收音機的發明，消息也能快速傳播。"
+        }
+      ]
+    },
+    {
+      "id": "447",
+      "korean": "분석",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "分析",
+          "exampleKr": "문제의 원인을 분석하면 해결점을 찾을 수 있을지도 모른다.",
+          "exampleZh": "如果分析問題的原因，也許可以找到解決的方法。"
+        }
+      ]
+    },
+    {
+      "id": "448",
+      "korean": "사고방식",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "思考方式",
+          "exampleKr": "할머니 세대와 손자 세대는 사고방식이 서로 다르다.",
+          "exampleZh": "奶奶年代及孫子年代思考方式各不相同。"
+        }
+      ]
+    },
+    {
+      "id": "449",
+      "korean": "도전",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "挑戰",
+          "exampleKr": "새로운 생활에 도전하는 것은 용기가 필요하다.",
+          "exampleZh": "挑戰新的生活需要勇氣。"
+        }
+      ]
+    },
+    {
+      "id": "450",
+      "korean": "리모컨",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "遙控器",
+          "exampleKr": "집안의 모든 전자기기는 리모컨으로 작동시킬 수 있다.",
+          "exampleZh": "家裡所有的電器都能用遙控器啟動。"
+        }
+      ]
+    },
+    {
+      "id": "451",
+      "korean": "드물다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "難得、稀少",
+          "exampleKr": "저 사람은 요즘 드물게 겸손하고 예의 바르다.",
+          "exampleZh": "那個人最近難得謙虛又有禮貌。"
+        }
+      ]
+    },
+    {
+      "id": "452",
+      "korean": "반응",
+      "pronunciation": "바능",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "反應",
+          "exampleKr": "불빛에 대한 반응으로 시력을 테스트하기도 한다.",
+          "exampleZh": "會利用（眼睛）對燈光的反應來檢測視力。"
+        }
+      ]
+    },
+    {
+      "id": "453",
+      "korean": "물질",
+      "pronunciation": "물찔",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "物質",
+          "exampleKr": "우리는 물질을 중시하는 시대에 살고 있다.",
+          "exampleZh": "我們生活在重視物質的時代中。"
+        }
+      ]
+    },
+    {
+      "id": "454",
+      "korean": "밝혀지다",
+      "pronunciation": "발켜지다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被證明",
+          "exampleKr": "이 사건은 우연히 일어난 것으로 밝혀졌다.",
+          "exampleZh": "這件事情經證實為偶然發生的事。"
+        }
+      ]
+    },
+    {
+      "id": "455",
+      "korean": "밝히다",
+      "pronunciation": "발키다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "證明；說開；點亮；照明",
+          "exampleKr": "문제의 진상을 밝히기 위해 많은 사람들이 애썼다.",
+          "exampleZh": "為了證明問題的真相，很多人盡心盡力。"
+        },
+        {
+          "chinese": "公開說明",
+          "exampleKr": "오늘 밤 이 문제에 대해 정부에서 입장을 밝힐 것이다.",
+          "exampleZh": "今晚政府將會對這件事公開說明立場。"
+        },
+        {
+          "chinese": "點亮",
+          "exampleKr": "깜깜한 방에 불을 밝히면 방안을 선명하게 볼 수 있다.",
+          "exampleZh": "漆黑的房間點亮時，房內就可以看得一清二楚。"
+        }
+      ]
+    },
+    {
+      "id": "456",
+      "korean": "보기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "例子、範例",
+          "exampleKr": "문제를 풀기 전에 보기를 참고해 보면 도움이 된다.",
+          "exampleZh": "請先參考範例對於解題有幫助。"
+        }
+      ]
+    },
+    {
+      "id": "457",
+      "korean": "상쾌하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "舒暢",
+          "exampleKr": "맑은 공기를 마시면서 산책하면 상쾌한 기분을 느낀다.",
+          "exampleZh": "一邊呼吸新鮮空氣一邊散步，會感到心情很舒暢。"
+        }
+      ]
+    },
+    {
+      "id": "458",
+      "korean": "연구",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "研究",
+          "exampleKr": "논문을 통해 학자의 깊이 있는 연구 성향을 알 수 있다.",
+          "exampleZh": "透過論文可知研究者的研究取向很有深度。"
+        }
+      ]
+    },
+    {
+      "id": "459",
+      "korean": "영향",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "影響",
+          "exampleKr": "카페인이 수면에 미치는 영향에 대한 연구가 많이 있다.",
+          "exampleZh": "有很多關於咖啡因對睡眠之影響的研究。"
+        }
+      ]
+    },
+    {
+      "id": "460",
+      "korean": "예감",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "預感",
+          "exampleKr": "이번 시험은 통과할 수 있을 것이라는 예감이 든다.",
+          "exampleZh": "（我）有預感我可以通過這次的考試。"
+        }
+      ]
+    },
+    {
+      "id": "461",
+      "korean": "녹다",
+      "pronunciation": "녹따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "融化",
+          "exampleKr": "눈이 오더니 금방 다 녹아 버렸다.",
+          "exampleZh": "一下雪，就馬上融化了。"
+        }
+      ]
+    },
+    {
+      "id": "462",
+      "korean": "발생하다",
+      "pronunciation": "발쌩하다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "發生",
+          "exampleKr": "혼자 해결하기 어려운 문제가 발생할 때마다 이 친구를 찾아간다.",
+          "exampleZh": "每次發生一個人難以解決的問題時，（我）就會去找這個朋友。"
+        }
+      ]
+    },
+    {
+      "id": "463",
+      "korean": "사고하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "思考",
+          "exampleKr": "유치원 때부터 스스로 사고하는 능력을 배양하고 있다.",
+          "exampleZh": "從幼稚園開始培養自己的思考能力。"
+        }
+      ]
+    },
+    {
+      "id": "464",
+      "korean": "순환",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "循環",
+          "exampleKr": "공기가 잘 순환될 수 있도록 문을 활짝 열어 놓으세요.",
+          "exampleZh": "為了空氣容易循環（通風）請把門打開。"
+        }
+      ]
+    },
+    {
+      "id": "465",
+      "korean": "안타까워하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "可惜、心裡難過",
+          "exampleKr": "부모님은 아들을 도와줄 수 없어서 안타까워했다.",
+          "exampleZh": "父母因為幫不了兒子而心裡難過。"
+        }
+      ]
+    },
+    {
+      "id": "466",
+      "korean": "안타깝다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "焦急",
+          "exampleKr": "약속 시간이 늦었는데 버스마저 놓쳐서 정말 안타깝다.",
+          "exampleZh": "約會遲到了，連公車也錯過，真是心急如焚。"
+        }
+      ]
+    },
+    {
+      "id": "467",
+      "korean": "연관",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "相關",
+          "exampleKr": "그가 의사가 된 계기는 가족사와 연관이 있다.",
+          "exampleZh": "他成為醫生的契機與家庭史有關。"
+        }
+      ]
+    },
+    {
+      "id": "468",
+      "korean": "예고",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "預告",
+          "exampleKr": "오늘 행사에 예고 없이 유명한 가수가 등장해서 노래를 불렀다.",
+          "exampleZh": "今天的活動毫無預警地出現名歌手唱歌。"
+        }
+      ]
+    },
+    {
+      "id": "469",
+      "korean": "이론",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "理論",
+          "exampleKr": "그의 연구에는 기존의 이론이 충분히 인용되었다.",
+          "exampleZh": "他的研究充分引用了現有的理論。"
+        }
+      ]
+    },
+    {
+      "id": "470",
+      "korean": "종합",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "綜合",
+          "exampleKr": "그동안의 평가를 종합해 보면 그 수업은 정말 훌륭했다고 본다.",
+          "exampleZh": "綜合過去的評價可知那堂課真的很精彩。"
+        }
+      ]
+    },
+    {
+      "id": "471",
+      "korean": "보급",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "普及",
+          "exampleKr": "각 가정에 전자기기가 보급되면서 생활은 더 편리해졌다.",
+          "exampleZh": "隨著電器普及到各個家庭，生活變得更便利。"
+        }
+      ]
+    },
+    {
+      "id": "472",
+      "korean": "분비되다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "分泌",
+          "exampleKr": "설탕을 과도하게 섭취하면 호르몬이 분비된다.",
+          "exampleZh": "過度攝取糖分，會分泌荷爾蒙。"
+        }
+      ]
+    },
+    {
+      "id": "473",
+      "korean": "사춘기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "青春期",
+          "exampleKr": "사춘기에 가족들의 따뜻한 관심과 대화가 필요하다.",
+          "exampleZh": "青春期需要家人的溫暖關懷以及對話（溝通）。"
+        }
+      ]
+    },
+    {
+      "id": "474",
+      "korean": "실험",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "實驗",
+          "exampleKr": "우리 회사는 신제품 개발을 위해 수많은 실험을 했다.",
+          "exampleZh": "我們公司為開發新產品做了無數的實驗。"
+        }
+      ]
+    },
+    {
+      "id": "475",
+      "korean": "심리",
+      "pronunciation": "심니",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "心理",
+          "exampleKr": "미술로 우리의 심리 상태를 확인해 보고 치료할 수 있다.",
+          "exampleZh": "透過美術可以確認並治療我們的心理狀況。"
+        }
+      ]
+    },
+    {
+      "id": "476",
+      "korean": "외부",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "外部",
+          "exampleKr": "오늘 예고 없이 외부에서 손님이 오셔서 야근을 해야만 한다.",
+          "exampleZh": "今天因為突如其來的外賓，因此只能加班。"
+        }
+      ]
+    },
+    {
+      "id": "477",
+      "korean": "예상",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "預料",
+          "exampleKr": "우리 팀이 강했지만 예상외로 게임에서 졌다.",
+          "exampleZh": "雖然我們隊很強，但出乎意料的輸了比賽。"
+        }
+      ]
+    },
+    {
+      "id": "478",
+      "korean": "익히다",
+      "pronunciation": "이키다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "熟練",
+          "exampleKr": "낮에는 기술을 익히고 밤에는 학교에서 공부하곤 했다.",
+          "exampleZh": "（過去常常）白天熟練技術，晚上去學校念書。"
+        }
+      ]
+    },
+    {
+      "id": "479",
+      "korean": "장애",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "障礙",
+          "exampleKr": "유모차나 자전거에 장애가 되지 않도록 길을 정비했다.",
+          "exampleZh": "為了讓嬰兒車或腳踏車行駛無礙而整頓街道。"
+        }
+      ]
+    },
+    {
+      "id": "480",
+      "korean": "접근",
+      "pronunciation": "접끈",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "接近、抵達",
+          "exampleKr": "이곳은 교통이 편리해서 다른 지역에서의 접근이 용이하다.",
+          "exampleZh": "這個地方交通很方便，所以其他地區容易抵達。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-생",
+    "titleZh": "-出生 / -生",
+    "description": "「-생（出生）」接在日期有關的名詞或干支後面，表示那時出生；「-생（生）」接在名詞後面，表示學生",
+    "table": [
+      {
+        "kr": "1985년생",
+        "zh": "1985年出生"
+      },
+      {
+        "kr": "7월생",
+        "zh": "7月出生"
+      },
+      {
+        "kr": "갑오생",
+        "zh": "甲午年出生"
+      },
+      {
+        "kr": "실습생",
+        "zh": "實習生"
+      },
+      {
+        "kr": "신입생",
+        "zh": "新鮮人"
+      },
+      {
+        "kr": "재학생",
+        "zh": "在學生"
+      },
+      {
+        "kr": "졸업생",
+        "zh": "畢業生"
+      },
+      {
+        "kr": "연구생",
+        "zh": "研究生"
+      }
+    ]
+  }
+}
