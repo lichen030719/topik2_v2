@@ -5,5 +5,12 @@
     "partNameZh": "廣告·圖表",
     "days": [1, 2, 3, 4, 5],
     "folder": "part01"
-  }
+  },
+  {
+  "part": 2,
+  "partName": "경제",
+  "partNameZh": "經濟",
+  "days": [6, 7, 8, 9, 10],
+  "folder": "part02"
+}
 ]
