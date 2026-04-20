@@ -310,78 +310,119 @@ function setupSwipe() {
   const ci   = document.getElementById('ci');
   if (!card) return;
 
-  // sw.swiping = true 表示已偵測到明確水平滑動，此時 click 不翻牌
-  let sw = { x0: 0, y0: 0, dx: 0, dragging: false, swiping: false };
-
-  // ── 翻牌：用獨立 click 事件處理（桌機點擊 & 手機輕觸都會觸發）
-  // 水平滑動時 onMove 呼叫 preventDefault，click 就不會觸發，互不干擾
-  card.addEventListener('click', () => {
-    if (sw.swiping) return;          // 滑動結束後的殘留保護
+  function doFlip() {
     FC.flipped = !FC.flipped;
     FC.flipped ? ci.classList.add('flipped') : ci.classList.remove('flipped');
-  });
+  }
 
-  function onStart(e) {
-    const t = e.touches ? e.touches[0] : e;
-    sw = { x0: t.clientX, y0: t.clientY, dx: 0, dragging: true, swiping: false };
+  function triggerSwipeAnim(know) {
+    card.style.transition = 'transform 0.28s ease, opacity 0.28s ease';
+    card.style.transform  = `translateX(${know ? '160%' : '-160%'}) rotate(${know ? 18 : -18}deg)`;
+    card.style.opacity    = '0';
+    setTimeout(() => doSwipe(know), 270);
+  }
+
+  // ══════════════════════════════════════
+  // 觸控（手機）：touchstart / touchmove / touchend
+  // 輕觸時在 touchend 呼叫 e.preventDefault()，
+  // 阻斷瀏覽器後續產生的合成 mousedown/mouseup/click，
+  // 避免翻牌事件被觸發兩次
+  // ══════════════════════════════════════
+  let touch = { x0: 0, y0: 0, t0: 0, dx: 0, dy: 0, swiping: false };
+
+  card.addEventListener('touchstart', (e) => {
+    const t = e.touches[0];
+    touch = { x0: t.clientX, y0: t.clientY, t0: Date.now(), dx: 0, dy: 0, swiping: false };
     ci.style.transition = 'none';
-  }
+  }, { passive: true });
 
-  function onMove(e) {
-    if (!sw.dragging) return;
-    const t = e.touches ? e.touches[0] : e;
-    const dx = t.clientX - sw.x0;
-    const dy = t.clientY - sw.y0;
-
-    // 明確水平滑動才進入滑卡模式
-    if (Math.abs(dx) > Math.abs(dy) * 0.8 && Math.abs(dx) > 8) {
-      if (e.cancelable) e.preventDefault(); // 阻止 click & 頁面捲動
-      sw.swiping = true;
-      sw.dx = dx;
-      card.style.transform = `translateX(${dx}px) rotate(${dx * 0.07}deg)`;
-      const op = Math.min(Math.abs(dx) / 90, 1);
-      document.getElementById('sw-l').style.opacity = dx < 0 ? op : 0;
-      document.getElementById('sw-r').style.opacity = dx > 0 ? op : 0;
+  card.addEventListener('touchmove', (e) => {
+    const t = e.touches[0];
+    touch.dx = t.clientX - touch.x0;
+    touch.dy = t.clientY - touch.y0;
+    if (Math.abs(touch.dx) > Math.abs(touch.dy) * 0.8 && Math.abs(touch.dx) > 10) {
+      if (e.cancelable) e.preventDefault();
+      touch.swiping = true;
+      card.style.transform = `translateX(${touch.dx}px) rotate(${touch.dx * 0.07}deg)`;
+      const op = Math.min(Math.abs(touch.dx) / 90, 1);
+      document.getElementById('sw-l').style.opacity = touch.dx < 0 ? op : 0;
+      document.getElementById('sw-r').style.opacity = touch.dx > 0 ? op : 0;
     }
-  }
+  }, { passive: false });
 
-  function onEnd() {
-    if (!sw.dragging) return;
-    sw.dragging = false;
+  card.addEventListener('touchend', (e) => {
     ci.style.transition = '';
+    const elapsed   = Date.now() - touch.t0;
+    const totalMove = Math.hypot(touch.dx, touch.dy);
 
-    if (!sw.swiping) {
-      // 沒有水平滑動 → 重置位置（翻牌由 click 事件處理）
+    if (!touch.swiping && totalMove < 12 && elapsed < 400) {
+      // 輕觸：翻牌，並阻斷後續合成 mouse / click 事件
+      e.preventDefault();
       card.style.transform = '';
+      doFlip();
       return;
     }
-
-    // 重置標記（延遲一點讓 click 保護生效）
-    setTimeout(() => { sw.swiping = false; }, 50);
 
     document.getElementById('sw-l').style.opacity = 0;
     document.getElementById('sw-r').style.opacity = 0;
 
-    if (Math.abs(sw.dx) > 85) {
-      const know = sw.dx > 0;
-      card.style.transition = 'transform 0.28s ease, opacity 0.28s ease';
-      card.style.transform  = `translateX(${know ? '160%' : '-160%'}) rotate(${know ? 18 : -18}deg)`;
-      card.style.opacity    = '0';
-      setTimeout(() => doSwipe(know), 270);
+    if (touch.swiping && Math.abs(touch.dx) > 85) {
+      triggerSwipeAnim(touch.dx > 0);
     } else {
       card.style.transition = 'transform 0.35s cubic-bezier(0.34,1.4,0.64,1)';
       card.style.transform  = '';
     }
-  }
+  });
 
-  card.addEventListener('mousedown',  onStart);
-  card.addEventListener('touchstart', onStart, { passive: true });
-  document.addEventListener('mousemove',  onMove);
-  document.addEventListener('touchmove',  onMove, { passive: false });
-  document.addEventListener('mouseup',   onEnd);
-  document.addEventListener('touchend',  onEnd);
+  // ══════════════════════════════════════
+  // 滑鼠（電腦）：mousedown / mousemove / mouseup + click 翻牌
+  // ══════════════════════════════════════
+  let mouse = { x0: 0, y0: 0, dx: 0, dragging: false, swiping: false };
 
-  swipeHandlers = { onMove, onEnd };
+  card.addEventListener('mousedown', (e) => {
+    mouse = { x0: e.clientX, y0: e.clientY, dx: 0, dragging: true, swiping: false };
+    ci.style.transition = 'none';
+  });
+
+  const onMouseMove = (e) => {
+    if (!mouse.dragging) return;
+    mouse.dx      = e.clientX - mouse.x0;
+    const dy      = e.clientY - mouse.y0;
+    if (Math.abs(mouse.dx) > Math.abs(dy) * 0.8 && Math.abs(mouse.dx) > 8) {
+      mouse.swiping = true;
+      card.style.transform = `translateX(${mouse.dx}px) rotate(${mouse.dx * 0.07}deg)`;
+      const op = Math.min(Math.abs(mouse.dx) / 90, 1);
+      document.getElementById('sw-l').style.opacity = mouse.dx < 0 ? op : 0;
+      document.getElementById('sw-r').style.opacity = mouse.dx > 0 ? op : 0;
+    }
+  };
+
+  const onMouseUp = () => {
+    if (!mouse.dragging) return;
+    mouse.dragging = false;
+    ci.style.transition = '';
+    document.getElementById('sw-l').style.opacity = 0;
+    document.getElementById('sw-r').style.opacity = 0;
+
+    if (mouse.swiping && Math.abs(mouse.dx) > 85) {
+      triggerSwipeAnim(mouse.dx > 0);
+    } else if (mouse.swiping) {
+      card.style.transition = 'transform 0.35s cubic-bezier(0.34,1.4,0.64,1)';
+      card.style.transform  = '';
+    }
+    // 非滑動時翻牌交由 click 事件處理
+  };
+
+  // click 翻牌（電腦）：滑動後 swiping=true → 跳過翻牌
+  card.addEventListener('click', () => {
+    if (mouse.swiping) { mouse.swiping = false; return; }
+    doFlip();
+  });
+
+  document.addEventListener('mousemove', onMouseMove);
+  document.addEventListener('mouseup',   onMouseUp);
+
+  swipeHandlers = { onMove: onMouseMove, onEnd: onMouseUp };
 }
 
 function cleanupSwipe() {
