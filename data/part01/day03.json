@@ -1,267 +1,50 @@
 {
-  "day": 3,
+ "day": 3,
   "words": [
-    {
-      "id": "081",
-      "korean": "가능성",
-      "pronunciation": null,
-      "pos": "명",
-      "meanings": [
-        {
-          "chinese": "可能性",
-          "exampleKr": "성공할 가능성이 높다.",
-          "exampleZh": "成功的可能性很高。"
-        }
-      ]
-    },
-    {
-      "id": "082",
-      "korean": "결과",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "結果",
-          "exampleKr": "시험 결과를 확인했다.",
-          "exampleZh": "確認了考試結果。"
-        }
-      ]
-    },
-    {
-      "id": "083",
-      "korean": "결정",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "決定",
-          "exampleKr": "중요한 결정을 내렸다.",
-          "exampleZh": "做出了重要決定。"
-        }
-      ]
-    },
-    {
-      "id": "084",
-      "korean": "경험",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "經驗",
-          "exampleKr": "다양한 경험을 쌓았다.",
-          "exampleZh": "累積了各種經驗。"
-        }
-      ]
-    },
-    {
-      "id": "085",
-      "korean": "계획",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "計畫",
-          "exampleKr": "여행 계획을 세우다.",
-          "exampleZh": "制定旅行計畫。"
-        }
-      ]
-    },
-    {
-      "id": "086",
-      "korean": "과정",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "過程",
-          "exampleKr": "문제 해결 과정이 중요하다.",
-          "exampleZh": "解決問題的過程很重要。"
-        }
-      ]
-    },
-    {
-      "id": "087",
-      "korean": "기회",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "機會",
-          "exampleKr": "좋은 기회를 놓쳤다.",
-          "exampleZh": "錯過了好機會。"
-        }
-      ]
-    },
-    {
-      "id": "088",
-      "korean": "노력",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "努力",
-          "exampleKr": "꾸준히 노력해야 한다.",
-          "exampleZh": "必須持續努力。"
-        }
-      ]
-    },
-    {
-      "id": "089",
-      "korean": "목표",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "目標",
-          "exampleKr": "목표를 이루었다.",
-          "exampleZh": "達成了目標。"
-        }
-      ]
-    },
-    {
-      "id": "090",
-      "korean": "방법",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "方法",
-          "exampleKr": "효율적인 방법을 찾았다.",
-          "exampleZh": "找到有效的方法。"
-        }
-      ]
-    },
+    { "id": "081", "korean": "가능성", "pos": "명", "meanings": [{ "chinese": "可能性", "exampleKr": "성공할 가능성이 높다.", "exampleZh": "成功的可能性很高。" }] },
+    { "id": "082", "korean": "결과", "pos": "명", "meanings": [{ "chinese": "結果", "exampleKr": "시험 결과를 확인했다.", "exampleZh": "確認了考試結果。" }] },
+    { "id": "083", "korean": "결정", "pos": "명", "meanings": [{ "chinese": "決定", "exampleKr": "중요한 결정을 내렸다.", "exampleZh": "做出了重要決定。" }] },
+    { "id": "084", "korean": "경험", "pos": "명", "meanings": [{ "chinese": "經驗", "exampleKr": "다양한 경험을 쌓았다.", "exampleZh": "累積了各種經驗。" }] },
+    { "id": "085", "korean": "계획", "pos": "명", "meanings": [{ "chinese": "計畫", "exampleKr": "여행 계획을 세우다.", "exampleZh": "制定旅行計畫。" }] },
+    { "id": "086", "korean": "과정", "pos": "명", "meanings": [{ "chinese": "過程", "exampleKr": "문제 해결 과정이 중요하다.", "exampleZh": "解決問題的過程很重要。" }] },
+    { "id": "087", "korean": "기회", "pos": "명", "meanings": [{ "chinese": "機會", "exampleKr": "좋은 기회를 놓쳤다.", "exampleZh": "錯過好機會。" }] },
+    { "id": "088", "korean": "노력", "pos": "명", "meanings": [{ "chinese": "努力", "exampleKr": "꾸준히 노력해야 한다.", "exampleZh": "必須持續努力。" }] },
+    { "id": "089", "korean": "목표", "pos": "명", "meanings": [{ "chinese": "目標", "exampleKr": "목표를 이루었다.", "exampleZh": "達成目標。" }] },
+    { "id": "090", "korean": "방법", "pos": "명", "meanings": [{ "chinese": "方法", "exampleKr": "효율적인 방법을 찾았다.", "exampleZh": "找到有效方法。" }] },
 
-    {
-      "id": "091",
-      "korean": "변화하다",
-      "pos": "동",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "改變",
-          "exampleKr": "생활이 많이 변화했다.",
-          "exampleZh": "生活有很大改變。"
-        }
-      ]
-    },
-    {
-      "id": "092",
-      "korean": "비교",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "比較",
-          "exampleKr": "두 제품을 비교하다.",
-          "exampleZh": "比較兩個產品。"
-        }
-      ]
-    },
-    {
-      "id": "093",
-      "korean": "선택",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "選擇",
-          "exampleKr": "중요한 선택을 했다.",
-          "exampleZh": "做出了重要選擇。"
-        }
-      ]
-    },
-    {
-      "id": "094",
-      "korean": "성공",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "成功",
-          "exampleKr": "사업에 성공했다.",
-          "exampleZh": "事業成功了。"
-        }
-      ]
-    },
-    {
-      "id": "095",
-      "korean": "실패",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "失敗",
-          "exampleKr": "실패를 두려워하지 마라.",
-          "exampleZh": "不要害怕失敗。"
-        }
-      ]
-    },
-    {
-      "id": "096",
-      "korean": "영향",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "影響",
-          "exampleKr": "건강에 영향을 준다.",
-          "exampleZh": "會影響健康。"
-        }
-      ]
-    },
-    {
-      "id": "097",
-      "korean": "이유",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "理由",
-          "exampleKr": "그 이유를 설명하다.",
-          "exampleZh": "說明那個理由。"
-        }
-      ]
-    },
-    {
-      "id": "098",
-      "korean": "중요",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "重要",
-          "exampleKr": "시간 관리가 중요하다.",
-          "exampleZh": "時間管理很重要。"
-        }
-      ]
-    },
-    {
-      "id": "099",
-      "korean": "차이점",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "差異點",
-          "exampleKr": "두 문화의 차이점을 이해하다.",
-          "exampleZh": "理解兩種文化的差異。"
-        }
-      ]
-    },
-    {
-      "id": "100",
-      "korean": "특징",
-      "pos": "명",
-      "pronunciation": null,
-      "meanings": [
-        {
-          "chinese": "特徵",
-          "exampleKr": "이 제품의 특징은 가볍다는 것이다.",
-          "exampleZh": "這產品的特點是很輕。"
-        }
-      ]
-    }
+    { "id": "091", "korean": "변화하다", "pos": "동", "meanings": [{ "chinese": "改變", "exampleKr": "생활이 많이 변화했다.", "exampleZh": "生活有很大改變。" }] },
+    { "id": "092", "korean": "비교", "pos": "명", "meanings": [{ "chinese": "比較", "exampleKr": "두 제품을 비교하다.", "exampleZh": "比較兩個產品。" }] },
+    { "id": "093", "korean": "선택", "pos": "명", "meanings": [{ "chinese": "選擇", "exampleKr": "중요한 선택을 했다.", "exampleZh": "做出重要選擇。" }] },
+    { "id": "094", "korean": "성공", "pos": "명", "meanings": [{ "chinese": "成功", "exampleKr": "사업에 성공했다.", "exampleZh": "事業成功。" }] },
+    { "id": "095", "korean": "실패", "pos": "명", "meanings": [{ "chinese": "失敗", "exampleKr": "실패를 두려워하지 마라.", "exampleZh": "不要害怕失敗。" }] },
+    { "id": "096", "korean": "영향", "pos": "명", "meanings": [{ "chinese": "影響", "exampleKr": "건강에 영향을 준다.", "exampleZh": "會影響健康。" }] },
+    { "id": "097", "korean": "이유", "pos": "명", "meanings": [{ "chinese": "理由", "exampleKr": "그 이유를 설명하다.", "exampleZh": "說明理由。" }] },
+    { "id": "098", "korean": "중요", "pos": "명", "meanings": [{ "chinese": "重要", "exampleKr": "시간 관리가 중요하다.", "exampleZh": "時間管理很重要。" }] },
+    { "id": "099", "korean": "차이점", "pos": "명", "meanings": [{ "chinese": "差異", "exampleKr": "차이점을 이해하다.", "exampleZh": "理解差異。" }] },
+    { "id": "100", "korean": "특징", "pos": "명", "meanings": [{ "chinese": "特徵", "exampleKr": "제품 특징을 설명하다.", "exampleZh": "說明產品特點。" }] },
+
+    { "id": "101", "korean": "관계", "pos": "명", "meanings": [{ "chinese": "關係", "exampleKr": "두 나라의 관계가 좋다.", "exampleZh": "兩國關係很好。" }] },
+    { "id": "102", "korean": "기능", "pos": "명", "meanings": [{ "chinese": "功能", "exampleKr": "이 앱은 다양한 기능이 있다.", "exampleZh": "這個App有多種功能。" }] },
+    { "id": "103", "korean": "내용", "pos": "명", "meanings": [{ "chinese": "內容", "exampleKr": "내용을 정리하다.", "exampleZh": "整理內容。" }] },
+    { "id": "104", "korean": "단계", "pos": "명", "meanings": [{ "chinese": "階段", "exampleKr": "다음 단계로 넘어가다.", "exampleZh": "進入下一階段。" }] },
+    { "id": "105", "korean": "문제점", "pos": "명", "meanings": [{ "chinese": "問題點", "exampleKr": "문제점을 분석하다.", "exampleZh": "分析問題點。" }] },
+    { "id": "106", "korean": "방식", "pos": "명", "meanings": [{ "chinese": "方式", "exampleKr": "새로운 방식을 도입하다.", "exampleZh": "導入新方式。" }] },
+    { "id": "107", "korean": "상황", "pos": "명", "meanings": [{ "chinese": "情況", "exampleKr": "상황을 이해하다.", "exampleZh": "理解情況。" }] },
+    { "id": "108", "korean": "성장하다", "pos": "동", "meanings": [{ "chinese": "成長", "exampleKr": "기업이 빠르게 성장했다.", "exampleZh": "企業快速成長。" }] },
+    { "id": "109", "korean": "요소", "pos": "명", "meanings": [{ "chinese": "要素", "exampleKr": "성공 요소를 분석하다.", "exampleZh": "分析成功要素。" }] },
+    { "id": "110", "korean": "이해하다", "pos": "동", "meanings": [{ "chinese": "理解", "exampleKr": "내용을 이해하다.", "exampleZh": "理解內容。" }] },
+
+    { "id": "111", "korean": "적용하다", "pos": "동", "meanings": [{ "chinese": "應用", "exampleKr": "기술을 적용하다.", "exampleZh": "應用技術。" }] },
+    { "id": "112", "korean": "전략", "pos": "명", "meanings": [{ "chinese": "策略", "exampleKr": "전략을 세우다.", "exampleZh": "制定策略。" }] },
+    { "id": "113", "korean": "조사하다", "pos": "동", "meanings": [{ "chinese": "調查", "exampleKr": "시장을 조사하다.", "exampleZh": "調查市場。" }] },
+    { "id": "114", "korean": "중심", "pos": "명", "meanings": [{ "chinese": "中心", "exampleKr": "고객 중심으로 생각하다.", "exampleZh": "以顧客為中心思考。" }] },
+    { "id": "115", "korean": "차이", "pos": "명", "meanings": [{ "chinese": "差異", "exampleKr": "문화 차이가 있다.", "exampleZh": "有文化差異。" }] },
+    { "id": "116", "korean": "특성", "pos": "명", "meanings": [{ "chinese": "特性", "exampleKr": "제품 특성을 분석하다.", "exampleZh": "分析產品特性。" }] },
+    { "id": "117", "korean": "판단", "pos": "명", "meanings": [{ "chinese": "判斷", "exampleKr": "올바른 판단이 필요하다.", "exampleZh": "需要正確判斷。" }] },
+    { "id": "118", "korean": "해결", "pos": "명", "meanings": [{ "chinese": "解決", "exampleKr": "문제를 해결하다.", "exampleZh": "解決問題。" }] },
+    { "id": "119", "korean": "효과적", "pos": "형", "meanings": [{ "chinese": "有效的", "exampleKr": "효과적인 방법이다.", "exampleZh": "是有效的方法。" }] },
+    { "id": "120", "korean": "활용하다", "pos": "동", "meanings": [{ "chinese": "活用", "exampleKr": "데이터를 활용하다.", "exampleZh": "活用數據。" }] }
+
   ],
 
   "tip": {
