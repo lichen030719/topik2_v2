@@ -1,0 +1,550 @@
+{
+  "day": 5,
+  "words": [
+    {
+      "id": "161",
+      "korean": "경쟁",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "競爭",
+          "exampleKr": "기업 간 경쟁이 치열하다.",
+          "exampleZh": "企業之間的競爭非常激烈。"
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "korean": "구성",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "構成",
+          "exampleKr": "팀을 구성하다.",
+          "exampleZh": "組成團隊。"
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "korean": "기반",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "基礎、基盤",
+          "exampleKr": "데이터 기반 분석을 진행하다.",
+          "exampleZh": "進行以數據為基礎的分析。"
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "korean": "도전",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "挑戰",
+          "exampleKr": "새로운 도전을 시작했다.",
+          "exampleZh": "開始新的挑戰。"
+        }
+      ]
+    },
+    {
+      "id": "165",
+      "korean": "목적",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "目的",
+          "exampleKr": "목적을 분명히 하다.",
+          "exampleZh": "明確目的。"
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "korean": "방향",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "方向",
+          "exampleKr": "발전 방향을 설정하다.",
+          "exampleZh": "設定發展方向。"
+        }
+      ]
+    },
+    {
+      "id": "167",
+      "korean": "성과",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "成果",
+          "exampleKr": "연구 성과를 발표하다.",
+          "exampleZh": "發表研究成果。"
+        }
+      ]
+    },
+    {
+      "id": "168",
+      "korean": "수단",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "手段",
+          "exampleKr": "효과적인 수단을 찾다.",
+          "exampleZh": "尋找有效手段。"
+        }
+      ]
+    },
+    {
+      "id": "169",
+      "korean": "역할",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "角色、作用",
+          "exampleKr": "팀에서 중요한 역할을 맡다.",
+          "exampleZh": "在團隊中擔任重要角色。"
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "korean": "원인",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "原因",
+          "exampleKr": "문제의 원인을 찾다.",
+          "exampleZh": "找出問題原因。"
+        }
+      ]
+    },
+
+    {
+      "id": "171",
+      "korean": "의미",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "意義",
+          "exampleKr": "이 연구는 큰 의미가 있다.",
+          "exampleZh": "這項研究具有重大意義。"
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "korean": "이용",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "利用",
+          "exampleKr": "기술을 적극적으로 이용하다.",
+          "exampleZh": "積極利用技術。"
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "korean": "자원",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "資源",
+          "exampleKr": "자원을 효율적으로 사용하다.",
+          "exampleZh": "有效利用資源。"
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "korean": "전개",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "展開",
+          "exampleKr": "논리를 전개하다.",
+          "exampleZh": "展開論述。"
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "korean": "조건",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "條件",
+          "exampleKr": "조건을 충족하다.",
+          "exampleZh": "滿足條件。"
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "korean": "중심",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "中心",
+          "exampleKr": "고객 중심 전략을 세우다.",
+          "exampleZh": "制定以顧客為中心的策略。"
+        }
+      ]
+    },
+    {
+      "id": "177",
+      "korean": "차별",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "差別",
+          "exampleKr": "차별을 없애야 한다.",
+          "exampleZh": "必須消除歧視。"
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "korean": "측정",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "測量",
+          "exampleKr": "성과를 측정하다.",
+          "exampleZh": "測量成果。"
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "korean": "평균",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "平均",
+          "exampleKr": "평균 점수를 계산하다.",
+          "exampleZh": "計算平均分數。"
+        }
+      ]
+    },
+    {
+      "id": "180",
+      "korean": "확보",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "確保",
+          "exampleKr": "안전성을 확보하다.",
+          "exampleZh": "確保安全性。"
+        }
+      ]
+    },
+
+    {
+      "id": "181",
+      "korean": "가능",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "可能",
+          "exampleKr": "실현 가능성이 높다.",
+          "exampleZh": "實現可能性很高。"
+        }
+      ]
+    },
+    {
+      "id": "182",
+      "korean": "구체",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "具體",
+          "exampleKr": "구체적인 계획이 필요하다.",
+          "exampleZh": "需要具體計畫。"
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "korean": "기준점",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "基準點",
+          "exampleKr": "기준점을 설정하다.",
+          "exampleZh": "設定基準點。"
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "korean": "논리",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "邏輯",
+          "exampleKr": "논리를 강화하다.",
+          "exampleZh": "強化邏輯。"
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "korean": "목적성",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "目的性",
+          "exampleKr": "목적성이 분명하다.",
+          "exampleZh": "目的性很明確。"
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "korean": "변수",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "變數",
+          "exampleKr": "여러 변수를 고려하다.",
+          "exampleZh": "考慮多個變數。"
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "korean": "분류",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "分類",
+          "exampleKr": "데이터를 분류하다.",
+          "exampleZh": "分類數據。"
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "korean": "설정",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "設定",
+          "exampleKr": "목표를 설정하다.",
+          "exampleZh": "設定目標。"
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "korean": "요약",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "摘要",
+          "exampleKr": "내용을 요약하다.",
+          "exampleZh": "摘要內容。"
+        }
+      ]
+    },
+    {
+      "id": "190",
+      "korean": "전환",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "轉換",
+          "exampleKr": "방식을 전환하다.",
+          "exampleZh": "轉換方式。"
+        }
+      ]
+    },
+
+    {
+      "id": "191",
+      "korean": "증가",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "增加",
+          "exampleKr": "매출이 증가했다.",
+          "exampleZh": "營收增加了。"
+        }
+      ]
+    },
+    {
+      "id": "192",
+      "korean": "지속",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "持續",
+          "exampleKr": "성장을 지속하다.",
+          "exampleZh": "持續成長。"
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "korean": "집중",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "集中",
+          "exampleKr": "연구에 집중하다.",
+          "exampleZh": "專注研究。"
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "korean": "확장",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "擴張",
+          "exampleKr": "사업을 확장하다.",
+          "exampleZh": "擴展事業。"
+        }
+      ]
+    },
+    {
+      "id": "195",
+      "korean": "형태",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "形態",
+          "exampleKr": "다양한 형태가 존재한다.",
+          "exampleZh": "存在各種形式。"
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "korean": "효과성",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "效果性",
+          "exampleKr": "정책의 효과성을 분석하다.",
+          "exampleZh": "分析政策的效果性。"
+        }
+      ]
+    },
+    {
+      "id": "197",
+      "korean": "현상",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "現象",
+          "exampleKr": "사회 현상을 연구하다.",
+          "exampleZh": "研究社會現象。"
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "korean": "확인",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "確認",
+          "exampleKr": "결과를 확인하다.",
+          "exampleZh": "確認結果。"
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "korean": "활동",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "活動",
+          "exampleKr": "다양한 활동에 참여하다.",
+          "exampleZh": "參與各種活動。"
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "korean": "흐름",
+      "pos": "명",
+      "pronunciation": null,
+      "meanings": [
+        {
+          "chinese": "趨勢、流程",
+          "exampleKr": "시장의 흐름을 파악하다.",
+          "exampleZh": "掌握市場趨勢。"
+        }
+      ]
+    }
+  ],
+
+  "tip": {
+    "title": "-력",
+    "titleZh": "-力",
+    "description": "接在名詞後面，表示能力、力量或某種影響力，是TOPIK常見能力相關詞彙",
+    "table": [
+      { "kr": "능력", "zh": "能力" },
+      { "kr": "경쟁력", "zh": "競爭力" },
+      { "kr": "생산력", "zh": "生產力" },
+      { "kr": "집중력", "zh": "專注力" },
+      { "kr": "판단력", "zh": "判斷力" },
+      { "kr": "표현력", "zh": "表達能力" },
+      { "kr": "이해력", "zh": "理解力" },
+      { "kr": "기억력", "zh": "記憶力" },
+      { "kr": "분석력", "zh": "分析能力" },
+      { "kr": "실행력", "zh": "執行力" },
+      { "kr": "통제력", "zh": "控制力" },
+      { "kr": "적응력", "zh": "適應力" },
+      { "kr": "설득력", "zh": "說服力" },
+      { "kr": "영향력", "zh": "影響力" }
+    ]
+  }
+}
