@@ -12,5 +12,12 @@
   "partNameZh": "經濟",
   "days": [6, 7, 8, 9, 10],
   "folder": "part02"
+},
+  {
+  "part": 3,
+  "partName": "과학·심리",
+  "partNameZh": "科學·心理",
+  "days": [11, 12, 13, 14, 15],
+  "folder": "part03"
 }
 ]
