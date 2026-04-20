@@ -1,0 +1,86 @@
+{
+  "day": 2,
+  "words": [
+    {
+      "id": "021",
+      "korean": "감소하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "減少",
+          "exampleKr": "인구가 점점 감소하고 있다.",
+          "exampleZh": "人口正在逐漸減少。"
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "korean": "증가하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "增加",
+          "exampleKr": "외국인 관광객이 매년 증가하고 있다.",
+          "exampleZh": "外國觀光客每年都在增加。"
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "korean": "비율",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "比率",
+          "exampleKr": "합격 비율이 점점 낮아지고 있다.",
+          "exampleZh": "合格比率正在逐漸降低。"
+        }
+      ]
+    },
+    {
+      "id": "024",
+      "korean": "현황",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "現況",
+          "exampleKr": "현재 취업 현황을 파악하는 것이 중요하다.",
+          "exampleZh": "掌握目前就業現況是很重要的。"
+        }
+      ]
+    },
+    {
+      "id": "025",
+      "korean": "추세",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "趨勢",
+          "exampleKr": "요즘 친환경 제품을 선호하는 추세이다.",
+          "exampleZh": "最近有偏好環保產品的趨勢。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-지",
+    "titleZh": "不…地；表否定",
+    "description": "連結語尾，接動詞／形容詞語幹後，表示否定狀態",
+    "table": [
+      { "kr": "가지 않고",  "zh": "不去地" },
+      { "kr": "하지 않고",  "zh": "不做地" },
+      { "kr": "먹지 않고",  "zh": "不吃地" },
+      { "kr": "보지 않고",  "zh": "不看地" },
+      { "kr": "말하지 않고","zh": "不說地" },
+      { "kr": "오지 않고",  "zh": "不來地" },
+      { "kr": "가지 않다",  "zh": "不去" },
+      { "kr": "하지 않다",  "zh": "不做" },
+      { "kr": "먹지 않다",  "zh": "不吃" }
+    ]
+  }
+}

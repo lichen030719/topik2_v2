@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#F5F4F0">
+  <title>新韓檢字彙 TOPIK II</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600&family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ══ HOME ══ -->
+  <div class="view active" id="view-home">
+    <div class="home-hero">
+      <div class="home-logo">新韓檢字彙</div>
+      <div class="home-tagline">TOPIK II 中高級 · 60天搶分王</div>
+    </div>
+    <div class="stats-row" id="home-stats">
+      <div class="stat-box"><div class="stat-n">—</div><div class="stat-l">總單字</div></div>
+      <div class="stat-box"><div class="stat-n c-accent">—</div><div class="stat-l">已掌握</div></div>
+      <div class="stat-box"><div class="stat-n c-danger">—</div><div class="stat-l">複習池</div></div>
+      <div class="stat-box"><div class="stat-n c-muted">—</div><div class="stat-l">未學習</div></div>
+    </div>
+    <div class="scroll-wrap">
+      <button class="global-btn" id="btn-global-review" style="margin-top:14px;">
+        <span>🔁 全部複習池</span>
+        <span class="badge-count" id="global-count">— 個</span>
+      </button>
+      <div class="sec-label">選擇章節</div>
+      <div class="list-wrap" id="part-list">
+        <div class="loading-wrap" style="padding:40px 0">
+          <div class="spinner"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ PART ══ -->
+  <div class="view" id="view-part">
+    <div class="header">
+      <button class="btn-icon" id="part-back">←</button>
+      <div class="header-center">
+        <div class="header-title" id="part-title"></div>
+        <div class="header-sub"  id="part-sub"></div>
+      </div>
+      <div class="header-right"></div>
+    </div>
+    <div class="scroll-wrap">
+      <div class="list-wrap" id="day-list"></div>
+    </div>
+  </div>
+
+  <!-- ══ DAY MENU ══ -->
+  <div class="view" id="view-day-menu">
+    <div class="header">
+      <button class="btn-icon" id="dmenu-back">←</button>
+      <div class="header-center">
+        <div class="header-title" id="dmenu-title"></div>
+        <div class="header-sub"  id="dmenu-sub"></div>
+      </div>
+      <div class="header-right"></div>
+    </div>
+    <div class="scroll-wrap">
+      <div class="menu-list" id="menu-list"></div>
+    </div>
+  </div>
+
+  <!-- ══ FLASHCARD ══ -->
+  <div class="view" id="view-flashcard">
+    <div class="header">
+      <button class="btn-icon" id="fc-back">←</button>
+      <div class="header-center">
+        <div class="header-title" id="fc-title"></div>
+        <div class="header-sub"  id="fc-prog-txt"></div>
+      </div>
+      <div class="header-right"></div>
+    </div>
+    <div class="progress-strip">
+      <div class="progress-fill" id="fc-bar"></div>
+    </div>
+    <div class="fc-area" id="fc-area"></div>
+    <div class="fc-footer" id="fc-footer">
+      <button class="act-btn btn-unk" id="btn-unk">← 不會</button>
+      <button class="act-btn btn-kn"  id="btn-kn" >我會了 →</button>
+    </div>
+  </div>
+
+  <!-- ══ TIP ══ -->
+  <div class="view" id="view-tip">
+    <div class="header">
+      <button class="btn-icon" id="tip-back">←</button>
+      <div class="header-center">
+        <div class="header-title">考前60分鐘小叮嚀</div>
+        <div class="header-sub" id="tip-label"></div>
+      </div>
+      <div class="header-right"></div>
+    </div>
+    <div class="scroll-wrap">
+      <div class="tip-wrap" id="tip-body"></div>
+    </div>
+  </div>
+
+  <!-- ══ OVERVIEW ══ -->
+  <div class="view" id="view-overview">
+    <div class="header">
+      <button class="btn-icon" id="ov-back">←</button>
+      <div class="header-center">
+        <div class="header-title" id="ov-title"></div>
+        <div class="header-sub"  id="ov-sub"></div>
+      </div>
+      <div class="header-right"></div>
+    </div>
+    <div class="scroll-wrap">
+      <div class="word-list-wrap" id="ov-list"></div>
+    </div>
+  </div>
+
+  <!-- ══ REVIEW POOL ══ -->
+  <div class="view" id="view-review">
+    <div class="header">
+      <button class="btn-icon" id="rv-back">←</button>
+      <div class="header-center">
+        <div class="header-title" id="rv-title"></div>
+        <div class="header-sub"  id="rv-sub"></div>
+      </div>
+      <div class="header-right"></div>
+    </div>
+    <div class="review-start-wrap">
+      <button class="btn-primary" id="rv-start-btn">🔁 開始複習滑卡</button>
+    </div>
+    <div class="scroll-wrap">
+      <div class="word-list-wrap" id="rv-list"></div>
+    </div>
+  </div>
+
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
