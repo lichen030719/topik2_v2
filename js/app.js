@@ -310,11 +310,20 @@ function setupSwipe() {
   const ci   = document.getElementById('ci');
   if (!card) return;
 
-  let sw = { x0: 0, y0: 0, dx: 0, dragging: false, moved: false };
+  // sw.swiping = true 表示已偵測到明確水平滑動，此時 click 不翻牌
+  let sw = { x0: 0, y0: 0, dx: 0, dragging: false, swiping: false };
+
+  // ── 翻牌：用獨立 click 事件處理（桌機點擊 & 手機輕觸都會觸發）
+  // 水平滑動時 onMove 呼叫 preventDefault，click 就不會觸發，互不干擾
+  card.addEventListener('click', () => {
+    if (sw.swiping) return;          // 滑動結束後的殘留保護
+    FC.flipped = !FC.flipped;
+    FC.flipped ? ci.classList.add('flipped') : ci.classList.remove('flipped');
+  });
 
   function onStart(e) {
     const t = e.touches ? e.touches[0] : e;
-    sw = { x0: t.clientX, y0: t.clientY, dx: 0, dragging: true, moved: false };
+    sw = { x0: t.clientX, y0: t.clientY, dx: 0, dragging: true, swiping: false };
     ci.style.transition = 'none';
   }
 
@@ -323,9 +332,11 @@ function setupSwipe() {
     const t = e.touches ? e.touches[0] : e;
     const dx = t.clientX - sw.x0;
     const dy = t.clientY - sw.y0;
-    if (Math.abs(dx) > 4 || Math.abs(dy) > 4) sw.moved = true;
-    if (Math.abs(dx) > Math.abs(dy) * 0.6) {
-      if (e.cancelable) e.preventDefault();
+
+    // 明確水平滑動才進入滑卡模式
+    if (Math.abs(dx) > Math.abs(dy) * 0.8 && Math.abs(dx) > 8) {
+      if (e.cancelable) e.preventDefault(); // 阻止 click & 頁面捲動
+      sw.swiping = true;
       sw.dx = dx;
       card.style.transform = `translateX(${dx}px) rotate(${dx * 0.07}deg)`;
       const op = Math.min(Math.abs(dx) / 90, 1);
@@ -339,14 +350,17 @@ function setupSwipe() {
     sw.dragging = false;
     ci.style.transition = '';
 
-    if (!sw.moved || Math.abs(sw.dx) < 5) {
+    if (!sw.swiping) {
+      // 沒有水平滑動 → 重置位置（翻牌由 click 事件處理）
       card.style.transform = '';
-      document.getElementById('sw-l').style.opacity = 0;
-      document.getElementById('sw-r').style.opacity = 0;
-      FC.flipped = !FC.flipped;
-      FC.flipped ? ci.classList.add('flipped') : ci.classList.remove('flipped');
       return;
     }
+
+    // 重置標記（延遲一點讓 click 保護生效）
+    setTimeout(() => { sw.swiping = false; }, 50);
+
+    document.getElementById('sw-l').style.opacity = 0;
+    document.getElementById('sw-r').style.opacity = 0;
 
     if (Math.abs(sw.dx) > 85) {
       const know = sw.dx > 0;
@@ -357,8 +371,6 @@ function setupSwipe() {
     } else {
       card.style.transition = 'transform 0.35s cubic-bezier(0.34,1.4,0.64,1)';
       card.style.transform  = '';
-      document.getElementById('sw-l').style.opacity = 0;
-      document.getElementById('sw-r').style.opacity = 0;
     }
   }
 
