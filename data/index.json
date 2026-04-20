@@ -26,5 +26,12 @@
   "partNameZh": "教育",
   "days": [16, 17, 18, 19, 20],
   "folder": "part04"
+},
+{
+  "part": 5,
+  "partName": "문화·예술",
+  "partNameZh": "文化·藝術",
+  "days": [21, 22, 23, 24, 25],
+  "folder": "part05"
 }
 ]
