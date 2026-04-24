@@ -1,0 +1,600 @@
+{
+  "day": 30,
+  "words": [
+    {
+      "id": "1161",
+      "korean": "활짝",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "大大、開",
+          "exampleKr": "사진을 찍을 것이니까 활짝 웃어 보세요.",
+          "exampleZh": "拍照請笑開一點。"
+        }
+      ]
+    },
+    {
+      "id": "1162",
+      "korean": "쏟다",
+      "pronunciation": "쏟따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "倒",
+          "exampleKr": "여기에 밀가루를 쏟아서 반죽을 합니다.",
+          "exampleZh": "在這裡倒麵粉之後揉一揉。"
+        }
+      ]
+    },
+    {
+      "id": "1163",
+      "korean": "문서",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "文件",
+          "exampleKr": "이미 사용한 문서는 여기에 넣도록 하세요.",
+          "exampleZh": "已經使用過的文件請放在這裡。"
+        }
+      ]
+    },
+    {
+      "id": "1164",
+      "korean": "안심",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "安心",
+          "exampleKr": "아버지가 항상 나를 지켜봐 주시니까 안심됩니다.",
+          "exampleZh": "爸爸總是守護我，讓我感到很安心。"
+        }
+      ]
+    },
+    {
+      "id": "1165",
+      "korean": "실망",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "失望",
+          "exampleKr": "기대를 크게 할수록 실망도 커집니다.",
+          "exampleZh": "期望越大失望越大。"
+        }
+      ]
+    },
+    {
+      "id": "1166",
+      "korean": "거지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "乞丐",
+          "exampleKr": "오늘 방송에서 거지가 큰 회사의 사장이 된 이야기를 들었다.",
+          "exampleZh": "今天節目中聽了一個乞丐成為大氣老闆（會長）的故事。"
+        }
+      ]
+    },
+    {
+      "id": "1167",
+      "korean": "밀리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "塞（車）；被推；積欠",
+          "exampleKr": "오늘은 비가 와서 차가 더 밀린다.",
+          "exampleZh": "今天下雨，車會更塞。"
+        },
+        {
+          "chinese": "被推",
+          "exampleKr": "출퇴근 시간에 사람들에게 밀려서 정신이 하나도 없다.",
+          "exampleZh": "因為上下班時間被人潮推擠，搞得暈頭轉向（沒什麼精神）。"
+        },
+        {
+          "chinese": "積欠",
+          "exampleKr": "병원비가 밀렸는데 어떻게 지불하지?",
+          "exampleZh": "積欠了醫療費怎麼付好呢？"
+        }
+      ]
+    },
+    {
+      "id": "1168",
+      "korean": "하소연하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "抱怨",
+          "exampleKr": "학생은 선생님이 너무 무서워서 부모님께 하소연을 했습니다.",
+          "exampleZh": "學生很怕老師於是向父母抱怨。"
+        }
+      ]
+    },
+    {
+      "id": "1169",
+      "korean": "묘안",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "好辦法、妙策",
+          "exampleKr": "학생들의 회화 능력을 향상시킬 묘안이 있습니까?",
+          "exampleZh": "有沒有可以讓學生提升會話能力的好辦法？"
+        }
+      ]
+    },
+    {
+      "id": "1170",
+      "korean": "통하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "通",
+          "exampleKr": "집에 바람이 통하도록 창문을 자주 열어 주세요.",
+          "exampleZh": "請常開窗，讓家裡通風。"
+        },
+        {
+          "chinese": "通",
+          "exampleKr": "선생님께 비싼 선물을 하다니 지금은 이런 수법이 통하지 않습니다.",
+          "exampleZh": "現在送貴重的禮物給老師，這樣的手段已經行不通了。"
+        }
+      ]
+    },
+    {
+      "id": "1171",
+      "korean": "살그머니",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "悄悄地",
+          "exampleKr": "밖에서 아이들이 노는 소리를 듣고 살그머니 문을 열었다.",
+          "exampleZh": "在外面聽見孩子們玩樂的聲音，悄悄地打開門。"
+        }
+      ]
+    },
+    {
+      "id": "1172",
+      "korean": "머뭇거리다",
+      "pronunciation": "머물꺼리다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "猶豫",
+          "exampleKr": "왜 교실에 들어가지 않고 여기에서 머뭇거리니?",
+          "exampleZh": "怎麼不進教室，在這裡猶豫不決呢？"
+        }
+      ]
+    },
+    {
+      "id": "1173",
+      "korean": "거칠다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "粗糙",
+          "exampleKr": "거친 땅바닥에서 넘어지지 않도록 조심하세요.",
+          "exampleZh": "地板凹凸不平，小心別跌倒了。"
+        }
+      ]
+    },
+    {
+      "id": "1174",
+      "korean": "차비",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "車費",
+          "exampleKr": "교통카드로 차비를 내려고 했는데 뜻밖에 잔액이 부족했다.",
+          "exampleZh": "原本要用悠遊卡付車費，沒想到餘額不足。"
+        }
+      ]
+    },
+    {
+      "id": "1175",
+      "korean": "흘리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "流；灑",
+          "exampleKr": "감동적인 영화를 보면서 끝내 눈물을 흘렸다.",
+          "exampleZh": "看著感人的電影，最後流下了眼淚。"
+        },
+        {
+          "chinese": "灑",
+          "exampleKr": "밥을 먹다가 음식을 흘려서 옷에 자국이 남았다.",
+          "exampleZh": "吃飯吃到一半食物灑出來，在衣服上留下了痕跡。"
+        }
+      ]
+    },
+    {
+      "id": "1176",
+      "korean": "미루다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "拖延",
+          "exampleKr": "오늘 할 일을 내일로 미루면 안 됩니다.",
+          "exampleZh": "今天該做的事情不可拖延到明天。"
+        }
+      ]
+    },
+    {
+      "id": "1177",
+      "korean": "숲",
+      "pronunciation": "숩",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "森林",
+          "exampleKr": "이 숲에는 각종 동물과 식물이 자란다.",
+          "exampleZh": "這片森林生長了各種動植物。"
+        }
+      ]
+    },
+    {
+      "id": "1178",
+      "korean": "찾아다니다",
+      "pronunciation": "차자다니다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "去找",
+          "exampleKr": "여행을 다닐 때 꼭 맛집을 찾아다닌다.",
+          "exampleZh": "去旅行時一定會去找美食店。"
+        }
+      ]
+    },
+    {
+      "id": "1179",
+      "korean": "원숭이",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "猴子",
+          "exampleKr": "오늘 원숭이를 보러 동물원에 가 보았다.",
+          "exampleZh": "今天去動物園看猴子。"
+        }
+      ]
+    },
+    {
+      "id": "1180",
+      "korean": "험하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "險、崎嶇",
+          "exampleKr": "험한 산을 올라갈 때는 기후 변화에 주의해야 한다.",
+          "exampleZh": "爬崎嶇的山時要注意氣候的變化。"
+        }
+      ]
+    },
+    {
+      "id": "1181",
+      "korean": "헤매다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "失迷、徘徊",
+          "exampleKr": "강아지 한 마리가 이리저리 헤매다가 길을 잃은 모양이다.",
+          "exampleZh": "一隻小狗到處徘徊，好像迷路的樣子。"
+        }
+      ]
+    },
+    {
+      "id": "1182",
+      "korean": "아무런",
+      "pronunciation": null,
+      "pos": "관",
+      "meanings": [
+        {
+          "chinese": "任何、什麼、一點",
+          "exampleKr": "친구가 아무런 말도 없이 이사 가 버렸다.",
+          "exampleZh": "朋友什麼都沒說就搬家了。"
+        }
+      ]
+    },
+    {
+      "id": "1183",
+      "korean": "은혜",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "恩情、恩惠",
+          "exampleKr": "저를 도와주신 은혜를 잊지 않고 꼭 갚겠습니다.",
+          "exampleZh": "你幫忙我的恩情我不會忘記，一定會回報。"
+        }
+      ]
+    },
+    {
+      "id": "1184",
+      "korean": "그림자",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "影子",
+          "exampleKr": "수업 후에 친구들과 그림자 밟기 놀이를 하면서 집으로 왔다.",
+          "exampleZh": "下課後和朋友們一起玩著踩影子的遊戲回家。"
+        }
+      ]
+    },
+    {
+      "id": "1185",
+      "korean": "시절",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "時代",
+          "exampleKr": "학창 시절에는 단 음식을 참 좋아했다.",
+          "exampleZh": "學生時代好喜歡甜的食物。"
+        }
+      ]
+    },
+    {
+      "id": "1186",
+      "korean": "복도",
+      "pronunciation": "복또",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "走廊",
+          "exampleKr": "복도에서 큰 소리로 말하면 다른 사람에게 방해가 됩니다.",
+          "exampleZh": "在走廊講話太大聲會打擾到別人。"
+        }
+      ]
+    },
+    {
+      "id": "1187",
+      "korean": "사라지다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "消失、不見",
+          "exampleKr": "아까까지 여기에 지갑이 있었는데 사라졌다.",
+          "exampleZh": "剛剛皮夾還在這裡，但卻不見了。"
+        }
+      ]
+    },
+    {
+      "id": "1188",
+      "korean": "순식간",
+      "pronunciation": "순식깐",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "一瞬間、一下子",
+          "exampleKr": "너무 배가 고픈 나머지 빵을 순식간에 먹어버렸다.",
+          "exampleZh": "太餓了，麵包一下子就吃掉了。"
+        }
+      ]
+    },
+    {
+      "id": "1189",
+      "korean": "눈빛",
+      "pronunciation": "눈삗",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "眼神",
+          "exampleKr": "말은 통하지 않지만 눈빛으로 항상 인사한다.",
+          "exampleZh": "雖無法溝通，但總是用眼神打招呼。"
+        }
+      ]
+    },
+    {
+      "id": "1190",
+      "korean": "햇살",
+      "pronunciation": "핻쌀",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "光線、陽光",
+          "exampleKr": "아침 햇살을 받으면서 학교에 갑니다.",
+          "exampleZh": "迎著（照者）陽光去學校。"
+        }
+      ]
+    },
+    {
+      "id": "1191",
+      "korean": "찾아내다",
+      "pronunciation": "차자내다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "找到、找出來",
+          "exampleKr": "없어진 지갑을 옷장 안에서 찾아냈다.",
+          "exampleZh": "不見的錢包在衣櫃中找到。"
+        }
+      ]
+    },
+    {
+      "id": "1192",
+      "korean": "복사",
+      "pronunciation": "복싸",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "影印",
+          "exampleKr": "이 문서를 복사한 후에 자리로 가져다주세요.",
+          "exampleZh": "影印這些文件後請拿到我的位子上。"
+        }
+      ]
+    },
+    {
+      "id": "1193",
+      "korean": "순수하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "純粹",
+          "exampleKr": "아이들의 순수한 눈을 보면서 많은 것을 배운다.",
+          "exampleZh": "看著小孩純粹的眼睛學到很多。"
+        }
+      ]
+    },
+    {
+      "id": "1194",
+      "korean": "어느덧",
+      "pronunciation": "어느덛",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "不知不覺間",
+          "exampleKr": "아기가 어느덧 자라서 학교에 들어가게 되었다.",
+          "exampleZh": "寶寶不知不覺間就長大要入學了。"
+        }
+      ]
+    },
+    {
+      "id": "1195",
+      "korean": "의사",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "意思、意見",
+          "exampleKr": "저 사람은 분명하게 자기 의사를 밝힙니다.",
+          "exampleZh": "那個人很清楚地表明自己好意思。"
+        }
+      ]
+    },
+    {
+      "id": "1196",
+      "korean": "인연",
+      "pronunciation": "이년",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "緣分",
+          "exampleKr": "좋은 인연으로 결혼까지 하게 되었습니다.",
+          "exampleZh": "締結良緣。"
+        }
+      ]
+    },
+    {
+      "id": "1197",
+      "korean": "어려워하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "敬畏、難親近",
+          "exampleKr": "학생은 논문 지도 교수님을 어려워하기 마련입니다.",
+          "exampleZh": "學生本來就會感得論文指導教授難親近。"
+        }
+      ]
+    },
+    {
+      "id": "1198",
+      "korean": "청하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "請求、請",
+          "exampleKr": "만약 어려운 일이 생기면 저에게 도움을 청하세요.",
+          "exampleZh": "如果遇到難題，請向我求助。"
+        }
+      ]
+    },
+    {
+      "id": "1199",
+      "korean": "소중히",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "寶貴",
+          "exampleKr": "소중히 여기는 물건은 잘 보관해야 합니다.",
+          "exampleZh": "視為寶貴的物品必須好好保管。"
+        }
+      ]
+    },
+    {
+      "id": "1200",
+      "korean": "문득",
+      "pronunciation": "문뜩",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "突然",
+          "exampleKr": "길에서 엄마가 아기를 안아주는 것을 보다가 문득 우리 엄마가 떠올랐습니다.",
+          "exampleZh": "在路上看到媽媽抱著嬰兒，突然想起我媽媽。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-물 / -류",
+    "titleZh": "-物 / -類",
+    "description": "「-물（物）」表示物質或物品；「-류（類）」表示類別",
+    "table": [
+      {
+        "kr": "분실물",
+        "zh": "失物"
+      },
+      {
+        "kr": "음식물",
+        "zh": "食物"
+      },
+      {
+        "kr": "해산물",
+        "zh": "海鮮、海產"
+      },
+      {
+        "kr": "농산물",
+        "zh": "農產"
+      },
+      {
+        "kr": "불순물",
+        "zh": "雜物"
+      },
+      {
+        "kr": "건어물",
+        "zh": "乾魚貨"
+      },
+      {
+        "kr": "가방류",
+        "zh": "包包類"
+      },
+      {
+        "kr": "의류",
+        "zh": "衣服類"
+      },
+      {
+        "kr": "주류",
+        "zh": "酒類"
+      },
+      {
+        "kr": "야채류",
+        "zh": "蔬菜類"
+      },
+      {
+        "kr": "금속류",
+        "zh": "金屬類"
+      },
+      {
+        "kr": "면류",
+        "zh": "麵食"
+      }
+    ]
+  }
+}

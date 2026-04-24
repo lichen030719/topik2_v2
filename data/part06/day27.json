@@ -1,0 +1,580 @@
+{
+  "day": 27,
+  "words": [
+    {
+      "id": "1041",
+      "korean": "넉넉하다",
+      "pronunciation": "넉너카다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "足夠",
+          "exampleKr": "아직 시간이 넉넉하니까 천천히 준비하세요.",
+          "exampleZh": "時間還足夠，請慢慢準備。"
+        }
+      ]
+    },
+    {
+      "id": "1042",
+      "korean": "억울하다",
+      "pronunciation": "어굴하다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "委屈",
+          "exampleKr": "내가 한 일이 아닌데도 책임을 지라니 정말 억울합니다.",
+          "exampleZh": "不是我做的，卻要我負責真的很委屈。"
+        }
+      ]
+    },
+    {
+      "id": "1043",
+      "korean": "답답하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "悶",
+          "exampleKr": "하루 종일 집에만 있었더니 너무 답답하다.",
+          "exampleZh": "一整天都在家裡（感覺）太悶了。"
+        }
+      ]
+    },
+    {
+      "id": "1044",
+      "korean": "포기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "放棄",
+          "exampleKr": "경기가 끝나갈수록 포기하는 선수들이 많아졌다.",
+          "exampleZh": "比賽快要結束，放棄的選手也變多了。"
+        }
+      ]
+    },
+    {
+      "id": "1045",
+      "korean": "어김없이",
+      "pronunciation": "어김업씨",
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "肯定",
+          "exampleKr": "추운 겨울이 지나며 따뜻한 봄이 어김없이 찾아온다.",
+          "exampleZh": "寒冷的冬天過去，必定會迎來溫暖的春天。"
+        }
+      ]
+    },
+    {
+      "id": "1046",
+      "korean": "외치다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "呼喊",
+          "exampleKr": "힘들 때마다 나는 할 수 있다고 큰 소리로 외쳐 보세요.",
+          "exampleZh": "每當感到辛苦的時候，就大聲呼喊「我可以的」。"
+        }
+      ]
+    },
+    {
+      "id": "1047",
+      "korean": "새침하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "裝蒜、逞強",
+          "exampleKr": "그 소녀는 성격이 새침한 편이다.",
+          "exampleZh": "那個少女的個性比較愛逞強。"
+        }
+      ]
+    },
+    {
+      "id": "1048",
+      "korean": "끈",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "繩子",
+          "exampleKr": "아침에 집을 나서면서 신발 끈을 잘 묶고 나갑니다.",
+          "exampleZh": "早上離家時，綁好鞋帶才出門。"
+        }
+      ]
+    },
+    {
+      "id": "1049",
+      "korean": "겹치다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "重疊",
+          "exampleKr": "여행 중에 만난 한국 사람과 일정이 자주 겹쳤습니다.",
+          "exampleZh": "我常和旅行中遇到的韓國人行程重疊。"
+        }
+      ]
+    },
+    {
+      "id": "1050",
+      "korean": "낙서",
+      "pronunciation": "낙써",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "亂畫、塗鴉",
+          "exampleKr": "교실 벽에 수많은 낙서를 보면서 학창 시절이 생각났다.",
+          "exampleZh": "看著教室牆上無數的塗鴉，讓我想起了學生時代。"
+        }
+      ]
+    },
+    {
+      "id": "1051",
+      "korean": "나르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "搬運、運動",
+          "exampleKr": "이삿짐을 나르느라고 땀을 너무 많이 흘렸다.",
+          "exampleZh": "為了搬運搬家的行李，流了許多汗。"
+        }
+      ]
+    },
+    {
+      "id": "1052",
+      "korean": "부산하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "忙亂",
+          "exampleKr": "연휴 기간 기차역에 사람들이 부산하게 오고 간다.",
+          "exampleZh": "連假期間，火車站的人們熙來攘往（忙亂地來來去去）。"
+        }
+      ]
+    },
+    {
+      "id": "1053",
+      "korean": "기척",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "動靜",
+          "exampleKr": "잠을 자는데 기척도 없이 어머니가 방에 들어오셔서 깜짝 놀랐다.",
+          "exampleZh": "睡覺時媽媽無聲無息（無動靜）地進來房間，嚇了我一跳。"
+        }
+      ]
+    },
+    {
+      "id": "1054",
+      "korean": "박히다",
+      "pronunciation": "바키다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被釘……",
+          "exampleKr": "예수님이 십자가에 못 박혀 돌아가시고 3일만에 살아나셨다.",
+          "exampleZh": "耶穌被釘在十字架上，死去3天而復活。"
+        }
+      ]
+    },
+    {
+      "id": "1055",
+      "korean": "꼼짝",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "動、動彈",
+          "exampleKr": "길거리 공연이 너무 재미있어서 꼼짝도 안하고 계속 봤다.",
+          "exampleZh": "因為街頭表演太有趣了，所以一動也不動地一直看。"
+        }
+      ]
+    },
+    {
+      "id": "1056",
+      "korean": "시동",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "發動、啟動",
+          "exampleKr": "겨울에는 차를 운전하기 전 5분쯤 시동을 걸어 놓는다.",
+          "exampleZh": "冬天開車前約5分鐘會先啟動車子。"
+        }
+      ]
+    },
+    {
+      "id": "1057",
+      "korean": "골목",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "巷子",
+          "exampleKr": "우리 집은 첫 번째 골목으로 들어와서 오른쪽 두 번째 집입니다.",
+          "exampleZh": "我家是第一個巷子進來後，右邊的第二家。"
+        }
+      ]
+    },
+    {
+      "id": "1058",
+      "korean": "우수하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "優秀",
+          "exampleKr": "눈빛을 보니 우수한 학생이라는 것을 금방 알았다.",
+          "exampleZh": "看到眼神馬上就知道是優秀的學生。"
+        }
+      ]
+    },
+    {
+      "id": "1059",
+      "korean": "탓",
+      "pronunciation": "탇",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "怪",
+          "exampleKr": "실패했을 때 남을 탓하지 말고 실망하지도 마세요.",
+          "exampleZh": "失敗時別怪別人，也別失望。"
+        }
+      ]
+    },
+    {
+      "id": "1060",
+      "korean": "담담하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "淡然",
+          "exampleKr": "결과를 담담하게 받아들이고 다음을 준비합시다.",
+          "exampleZh": "淡然接受結果，一起準備下次（機會）吧！"
+        }
+      ]
+    },
+    {
+      "id": "1061",
+      "korean": "허탈하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "空虛",
+          "exampleKr": "반드시 이길 줄 알았는데 져서 아주 허탈하다.",
+          "exampleZh": "原以為一定會贏，卻輸了感到非常空虛。"
+        }
+      ]
+    },
+    {
+      "id": "1062",
+      "korean": "괘씸하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "可恨",
+          "exampleKr": "내가 최선을 다해 도와주었는데 나를 배신해서 괘씸하다.",
+          "exampleZh": "我全心全意幫忙她，她卻背叛了我，真可恨。"
+        }
+      ]
+    },
+    {
+      "id": "1063",
+      "korean": "등교",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "上學",
+          "exampleKr": "우리 학교의 등교 시간은 아침 8시까지, 하교 시간은 오후 3시부터입니다.",
+          "exampleZh": "我們學校早上8點上學，下午3點下課。"
+        }
+      ]
+    },
+    {
+      "id": "1064",
+      "korean": "떼다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "開；啟齒",
+          "exampleKr": "병원에 가서 처방전을 떼어 와야 약을 받을 수 있습니다.",
+          "exampleZh": "去醫院開處方箋才能拿藥。"
+        }
+      ]
+    },
+    {
+      "id": "1065",
+      "korean": "살림",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "生活、家務",
+          "exampleKr": "우리 집 살림은 아버지가 다 맡아서 하신다.",
+          "exampleZh": "我們家的一切日常家務全由爸爸一手操辦。"
+        }
+      ]
+    },
+    {
+      "id": "1066",
+      "korean": "든든하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "踏實",
+          "exampleKr": "항상 엄마, 아빠가 응원해 주셔서 마음이 든든하다.",
+          "exampleZh": "爸媽總是支持我，讓我心裡感到踏實。"
+        }
+      ]
+    },
+    {
+      "id": "1067",
+      "korean": "섭섭하다",
+      "pronunciation": "섭서파다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "遺憾、難過",
+          "exampleKr": "학창 시절에 가장 친했던 친구가 내 이름도 잊어버렸다니 너무 섭섭하다.",
+          "exampleZh": "學生時代最熟的朋友連我的名字都忘了，真是太難過了。"
+        }
+      ]
+    },
+    {
+      "id": "1068",
+      "korean": "곤란하다",
+      "pronunciation": "골란하다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "困難、為難",
+          "exampleKr": "급한 일이 아닌데도 매일 전화하는 친구 때문에 너무 곤란하다.",
+          "exampleZh": "因為不緊急的事還每天打電話的朋友，真令人為難。"
+        }
+      ]
+    },
+    {
+      "id": "1069",
+      "korean": "망설이다",
+      "pronunciation": "망서리다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "猶豫",
+          "exampleKr": "망설이지 말고 원하는 것을 하나 고르세요.",
+          "exampleZh": "別猶豫請選一個自己要的。"
+        }
+      ]
+    },
+    {
+      "id": "1070",
+      "korean": "정성",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "真誠、精心",
+          "exampleKr": "초보 엄마는 온갖 정성을 다해서 아기를 보살폈다.",
+          "exampleZh": "新手媽媽盡心盡力（精心）照顧嬰兒。"
+        }
+      ]
+    },
+    {
+      "id": "1071",
+      "korean": "겁나다",
+      "pronunciation": "검나다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "害怕",
+          "exampleKr": "개가 크게 짖으니까 너무나 겁난다.",
+          "exampleZh": "狗叫得很大聲，我很害怕。"
+        }
+      ]
+    },
+    {
+      "id": "1072",
+      "korean": "전혀",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "完全、全然",
+          "exampleKr": "옆에 친한 친구들이 응원해 주니까 전혀 겁나지 않는다.",
+          "exampleZh": "旁邊有好朋友給我加油，我完全不怕。"
+        }
+      ]
+    },
+    {
+      "id": "1073",
+      "korean": "뛰다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "跑",
+          "exampleKr": "늦지 않으려고 열심히 뛰어서 학교까지 갔다.",
+          "exampleZh": "為了不想遲到，而用跑的到學校去。"
+        }
+      ]
+    },
+    {
+      "id": "1074",
+      "korean": "허공",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "高空、空中",
+          "exampleKr": "연인이 너무 그리운 나머지 허공을 보며 눈물을 흘렸다.",
+          "exampleZh": "因為太思念戀人而望著空中流淚。"
+        }
+      ]
+    },
+    {
+      "id": "1075",
+      "korean": "울리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "響",
+          "exampleKr": "엄격한 선생님의 수업 시간에 갑자기 전화기가 울렸다.",
+          "exampleZh": "在上嚴格老師的課時，手機突然響了。"
+        }
+      ]
+    },
+    {
+      "id": "1076",
+      "korean": "위로",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "安慰",
+          "exampleKr": "이번주는 너무 힘들었는데 노래 한 곡을 통해서 위로를 받았다.",
+          "exampleZh": "這個星期太疲倦，但卻透過一首歌得到了安慰。"
+        }
+      ]
+    },
+    {
+      "id": "1077",
+      "korean": "원망하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "抱怨",
+          "exampleKr": "어릴 때 거울을 보면서 못생겼다고 부모님을 원망하곤 했다.",
+          "exampleZh": "小時候我照鏡子看到自己很醜，所以常常埋怨父母。"
+        }
+      ]
+    },
+    {
+      "id": "1078",
+      "korean": "안도하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "放心",
+          "exampleKr": "선생님이 질문을 하려고 이름을 불렀는데 내가 아니어서 안도했다.",
+          "exampleZh": "老師點名要學生提問，還好不是點到我所以鬆了一口氣。"
+        }
+      ]
+    },
+    {
+      "id": "1079",
+      "korean": "전용",
+      "pronunciation": "저뇽",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "專用",
+          "exampleKr": "이 회사는 사장님 전용 엘리베이터를 운행하고 있다.",
+          "exampleZh": "這家公司有社長專用的電梯。"
+        }
+      ]
+    },
+    {
+      "id": "1080",
+      "korean": "생방송",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "現場直播",
+          "exampleKr": "일년 내내 생방송 연말 콘서트를 기다리고 기다린다.",
+          "exampleZh": "一整年都在等等年底演唱會的現場直播。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-장",
+    "titleZh": "-狀（證書/信件）/ -帳（帳簿）",
+    "description": "「-장（狀）」接在部分名詞的後面，表示證書或信件；「-장（帳）」表示帳簿或筆記本",
+    "table": [
+      {
+        "kr": "초청장",
+        "zh": "邀請函"
+      },
+      {
+        "kr": "초대장",
+        "zh": "邀請函"
+      },
+      {
+        "kr": "도전장",
+        "zh": "挑戰書"
+      },
+      {
+        "kr": "독촉장",
+        "zh": "催繳函"
+      },
+      {
+        "kr": "면허장",
+        "zh": "證照、許可證"
+      },
+      {
+        "kr": "안내장",
+        "zh": "指南書"
+      },
+      {
+        "kr": "연습장",
+        "zh": "練習本"
+      },
+      {
+        "kr": "단어장",
+        "zh": "單字本"
+      },
+      {
+        "kr": "매입장",
+        "zh": "進貨帳本"
+      },
+      {
+        "kr": "출납장",
+        "zh": "出納帳本"
+      },
+      {
+        "kr": "일기장",
+        "zh": "日記本"
+      },
+      {
+        "kr": "알림장",
+        "zh": "聯絡簿"
+      }
+    ]
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "day": 28,
+  "words": [
+    {
+      "id": "1081",
+      "korean": "미처",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "未及、未能",
+          "exampleKr": "내 도움이 오히려 방해가 된다는 것을 미처 생각하지 못했다.",
+          "exampleZh": "事前未能想到我的幫忙反而造成妨礙。"
+        }
+      ]
+    },
+    {
+      "id": "1082",
+      "korean": "막내",
+      "pronunciation": "망내",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "老么",
+          "exampleKr": "나는 우리 집 막내로 태어났다.",
+          "exampleZh": "我是家裡的老么。"
+        }
+      ]
+    },
+    {
+      "id": "1083",
+      "korean": "내보내다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "送出去、趕出去",
+          "exampleKr": "창문을 열었더니 모기가 들어와서 얼른 밖으로 내보냈다.",
+          "exampleZh": "打開窗戶蚊子就飛了進來，得快點趕到外面去。"
+        }
+      ]
+    },
+    {
+      "id": "1084",
+      "korean": "씻기다",
+      "pronunciation": "씯끼다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "給……洗澡",
+          "exampleKr": "잠자기 전에 아기를 꼭 씻긴다.",
+          "exampleZh": "睡前給嬰兒洗澡。"
+        }
+      ]
+    },
+    {
+      "id": "1085",
+      "korean": "고개",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "頭",
+          "exampleKr": "선생님이 화가 많이 나셔서 고개조차 들 수 없었다.",
+          "exampleZh": "因為老師大發雷霆，我們連頭都抬不起來。"
+        }
+      ]
+    },
+    {
+      "id": "1086",
+      "korean": "숙이다",
+      "pronunciation": "수기다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "（把頭）低下",
+          "exampleKr": "몸을 90도로 숙이면서 인사합니다.",
+          "exampleZh": "90度鞠躬打招呼。"
+        }
+      ]
+    },
+    {
+      "id": "1087",
+      "korean": "폭",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "沉；好好",
+          "exampleKr": "아이가 잘못한 일이 있는지 고개를 폭 숙이고 있었다.",
+          "exampleZh": "小孩好像做錯事，頭垂得低低的。"
+        },
+        {
+          "chinese": "好好",
+          "exampleKr": "몸이 아프면 일찍 집에 가서 폭 쉬세요.",
+          "exampleZh": "如果身體不舒服，早點回家好好休息。"
+        }
+      ]
+    },
+    {
+      "id": "1088",
+      "korean": "장난",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "打鬧",
+          "exampleKr": "장난치는 것을 좋아하는 어린 아이를 너무 혼내지 마세요.",
+          "exampleZh": "別太責備喜歡打鬧的小朋友。"
+        }
+      ]
+    },
+    {
+      "id": "1089",
+      "korean": "타이르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "告誡",
+          "exampleKr": "앞으로는 이렇게 하지 말라고 타이르고 타일렀다.",
+          "exampleZh": "多幾次告誡以後別再這麼做。"
+        }
+      ]
+    },
+    {
+      "id": "1090",
+      "korean": "마지막",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "最後",
+          "exampleKr": "오늘이 마지막이라고 여기고 하루를 보람있게 살자.",
+          "exampleZh": "把今天當作最後一天，過個有意義的一天。"
+        }
+      ]
+    },
+    {
+      "id": "1091",
+      "korean": "울먹이다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "要哭、嗚咽",
+          "exampleKr": "엄마에게 전화를 걸어서 보고 싶다고 울먹였다.",
+          "exampleZh": "打電話給媽媽，嗚咽地說想她。"
+        }
+      ]
+    },
+    {
+      "id": "1092",
+      "korean": "순간",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "瞬間、剎那",
+          "exampleKr": "친구에게 전화하려는 순간에 그 친구에게서 전화가 왔다.",
+          "exampleZh": "正要打算打給朋友的瞬間，那個朋友打電話過來了。"
+        }
+      ]
+    },
+    {
+      "id": "1093",
+      "korean": "매",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "棒、棍",
+          "exampleKr": "학교에서 매를 드는 것은 법으로 금지되어 있다.",
+          "exampleZh": "在學校拿棍子是被法律禁止的。"
+        }
+      ]
+    },
+    {
+      "id": "1094",
+      "korean": "떠오르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "想起",
+          "exampleKr": "그 친구의 이름이 갑자기 떠올랐다.",
+          "exampleZh": "突然想起來那個朋友的名字。"
+        }
+      ]
+    },
+    {
+      "id": "1095",
+      "korean": "떠올리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "想出來",
+          "exampleKr": "학창 시절 친구의 별명을 떠올리며 순간 웃었다.",
+          "exampleZh": "想起學生時代朋友的外號就突然（瞬間）笑了起來。"
+        }
+      ]
+    },
+    {
+      "id": "1096",
+      "korean": "빗",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "梳子",
+          "exampleKr": "빗으로 머리를 예쁘게 빗고 학교에 간다.",
+          "exampleZh": "用梳子把頭髮梳漂亮後去學校。"
+        }
+      ]
+    },
+    {
+      "id": "1097",
+      "korean": "빗다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "梳",
+          "exampleKr": "아침마다 엄마는 딸의 머리를 빗어 주면서 이야기를 나눈다.",
+          "exampleZh": "每天早上媽媽邊給女兒梳頭髮邊聊天。"
+        }
+      ]
+    },
+    {
+      "id": "1098",
+      "korean": "빗기다",
+      "pronunciation": "빈끼다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "給……梳頭",
+          "exampleKr": "엄마는 아침에 아이의 머리를 빗길 때 행복하다.",
+          "exampleZh": "媽媽早上給小孩梳頭時，感覺很幸福。"
+        }
+      ]
+    },
+    {
+      "id": "1099",
+      "korean": "서운하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "缺憾、失落",
+          "exampleKr": "올해는 고향에 못 간다고 하니까 어머니는 몹시 서운해 하셨다.",
+          "exampleZh": "我向母親說今年無法返鄉，母親好像非常失落。"
+        }
+      ]
+    },
+    {
+      "id": "1100",
+      "korean": "양보",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "讓步",
+          "exampleKr": "임산부와 어린이에게도 자리를 양보해 주세요.",
+          "exampleZh": "也請讓位給孕婦和孩童。"
+        }
+      ]
+    },
+    {
+      "id": "1101",
+      "korean": "화",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "氣",
+          "exampleKr": "화를 내지 말고 말로 천천히 설명해 보세요.",
+          "exampleZh": "別生氣，請慢慢說明。"
+        }
+      ]
+    },
+    {
+      "id": "1102",
+      "korean": "끌다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "拖",
+          "exampleKr": "신발을 끌고 걷는 것은 예의에 어긋납니다.",
+          "exampleZh": "拖著鞋子走路是不禮貌的。"
+        }
+      ]
+    },
+    {
+      "id": "1103",
+      "korean": "시멘트",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "水泥",
+          "exampleKr": "무너진 벽에 시멘트로 보수 공사를 했다.",
+          "exampleZh": "倒塌的牆用水泥做修補工程。"
+        }
+      ]
+    },
+    {
+      "id": "1104",
+      "korean": "풀리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "鬆；消氣；轉暖",
+          "exampleKr": "나사가 풀리지 않게 꼭 조여 주세요.",
+          "exampleZh": "請幫我拴緊，免得螺絲鬆了。"
+        },
+        {
+          "chinese": "消氣",
+          "exampleKr": "오늘은 화가 좀 풀렸니?",
+          "exampleZh": "今天氣消了點嗎？"
+        },
+        {
+          "chinese": "轉暖",
+          "exampleKr": "이번 주에는 날씨가 풀린다니 공원으로 산책을 나가자.",
+          "exampleZh": "本週會轉暖去公園散步吧。"
+        }
+      ]
+    },
+    {
+      "id": "1105",
+      "korean": "바퀴",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "輪子；圈",
+          "exampleKr": "일정하게 자동차 바퀴도 점검을 해야 합니다.",
+          "exampleZh": "車輪也要固定檢查。"
+        },
+        {
+          "chinese": "圈",
+          "exampleKr": "오늘은 운동장을 두 바퀴 돌았다.",
+          "exampleZh": "今天跑了兩圈運動場。"
+        }
+      ]
+    },
+    {
+      "id": "1106",
+      "korean": "구르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "滾",
+          "exampleKr": "공이 굴러가는 바람에 나도 같이 뛰어갔다.",
+          "exampleZh": "球滾了我也跟著跑。"
+        }
+      ]
+    },
+    {
+      "id": "1107",
+      "korean": "잔소리",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "嘮叨、嘮叨",
+          "exampleKr": "집을 떠나서 혼자 생활하니까 부모님의 잔소리까지 그립다.",
+          "exampleZh": "離開家一個人生活，連父母的嘮叨也很懷念。"
+        }
+      ]
+    },
+    {
+      "id": "1108",
+      "korean": "착오",
+      "pronunciation": "차고",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "錯誤",
+          "exampleKr": "뭐든지 일을 처음 할 때는 시행 착오가 있기 마련이다.",
+          "exampleZh": "不管做什麼事，第一次總是會犯錯。"
+        }
+      ]
+    },
+    {
+      "id": "1109",
+      "korean": "허벅지",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "大腿",
+          "exampleKr": "허벅지에 붕대를 단단히 매고 운동을 시작했다.",
+          "exampleZh": "大腿綁緊繃帶後便開始運動。"
+        }
+      ]
+    },
+    {
+      "id": "1110",
+      "korean": "정강이",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "小腿",
+          "exampleKr": "아이가 넘어지면서 정강이를 다쳤는지 크게 울었다.",
+          "exampleZh": "孩子跌倒小腿好像受傷了，哭得很大聲。"
+        }
+      ]
+    },
+    {
+      "id": "1111",
+      "korean": "거듭",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "反覆",
+          "exampleKr": "그는 이번 일에 대해서 너무 미안하다고 거듭 사과를 했다.",
+          "exampleZh": "他反覆地為這次的事情道歉。"
+        }
+      ]
+    },
+    {
+      "id": "1112",
+      "korean": "일으키다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "讓起來",
+          "exampleKr": "넘어진 아기를 일으키고 눈물을 닦아 주었다.",
+          "exampleZh": "扶起跌倒的小孩，並幫他擦眼淚。"
+        }
+      ]
+    },
+    {
+      "id": "1113",
+      "korean": "벗겨지다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "脫、破",
+          "exampleKr": "넘어지면서 피부가 벗겨져서 피가 났다.",
+          "exampleZh": "跌倒時破皮流血。"
+        }
+      ]
+    },
+    {
+      "id": "1114",
+      "korean": "쓰러지다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "倒",
+          "exampleKr": "오뚝이는 쓰러지면 일어나고 쓰러지면 일어난다.",
+          "exampleZh": "不倒翁倒了會再站起來，倒了會再站起來。"
+        }
+      ]
+    },
+    {
+      "id": "1115",
+      "korean": "어둠",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "黑暗",
+          "exampleKr": "밖은 어느새 어둠이 내렸다.",
+          "exampleZh": "外頭不知不覺間黑夜降臨。"
+        }
+      ]
+    },
+    {
+      "id": "1116",
+      "korean": "눕다",
+      "pronunciation": "눕따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "躺",
+          "exampleKr": "잔디에 누워서 허공을 바라보았다.",
+          "exampleZh": "躺在草地上看天空。"
+        }
+      ]
+    },
+    {
+      "id": "1117",
+      "korean": "돌",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "石頭",
+          "exampleKr": "아이는 손의 느낌이 신기한지 돌을 계속 가지고 논다.",
+          "exampleZh": "孩子好像手感很特別，一直玩石頭。"
+        }
+      ]
+    },
+    {
+      "id": "1118",
+      "korean": "올라서다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "登上、踩在……上",
+          "exampleKr": "계속 계단에 올라서 있으면 넘어질 수도 있습니다.",
+          "exampleZh": "如果一直踩在樓梯上可能會跌倒。"
+        }
+      ]
+    },
+    {
+      "id": "1119",
+      "korean": "어차피",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "反正",
+          "exampleKr": "어차피 지금은 어둠이 깊으니까 내일 날이 밝으면 떠납시다.",
+          "exampleZh": "反正現在已經深夜，明天天亮的時候離開（這裡）吧。"
+        }
+      ]
+    },
+    {
+      "id": "1120",
+      "korean": "흔들다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "揮",
+          "exampleKr": "버스를 타고 집으로 가면서 친구에게 손을 흔들었다.",
+          "exampleZh": "在搭公車回去的路上向朋友揮手。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-지",
+    "titleZh": "-地 / -紙",
+    "description": "「-지（地）」接在地點或動作有關的名詞後面，表示做該事的地方；「-지（紙）」接部分名詞後面，表示紙或報紙",
+    "table": [
+      {
+        "kr": "휴양지",
+        "zh": "渡假地"
+      },
+      {
+        "kr": "유적지",
+        "zh": "遺跡"
+      },
+      {
+        "kr": "기주지",
+        "zh": "居住地"
+      },
+      {
+        "kr": "목적지",
+        "zh": "目的地"
+      },
+      {
+        "kr": "출생지",
+        "zh": "出生地"
+      },
+      {
+        "kr": "경유지",
+        "zh": "中轉站"
+      },
+      {
+        "kr": "설문지",
+        "zh": "問卷"
+      },
+      {
+        "kr": "시험지",
+        "zh": "考卷"
+      },
+      {
+        "kr": "포장지",
+        "zh": "包裝紙"
+      },
+      {
+        "kr": "신문지",
+        "zh": "報紙"
+      },
+      {
+        "kr": "일간지",
+        "zh": "日報"
+      },
+      {
+        "kr": "조간지",
+        "zh": "早報"
+      },
+      {
+        "kr": "석간지",
+        "zh": "晚報"
+      },
+      {
+        "kr": "원고지",
+        "zh": "稿紙"
+      }
+    ]
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "day": 29,
+  "words": [
+    {
+      "id": "1121",
+      "korean": "페달",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "踏板",
+          "exampleKr": "자전거 페달이 고장 난듯하여 수리하는 데에 가져갔다.",
+          "exampleZh": "腳踏車踏板好像壞了，所以帶去修理的地方。"
+        }
+      ]
+    },
+    {
+      "id": "1122",
+      "korean": "밟다",
+      "pronunciation": "밥따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "踩",
+          "exampleKr": "브레이크를 밟아야 하는데 발이 미끄러졌다.",
+          "exampleZh": "應該要踩煞車（的時候）卻腳滑了。"
+        }
+      ]
+    },
+    {
+      "id": "1123",
+      "korean": "밟히다",
+      "pronunciation": "발피다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被踩",
+          "exampleKr": "지하철에 사람이 너무 많은 나머지 발등을 여러 번 밟혔다.",
+          "exampleZh": "地鐵人太多腳背被踩了好幾次。"
+        }
+      ]
+    },
+    {
+      "id": "1124",
+      "korean": "가속",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "加速",
+          "exampleKr": "내리막길에서는 절대로 가속 페달을 밟으면 안됩니다.",
+          "exampleZh": "在斜坡絕對不可以踩加速踏板。"
+        }
+      ]
+    },
+    {
+      "id": "1125",
+      "korean": "지르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "喊叫",
+          "exampleKr": "콘서트를 보면서 좋아서 소리를 너무 질렀더니 목이 아프다.",
+          "exampleZh": "看演唱會時因為太開心而過度喊叫，所以喉嚨很痛。"
+        }
+      ]
+    },
+    {
+      "id": "1126",
+      "korean": "터지다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "爆炸",
+          "exampleKr": "풍선이 터지는 소리에 깜짝 놀랐다.",
+          "exampleZh": "聽到氣球爆炸的聲音嚇了一跳。"
+        }
+      ]
+    },
+    {
+      "id": "1127",
+      "korean": "부풀다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "腫脹、鼓起來",
+          "exampleKr": "아까 심하게 넘어져서 다친 정강이가 부풀기 시작했다.",
+          "exampleZh": "因為剛剛摔得太嚴重，小腿開始腫起來了。"
+        }
+      ]
+    },
+    {
+      "id": "1128",
+      "korean": "사로잡히다",
+      "pronunciation": "사로자피다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "被……侷限住",
+          "exampleKr": "그렇게 편견에 사로잡히지 말고 긍정적으로 보세요.",
+          "exampleZh": "不要被偏見給侷限住，要正向看待。"
+        }
+      ]
+    },
+    {
+      "id": "1129",
+      "korean": "먹먹하다",
+      "pronunciation": "멍머카다",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "耳鳴；難受",
+          "exampleKr": "비행기가 이륙하자 귀가 먹먹해졌다.",
+          "exampleZh": "飛機一起飛就耳鳴了。"
+        },
+        {
+          "chinese": "難受",
+          "exampleKr": "친구가 이민을 가서 앞으로 볼 수 없다니 마음이 먹먹하다.",
+          "exampleZh": "因為朋友移民，想到以後無法見面心裡就感到難受。"
+        }
+      ]
+    },
+    {
+      "id": "1130",
+      "korean": "들뜨다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "心浮氣躁、興奮",
+          "exampleKr": "내일 소풍을 가니까 저녁에 마음이 들떠 잠을 잘 수 없었다.",
+          "exampleZh": "因為明天要去郊遊，晚上興奮得睡不著。"
+        }
+      ]
+    },
+    {
+      "id": "1131",
+      "korean": "홀가분하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "輕鬆",
+          "exampleKr": "고민되는 일을 해결해서 마음이 한결 홀가분하다.",
+          "exampleZh": "煩惱的事解決了，心情更加輕鬆。"
+        }
+      ]
+    },
+    {
+      "id": "1132",
+      "korean": "상처",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "傷口",
+          "exampleKr": "어제 저녁에 상처가 났는데 벌써 아물었다.",
+          "exampleZh": "昨天晚上受的傷已經好了。"
+        }
+      ]
+    },
+    {
+      "id": "1133",
+      "korean": "계약",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "簽約",
+          "exampleKr": "오랜 회의 끝에 계약이 성립되었다.",
+          "exampleZh": "開會開很久，終於簽約了。"
+        }
+      ]
+    },
+    {
+      "id": "1134",
+      "korean": "담요",
+      "pronunciation": "담뇨",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "毛毯",
+          "exampleKr": "추운 날씨에 의자에 앉을 때 담요를 덮으세요.",
+          "exampleZh": "天氣冷的時候坐在椅子上請蓋毛毯。"
+        }
+      ]
+    },
+    {
+      "id": "1135",
+      "korean": "덮다",
+      "pronunciation": "덥따",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "蓋上",
+          "exampleKr": "이 담요는 얇아서 아이와 어른 모두 덮을 수 있습니다.",
+          "exampleZh": "這張毛毯很薄，所以小孩大人都可以蓋。"
+        }
+      ]
+    },
+    {
+      "id": "1136",
+      "korean": "벌어지다",
+      "pronunciation": "버러지다",
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "裂開；發生",
+          "exampleKr": "창문과 창틀을 오랫동안 수리하지 않았더니 틈이 벌어졌다.",
+          "exampleZh": "窗戶和窗框太久沒修，都裂開了。"
+        },
+        {
+          "chinese": "發生",
+          "exampleKr": "밖이 매우 시끄러운 것을 보니 싸움이 벌어진 모양이다.",
+          "exampleZh": "外面很吵，好像是發生了爭執。"
+        }
+      ]
+    },
+    {
+      "id": "1137",
+      "korean": "그만하다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "停止",
+          "exampleKr": "이미 테니스를 오래 쳤으니까 운동은 그만하고 물을 마시세요.",
+          "exampleZh": "網球已經打了很久了，請停下來喝水。"
+        },
+        {
+          "chinese": "那樣",
+          "exampleKr": "그때 전화를 안 받은 것은 그만한 이유가 있다.",
+          "exampleZh": "那時候沒接電話，有我那樣做的理由。"
+        }
+      ]
+    },
+    {
+      "id": "1138",
+      "korean": "일종",
+      "pronunciation": "일종",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "一種",
+          "exampleKr": "이 꽃은 일년 내내 자라는 식물의 일종이다.",
+          "exampleZh": "這種花是全年生長植物的一種。"
+        }
+      ]
+    },
+    {
+      "id": "1139",
+      "korean": "물러나다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "退開；退職",
+          "exampleKr": "지하철이 도착합니다. 뒤로 한 걸음 물러나 주세요.",
+          "exampleZh": "地下鐵即將進站。請後退一步。"
+        },
+        {
+          "chinese": "退職",
+          "exampleKr": "장관님은 이번 일에 책임을 지고 자리에서 물러나셨습니다.",
+          "exampleZh": "部長為這次的事情負責而退了。"
+        }
+      ]
+    },
+    {
+      "id": "1140",
+      "korean": "물러서다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "躲避",
+          "exampleKr": "아이는 동물원의 사자가 무서운지 자꾸 뒤로 물러셨다.",
+          "exampleZh": "在動物園小孩好像怕獅子一直往後躲避。"
+        }
+      ]
+    },
+    {
+      "id": "1141",
+      "korean": "활기",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "朝氣、活力",
+          "exampleKr": "주말 오전 전통 시장은 오가는 사람들로 활기를 띤다.",
+          "exampleZh": "週末早上傳統市場人來人往，充滿活力。"
+        }
+      ]
+    },
+    {
+      "id": "1142",
+      "korean": "차차",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "逐漸",
+          "exampleKr": "지난번에 다친 허벅지는 차차 회복되고 있습니다.",
+          "exampleZh": "上一次受傷的大腿逐漸恢復中。"
+        }
+      ]
+    },
+    {
+      "id": "1143",
+      "korean": "두르다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "圍、摟",
+          "exampleKr": "어깨에 손을 두르고 걷는 것을 보니 연인 사이인가 보다.",
+          "exampleZh": "看他們接著手臂走路，應該是情侶。"
+        }
+      ]
+    },
+    {
+      "id": "1144",
+      "korean": "짜다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "擠；織",
+          "exampleKr": "낭비하지 말고 치약은 조금만 짜서 쓰세요.",
+          "exampleZh": "使用牙膏擠一點就好，別浪費。"
+        },
+        {
+          "chinese": "織",
+          "exampleKr": "목도리를 짜서 친구에게 선물하려고 한다.",
+          "exampleZh": "織圍巾給朋友當禮物。"
+        }
+      ]
+    },
+    {
+      "id": "1145",
+      "korean": "공손하다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "恭敬",
+          "exampleKr": "어른들께 공손한 말로 대답하세요.",
+          "exampleZh": "回答長輩要恭恭敬敬的。"
+        }
+      ]
+    },
+    {
+      "id": "1146",
+      "korean": "구부리다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "彎曲",
+          "exampleKr": "무릎을 구부리고 앉으니까 발이 너무 아픕니다.",
+          "exampleZh": "因為彎著膝蓋坐，腳太痛了。"
+        }
+      ]
+    },
+    {
+      "id": "1147",
+      "korean": "굽히다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "彎；鞠躬",
+          "exampleKr": "이 가위는 손잡이가 굽혀져 있어서 사용이 편리합니다.",
+          "exampleZh": "這把剪刀的把手是彎的，所以使用很方便。"
+        },
+        {
+          "chinese": "鞠躬",
+          "exampleKr": "한국 사람들은 허리를 굽혀서 인사합니다.",
+          "exampleZh": "韓國人對長輩鞠躬打招呼。"
+        }
+      ]
+    },
+    {
+      "id": "1148",
+      "korean": "띠",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "帶；屬（生肖）",
+          "exampleKr": "바지가 많이 크니까 허리띠를 매 주세요.",
+          "exampleZh": "褲子很大請繫腰帶。"
+        },
+        {
+          "chinese": "屬（生肖）",
+          "exampleKr": "띠가 어떻게 되세요?",
+          "exampleZh": "請問你屬什麼（生肖）？"
+        }
+      ]
+    },
+    {
+      "id": "1149",
+      "korean": "띠다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "繫、綁；具有、帶有",
+          "exampleKr": "바지를 입고 허리띠를 띤 후에 모자를 쓴다.",
+          "exampleZh": "穿褲子、繫腰帶後戴上帽子。"
+        },
+        {
+          "chinese": "帶有",
+          "exampleKr": "이 한옥은 현대 기술로 창출할 수 없는 고색을 띠고 있다.",
+          "exampleZh": "這個韓屋具有現代技術無法建造出古色古香（的感覺）。"
+        }
+      ]
+    },
+    {
+      "id": "1150",
+      "korean": "허리띠",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "腰帶",
+          "exampleKr": "어제 새로 산 허리띠가 마음에 듭니다.",
+          "exampleZh": "很喜歡昨天新買的腰帶。"
+        }
+      ]
+    },
+    {
+      "id": "1151",
+      "korean": "땅바닥",
+      "pronunciation": "땅빠닥",
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "地板",
+          "exampleKr": "분필을 가지고 땅바닥에 낙서하면서 논다.",
+          "exampleZh": "用粉筆在地板上畫著玩。"
+        }
+      ]
+    },
+    {
+      "id": "1152",
+      "korean": "맨",
+      "pronunciation": null,
+      "pos": "관",
+      "meanings": [
+        {
+          "chinese": "最；光",
+          "exampleKr": "교실 맨 오른쪽에 파란색 가방이 있습니다.",
+          "exampleZh": "教室最右邊有藍色包包。"
+        },
+        {
+          "chinese": "光（腳）",
+          "exampleKr": "다른 사람의 집을 방문할 때 맨발로 가면 예의가 아니지요?",
+          "exampleZh": "拜訪別人家時光腳去，不太禮貌對吧？"
+        }
+      ]
+    },
+    {
+      "id": "1153",
+      "korean": "커다랗다",
+      "pronunciation": null,
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "巨大",
+          "exampleKr": "이 커다란 사과는 수분이 많고 답니다.",
+          "exampleZh": "這巨大的蘋果水分很多很甜。"
+        }
+      ]
+    },
+    {
+      "id": "1154",
+      "korean": "닮다",
+      "pronunciation": "담따",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "像",
+          "exampleKr": "얼굴도 마음씨도 꼭 엄마를 닮았구나.",
+          "exampleZh": "你的臉和心地都很像你媽媽。"
+        }
+      ]
+    },
+    {
+      "id": "1155",
+      "korean": "곱다",
+      "pronunciation": "곱따",
+      "pos": "형",
+      "meanings": [
+        {
+          "chinese": "美",
+          "exampleKr": "봄이 되자 길가에 꽃이 곱게 피었다.",
+          "exampleZh": "到了春天，路上的花開得很美。"
+        }
+      ]
+    },
+    {
+      "id": "1156",
+      "korean": "마음씨",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "心腸",
+          "exampleKr": "저 아이는 마음씨가 곱고 예의 바르다.",
+          "exampleZh": "那個小孩心腸很美又有禮貌。"
+        }
+      ]
+    },
+    {
+      "id": "1157",
+      "korean": "빛깔",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "色彩",
+          "exampleKr": "한복은 빛깔이 곱고 입으면 치마가 풍성하다.",
+          "exampleZh": "韓服色彩很美，穿起來裙子澎澎的。"
+        }
+      ]
+    },
+    {
+      "id": "1158",
+      "korean": "썩",
+      "pronunciation": null,
+      "pos": "부",
+      "meanings": [
+        {
+          "chinese": "夠、非常",
+          "exampleKr": "외국에서 태어나고 자랐는데도 한국말을 썩 잘한다.",
+          "exampleZh": "在國外出生長大但韓文說得非常好。"
+        }
+      ]
+    },
+    {
+      "id": "1159",
+      "korean": "썩다",
+      "pronunciation": null,
+      "pos": "동",
+      "meanings": [
+        {
+          "chinese": "壞掉",
+          "exampleKr": "음식물 썩는 냄새가 나기 전에 얼른 가져다가 버리세요.",
+          "exampleZh": "在食物發出腐臭味前，快拿去丟掉。"
+        }
+      ]
+    },
+    {
+      "id": "1160",
+      "korean": "잔디밭",
+      "pronunciation": null,
+      "pos": "명",
+      "meanings": [
+        {
+          "chinese": "草地",
+          "exampleKr": "잔디밭에서 공도 차고 독서도 합니다.",
+          "exampleZh": "在草地上踢球也讀書。"
+        }
+      ]
+    }
+  ],
+  "tip": {
+    "title": "-제",
+    "titleZh": "-祭（祭典）/ -劑（藥）",
+    "description": "「-제（祭）」表示祝祭或祭拜；「-제（劑）」表示藥",
+    "table": [
+      {
+        "kr": "추모제",
+        "zh": "追悼會"
+      },
+      {
+        "kr": "축제",
+        "zh": "慶典（祝祭）"
+      },
+      {
+        "kr": "기우제",
+        "zh": "祈雨祭"
+      },
+      {
+        "kr": "예술제",
+        "zh": "藝術節"
+      },
+      {
+        "kr": "영양제",
+        "zh": "營養劑"
+      },
+      {
+        "kr": "진통제",
+        "zh": "鎮痛劑"
+      },
+      {
+        "kr": "치료제",
+        "zh": "治療劑"
+      },
+      {
+        "kr": "수면제",
+        "zh": "安眠藥"
+      },
+      {
+        "kr": "소화제",
+        "zh": "消化劑"
+      },
+      {
+        "kr": "방향제",
+        "zh": "芳香劑"
+      }
+    ]
+  }
+}
